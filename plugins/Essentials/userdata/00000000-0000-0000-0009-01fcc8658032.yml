@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 5.34.71.123
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1674899506449
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675695158869
+  login: 1675692585561
+money: '60168.0'
+last-account-name: .Dilzer6507
+lastlocation:
+  world: c98e554d-a809-467b-a0c6-109999f222aa
+  world-name: world
+  x: 96.45658
+  y: 107.16889
+  z: 192.75911
+  yaw: -72.04092407226562
+  pitch: 89.89999389648438
+logoutlocation:
+  world: c98e554d-a809-467b-a0c6-109999f222aa
+  world-name: world
+  x: 56.071194
+  y: 103.0
+  z: 207.72258
+  yaw: 68.48985290527344
+  pitch: 3.5435638427734375

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 188.124.246.169
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675873300309
+  login: 1675873207673
+money: '0'
+last-account-name: .Invizi1929
+lastlocation:
+  world: c98e554d-a809-467b-a0c6-109999f222aa
+  world-name: world
+  x: -422.34726
+  y: 64.0
+  z: 457.64413
+  yaw: -126.60443115234375
+  pitch: 4.4085693359375
+logoutlocation:
+  world: 281efa87-a9a1-4ea3-8988-1d1d7a3e8195
+  world-name: world
+  x: -27.949705
+  y: 65.0
+  z: 19.80604
+  yaw: 134.15179443359375
+  pitch: 29.429458618164062

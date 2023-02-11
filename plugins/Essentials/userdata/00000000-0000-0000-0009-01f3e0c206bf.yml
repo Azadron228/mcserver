@@ -1,0 +1,43 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 5.34.68.191
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1674747833785
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675601519205
+  login: 1675601101422
+money: '43.52'
+last-account-name: .Azamat5300
+lastlocation:
+  world: c98e554d-a809-467b-a0c6-109999f222aa
+  world-name: world
+  x: 53.531715
+  y: 95.21499633789062
+  z: 193.48807
+  yaw: 157.51776123046875
+  pitch: 18.7786865234375
+logoutlocation:
+  world: c98e554d-a809-467b-a0c6-109999f222aa
+  world-name: world
+  x: 53.86744
+  y: 112.0
+  z: 197.12238
+  yaw: -103.23945617675781
+  pitch: 7.6485443115234375
+powertools:
+  stick:
+  - lightning
+  iron_nugget:
+  - beezooka

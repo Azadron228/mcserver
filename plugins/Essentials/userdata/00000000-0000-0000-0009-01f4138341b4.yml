@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 95.82.119.171
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1676101805074
+  login: 1676101611538
+money: '0'
+last-account-name: .Lerixman12
+logoutlocation:
+  world: 281efa87-a9a1-4ea3-8988-1d1d7a3e8195
+  world-name: world
+  x: 4983.197
+  y: 72.0
+  z: -1297.6036
+  yaw: -172.10594177246094
+  pitch: 26.650299072265625
+lastlocation:
+  world: 281efa87-a9a1-4ea3-8988-1d1d7a3e8195
+  world-name: world
+  x: 4946.186
+  y: 71.0
+  z: -1151.5533
+  yaw: -56.50675964355469
+  pitch: 3.221588134765625
+past-usernames:
+- .BattingSpace875

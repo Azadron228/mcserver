@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 194.230.147.109
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675202342503
+  login: 1675202074586
+money: '184.7200000000000005'
+last-account-name: .RoufenTV228
+logoutlocation:
+  world: ca28b888-86a2-4564-bbaf-26557c309611
+  world-name: world
+  x: 52.71757
+  y: 66.0
+  z: -161.78133
+  yaw: 175.11669921875
+  pitch: 9.830276489257812
+lastlocation:
+  world: 9283c03b-cc8a-4b0e-97b1-122f962770c5
+  world-name: world
+  x: -796.30001
+  y: 64.0
+  z: 199.7488
+  yaw: 54.62022399902344
+  pitch: 38.646209716796875

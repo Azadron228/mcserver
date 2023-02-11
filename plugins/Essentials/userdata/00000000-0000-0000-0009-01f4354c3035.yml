@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 158.181.133.111
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1673108056773
+  login: 1673107278722
+money: '0'
+last-account-name: .ASKAT566
+lastlocation:
+  world: 174df14b-9f86-4daa-beeb-2a1869e6a933
+  world-name: world_the_end
+  x: 32.635643
+  y: 66.02441
+  z: 6.34324
+  yaw: -44.35791015625
+  pitch: 28.122421264648438
+logoutlocation:
+  world: 86abb071-c83d-44e1-9f11-37926775c128
+  world-name: world
+  x: 1132.2214
+  y: -3.4375
+  z: -1246.8279
+  yaw: 30.675689697265625
+  pitch: 37.1126708984375

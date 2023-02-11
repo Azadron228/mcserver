@@ -1,0 +1,40 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 91.193.179.168
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674992209676
+  login: 1674991598736
+money: '0'
+last-account-name: .CookieKing5122
+logoutlocation:
+  world: ca28b888-86a2-4564-bbaf-26557c309611
+  world-name: world
+  x: 71.80031
+  y: 70.16556996423722
+  z: -9.4172125
+  yaw: 168.33453369140625
+  pitch: 89.89999389648438
+past-usernames:
+- .DenTheKur0
+lastlocation:
+  world: ca28b888-86a2-4564-bbaf-26557c309611
+  world-name: world
+  x: 117.375824
+  y: 64.74999996423722
+  z: 6.0648923
+  yaw: -168.10623168945312
+  pitch: 89.89999389648438

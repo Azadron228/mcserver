@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 193.160.227.171
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674983113619
+  login: 1674983080423
+money: '0'
+last-account-name: .LolTNT_174
+logoutlocation:
+  world: ca28b888-86a2-4564-bbaf-26557c309611
+  world-name: world
+  x: 44.69999
+  y: 68.0
+  z: -132.69999
+  yaw: 31.56866455078125
+  pitch: 19.410995483398438

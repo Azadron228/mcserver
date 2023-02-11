@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 212.74.200.207
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674908221460
+  login: 1674908037281
+money: '0'
+last-account-name: .danilGazizov
+logoutlocation:
+  world: ca28b888-86a2-4564-bbaf-26557c309611
+  world-name: world
+  x: 65.324646
+  y: 64.0
+  z: 56.49613
+  yaw: 45.285858154296875
+  pitch: 33.867889404296875

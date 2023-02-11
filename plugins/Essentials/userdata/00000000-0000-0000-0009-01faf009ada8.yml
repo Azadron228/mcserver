@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 92.47.57.43
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675595070911
+  login: 1675593089166
+money: '0'
+last-account-name: .Kajihan2011
+lastlocation:
+  world: c98e554d-a809-467b-a0c6-109999f222aa
+  world-name: world
+  x: 13.772852
+  y: 72.0
+  z: 56.332554
+  yaw: -43.933990478515625
+  pitch: -14.545883178710938
+logoutlocation:
+  world: c98e554d-a809-467b-a0c6-109999f222aa
+  world-name: world
+  x: 71.11602
+  y: 108.0
+  z: 185.96219
+  yaw: -113.46343994140625
+  pitch: 16.34136962890625

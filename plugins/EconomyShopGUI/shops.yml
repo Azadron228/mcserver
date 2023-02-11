@@ -1,0 +1,2929 @@
+#This is the shops.yml configuration, here you can customize every item in the shop how you like.
+
+#You can find all different items/options you can use in the example items.txt file.
+
+#For more information on how to configure this see the wiki of EconomyShopGUI
+#https://gpplugins.gitbook.io/economyshopgui/file-configuration/shops.yml
+
+#==================== Dirt ====================#
+
+Dirt:
+  1:
+    material: DIRT
+    displayname: Dirt
+    buy: 5
+    sell: 0.75
+  2:
+    material: ROOTED_DIRT
+    displayname: Rooted Dirt
+    buy: 5
+    sell: 0.75
+  3:
+    material: GRASS_BLOCK
+    displayname: Grass Block
+    buy: 5
+    sell: 2
+  4:
+    material: GRAVEL
+    displayname: Gravel
+    buy: 5
+    sell: 2
+  5:
+    material: MYCELIUM
+    displayname: Mycelium
+    buy: 40
+    sell: 2
+  6:
+    material: PODZOL
+    displayname: Podzol
+    buy: 40
+    sell: 2
+  7:
+    material: WARPED_NYLIUM
+    displayname: Warped Nylium
+    buy: 20
+    sell: 1.5
+  8:
+    material: CRIMSON_NYLIUM
+    displayname: Crimson Nylium
+    buy: 20
+    sell: 1.5
+  9:
+    material: SOUL_SAND
+    displayname: Soul Sand
+    buy: 40
+    sell: 2.5
+  10:
+    material: CLAY
+    displayname: Clay
+    buy: 40
+    sell: 5.25
+  11:
+    material: RED_SAND
+    displayname: Red Sand
+    buy: 40
+    sell: 2
+  12:
+    material: SAND
+    displayname: Sand
+    buy: 20
+    sell: 1.5
+  13:
+    material: SANDSTONE
+    displayname: Sandstone
+    buy: 20
+    sell: 6.3
+  14:
+    material: SMOOTH_SANDSTONE
+    displayname: Smooth Sandstone
+    buy: 20
+    sell: 6.62
+  15:
+    material: RED_SANDSTONE
+    displayname: Red Sandstone
+    buy: 40
+    sell: 8.4
+  16:
+    material: SMOOTH_RED_SANDSTONE
+    displayname: Smooth Red Sandstone
+    buy: 40
+    sell: 8.82
+  17:
+    material: SNOW_BLOCK
+    displayname: Snow Block
+    buy: 40
+    sell: 3.15
+  18:
+    material: MUD
+    displayname: Mud
+    buy: 5
+    sell: 0.75
+
+#==================== Woods ====================#
+
+Woods:
+  1:
+    material: ACACIA_LOG
+    displayname: Acacia Log
+    buy: 5
+    sell: 0.75
+  2:
+    material: BIRCH_LOG
+    displayname: Birch Log
+    buy: 5
+    sell: 0.75
+  3:
+    material: CRIMSON_STEM
+    displayname: Crimson Stem
+    buy: 10
+    sell: 0.75
+  4:
+    material: DARK_OAK_LOG
+    displayname: Dark Oak Log
+    buy: 5
+    sell: 0.75
+  5:
+    material: JUNGLE_LOG
+    displayname: Jungle Log
+    buy: 5
+    sell: 0.75
+  6:
+    material: OAK_LOG
+    displayname: Oak Log
+    buy: 5
+    sell: 0.75
+  7:
+    material: SPRUCE_LOG
+    displayname: Spruce Log
+    buy: 5
+    sell: 0.75
+  8:
+    material: WARPED_STEM
+    displayname: Warped Stem
+    buy: 10
+    sell: 0.75
+  9:
+    material: MANGROVE_LOG
+    displayname: Mangrove Log
+    buy: 5
+    sell: 0.75
+  10:
+    material: ACACIA_SAPLING
+    displayname: Acacia Sapling
+    buy: 5
+    sell: 0.75
+  11:
+    material: BIRCH_SAPLING
+    displayname: Birch Sapling
+    buy: 5
+    sell: 0.75
+  12:
+    material: DARK_OAK_SAPLING
+    displayname: Dark Oak Sapling
+    buy: 5
+    sell: 0.75
+  13:
+    material: JUNGLE_SAPLING
+    displayname: Jungle Sapling
+    buy: 5
+    sell: 0.75
+  14:
+    material: OAK_SAPLING
+    displayname: Oak Sapling
+    buy: 5
+    sell: 0.75
+  15:
+    material: SPRUCE_SAPLING
+    displayname: Spruce Sapling
+    buy: 5
+    sell: 0.75
+  16:
+    material: CRIMSON_FUNGUS
+    displayname: Crimson Fungus
+    buy: 5
+    sell: 1.5
+  17:
+    material: WARPED_FUNGUS
+    displayname: Warped Fungus
+    buy: 5
+    sell: 1.5
+  18:
+    material: MANGROVE_PROPAGULE
+    displayname: Mangrove Propagule
+    buy: 5
+    sell: 0.75
+  19:
+    material: AZALEA
+    displayname: Azalea
+    buy: 3
+    sell: 0.75
+  20:
+    material: FLOWERING_AZALEA
+    displayname: Flowering Azalea
+    buy: 3
+    sell: 0.75
+
+#==================== Stones ====================#
+
+Stones:
+  1:
+    material: STONE
+    displayname: Stone
+    buy: 10
+    sell: 0.3
+  2:
+    material: SMOOTH_STONE
+    displayname: Smooth stone
+    buy: 10
+    sell: 0.75
+  3:
+    material: ANDESITE
+    displayname: Andesite
+    buy: 40
+    sell: 4
+  4:
+    material: POLISHED_ANDESITE
+    displayname: Polished Andesite
+    buy: 40
+    sell: 5
+  5:
+    material: DIORITE
+    displayname: Diorite
+    buy: 40
+    sell: 4
+  6:
+    material: POLISHED_DIORITE
+    displayname: Polished Diorite
+    buy: 40
+    sell: 5
+  7:
+    material: GRANITE
+    displayname: Granite
+    buy: 40
+    sell: 4
+  8:
+    material: POLISHED_GRANITE
+    displayname: Polished Diorite
+    buy: 40
+    sell: 5
+  9:
+    material: BLACKSTONE
+    displayname: Blackstone
+    buy: 20
+    sell: 0.6
+  10:
+    material: POLISHED_BLACKSTONE
+    displayname: Polished Blackstone
+    buy: 20
+    sell: 1
+  11:
+    material: POLISHED_BLACKSTONE_BRICKS
+    displayname: Polished Blackstone Bricks
+    buy: 20
+    sell: 1.75
+  12:
+    material: BRICKS
+    displayname: Bricks
+    buy: 40
+    sell: 6
+  13:
+    material: BASALT
+    displayname: Basalt
+    buy: 10
+    sell: 0.2
+  14:
+    material: POLISHED_BASALT
+    displayname: Polished Basalt
+    buy: 42
+    sell: 10.5
+  15:
+    material: SMOOTH_BASALT
+    displayname: Smooth Basalt
+    buy: 42
+    sell: 10.5
+  16:
+    material: COBBLESTONE
+    displayname: Cobblestone
+    buy: 10
+    sell: 0.15
+  17:
+    material: MOSSY_COBBLESTONE
+    displayname: Mossy Cobblestone
+    buy: 10
+    sell: 0.3
+  18:
+    material: END_STONE
+    displayname: End Stone
+    buy: 10
+    sell: 1.25
+  19:
+    material: END_STONE_BRICKS
+    displayname: End Stone Bricks
+    buy: 20
+    sell: 1.32
+  20:
+    material: NETHERRACK
+    displayname: Netherrack
+    buy: 5
+    sell: 0.05
+  21:
+    material: NETHER_BRICKS
+    displayname: Nether Bricks
+    buy: 10
+    sell: 0.23
+  22:
+    material: RED_NETHER_BRICKS
+    displayname: Red Nether Bricks
+    buy: 40
+    sell: 2.04
+  23:
+    material: CRYING_OBSIDIAN
+    displayname: Crying Obsidian
+    buy: 150
+    sell: 15.63
+  24:
+    material: OBSIDIAN
+    displayname: Obsidian
+    buy: 100
+    sell: 7.82
+  25:
+    material: PRISMARINE
+    displayname: Prismarine
+    buy: 200
+    sell: 10
+  26:
+    material: PRISMARINE_BRICKS
+    displayname: Prismarine Bricks
+    buy: 200
+    sell: 52
+  27:
+    material: DARK_PRISMARINE
+    displayname: Dark Prismarine
+    buy: 200
+    sell: 55
+  28:
+    material: PURPUR_BLOCK
+    displayname: Purpur Block
+    buy: 20
+    sell: 0.83
+  29:
+    material: QUARTZ_BRICKS
+    displayname: Quartz Bricks
+    buy: 600
+    sell: 36.47
+  30:
+    material: STONE_BRICKS
+    displayname: Stone Bricks
+    buy: 20
+    sell: 0.75
+  31:
+    material: MOSSY_STONE_BRICKS
+    displayname: Mossy Stone Bricks
+    buy: 20
+    sell: 2.04
+  32:
+    material: TERRACOTTA
+    displayname: Terracotta
+    buy: 80
+    sell: 5.52
+  33:
+    material: MAGMA_BLOCK
+    displayname: Magma Block
+    buy: 100
+    sell: 8.41
+  34:
+    material: CALCITE
+    displayname: Calcite
+    buy: 10
+    sell: 1.0
+  35:
+    material: DRIPSTONE_BLOCK
+    displayname: Dripstone Block
+    buy: 10
+    sell: 1.0
+  36:
+    material: TUFF
+    displayname: Tuff
+    buy: 10
+    sell: 1.0
+  37:
+    material: DEEPSLATE
+    displayname: Deepslate
+    buy: 10
+    sell: 1.0
+  38:
+    material: COBBLED_DEEPSLATE
+    displayname: Cobbled Deepslate
+    buy: 10
+    sell: 1.0
+  39:
+    material: POLISHED_DEEPSLATE
+    displayname: Polished Deepslate
+    buy: 10
+    sell: 1.0
+  40:
+    material: DEEPSLATE_BRICKS
+    displayname: Deepslate Bricks
+    buy: 10
+    sell: 1.0
+  41:
+    material: DEEPSLATE_TILES
+    displayname: Deepslate Tiles
+    buy: 10
+    sell: 1.0
+  42:
+    material: CHISELED_DEEPSLATE
+    displayname: Chiseled Deepslate
+    buy: 10
+    sell: 1.0
+  43:
+    material: REINFORCED_DEEPSLATE
+    displayname: Reinforced Deepslate
+    buy: 20
+    sell: 20
+  44:
+    material: MUD_BRICKS
+    displayname: Mud Bricks
+    buy: 10
+    sell: 1.0
+
+#==================== Concrete ====================#
+
+Concrete:
+  1:
+    material: BLACK_CONCRETE
+    displayname: Black Concrete
+    buy: 80
+    sell: 2.21
+  2:
+    material: BLUE_CONCRETE
+    displayname: Blue Concrete
+    buy: 80
+    sell: 2.43
+  3:
+    material: BROWN_CONCRETE
+    displayname: Brown Concrete
+    buy: 80
+    sell: 2.14
+  4:
+    material: CYAN_CONCRETE
+    displayname: Cyan Concrete
+    buy: 80
+    sell: 1.96
+  5:
+    material: GRAY_CONCRETE
+    displayname: Gray Concrete
+    buy: 80
+    sell: 2.16
+  6:
+    material: GREEN_CONCRETE
+    displayname: Green Concrete
+    buy: 80
+    sell: 1.94
+  7:
+    material: LIGHT_BLUE_CONCRETE
+    displayname: Light Blue Concrete
+    buy: 80
+    sell: 1.97
+  8:
+    material: LIGHT_GRAY_CONCRETE
+    displayname: Light Gray Concrete
+    buy: 80
+    sell: 1.97
+  9:
+    material: LIME_CONCRETE
+    displayname: Lime Concrete
+    buy: 80
+    sell: 9.84
+  10:
+    material: MAGENTA_CONCRETE
+    displayname: Magenta Concrete
+    buy: 80
+    sell: 8.4
+  11:
+    material: ORANGE_CONCRETE
+    displayname: Orange Concrete
+    buy: 80
+    sell: 8.4
+  12:
+    material: PINK_CONCRETE
+    displayname: Pink Concrete
+    buy: 80
+    sell: 8.4
+  13:
+    material: PURPLE_CONCRETE
+    displayname: Purple Concrete
+    buy: 80
+    sell: 8.41
+  14:
+    material: RED_CONCRETE
+    displayname: Red Concrete
+    buy: 80
+    sell: 1.97
+  15:
+    material: WHITE_CONCRETE
+    displayname: White Concrete
+    buy: 80
+    sell: 2.15
+  16:
+    material: YELLOW_CONCRETE
+    displayname: Yellow Concrete
+    buy: 80
+    sell: 1.96
+
+#==================== Glass ====================#
+
+Glass:
+  1:
+    material: GLASS
+    displayname: Glass
+    buy: 40
+    sell: 1.58
+  2:
+    material: TINTED_GLASS
+    buy: 6.07
+    sell: 1.52
+  3:
+    material: BLACK_stained_glass
+    displayname: Black Stained Glass
+    buy: 80
+    sell: 2.21
+  4:
+    material: BLUE_stained_glass
+    displayname: Blue Stained Glass
+    buy: 80
+    sell: 2.43
+  5:
+    material: BROWN_Stained_Glass
+    displayname: Brown Stained Glass
+    buy: 80
+    sell: 2.14
+  6:
+    material: CYAN_stained_Glass
+    displayname: Cyan Stained Glass
+    buy: 80
+    sell: 1.96
+  7:
+    material: GRAY_stained_glass
+    displayname: Gray Stained Glass
+    buy: 80
+    sell: 2.16
+  8:
+    material: GREEN_stained_glass
+    displayname: Green Stained Glass
+    buy: 80
+    sell: 1.94
+  9:
+    material: LIGHT_BLUE_stained_glass
+    displayname: Light Blue Stained Glass
+    buy: 80
+    sell: 1.97
+  10:
+    material: LIGHT_GRAY_stained_glass
+    displayname: Light Gray Stained Glass
+    buy: 80
+    sell: 1.97
+  11:
+    material: LIME_stained_glass
+    displayname: Lime Stained Glass
+    buy: 80
+    sell: 9.84
+  12:
+    material: MAGENTA_Stained_glass
+    displayname: Magenta Stained Glass
+    buy: 80
+    sell: 8.4
+  13:
+    material: ORANGE_stained_glass
+    displayname: Orange Stained Glass
+    buy: 80
+    sell: 8.4
+  14:
+    material: PINK_stained_glass
+    displayname: Pink Stained Glass
+    buy: 80
+    sell: 8.4
+  15:
+    material: PURPLE_stained_glass
+    displayname: Purple Stained Glass
+    buy: 80
+    sell: 8.41
+  16:
+    material: RED_stained_glass
+    displayname: Red Stained Glass
+    buy: 80
+    sell: 1.97
+  17:
+    material: WHITE_stained_glass
+    displayname: White Stained Glass
+    buy: 80
+    sell: 2.15
+  18:
+    material: YELLOW_stained_glass
+    displayname: Yellow Stained Glass
+    buy: 80
+    sell: 1.96
+
+#==================== Wool ====================#
+
+Wool:
+  1:
+    material: BLACK_WOOL
+    displayname: Black Wool
+    buy: 120
+    sell: 9.93
+  2:
+    material: BLUE_WOOL
+    displayname: Blue Wool
+    buy: 120
+    sell: 8
+  3:
+    material: BROWN_WOOL
+    displayname: Brown Wool
+    buy: 120
+    sell: 9.38
+  4:
+    material: CYAN_WOOL
+    displayname: Cyan Wool
+    buy: 120
+    sell: 7.88
+  5:
+    material: GRAY_WOOL
+    displayname: Gray Wool
+    buy: 120
+    sell: 9.41
+  6:
+    material: GREEN_WOOL
+    displayname: Green Wool
+    buy: 120
+    sell: 7.75
+  7:
+    material: LIGHT_BLUE_WOOL
+    displayname: Light Blue Wool
+    buy: 120
+    sell: 8
+  8:
+    material: LIGHT_GRAY_WOOL
+    displayname: Light Gray Wool
+    buy: 120
+    sell: 8
+  9:
+    material: LIME_WOOL
+    displayname: Lime Wool
+    buy: 120
+    sell: 9.38
+  10:
+    material: MAGENTA_WOOL
+    displayname: Magenta Wool
+    buy: 120
+    sell: 8
+  11:
+    material: PINK_WOOL
+    displayname: Pink Wool
+    buy: 120
+    sell: 8
+  12:
+    material: PURPLE_WOOL
+    displayname: Purple Wool
+    buy: 120
+    sell: 8.01
+  13:
+    material: RED_WOOL
+    displayname: Red Wool
+    buy: 120
+    sell: 8
+  14:
+    material: Yellow_WOOL
+    displayname: Yellow Wool
+    buy: 120
+    sell: 8
+  15:
+    material: Orange_WOOL
+    displayname: Orange Wool
+    buy: 120
+    sell: 8.01
+  16:
+    material: White_WOOL
+    displayname: White Wool
+    buy: 120
+    sell: 8
+    
+#==================== Lighting ====================#
+
+Lighting:
+  1:
+    material: GLOWSTONE
+    displayname: Glowstone
+    buy: 200
+    sell: 7.35
+  2:
+    material: SEA_LANTERN
+    displayname: Sea Lantern
+    buy: 400
+    sell: 30
+  3:
+    material: SHROOMLIGHT
+    displayname: Shroomlight
+    buy: 40
+    sell: 2
+  4:
+    material: JACK_O_LANTERN
+    displayname: Jack oLantern
+    buy: 40
+    sell: 2.8
+  5:
+    material: END_ROD
+    displayname: End Rod
+    buy: 10
+    sell: 0.54
+  6:
+    material: LANTERN
+    displayname: Lantern
+    buy: 120
+    sell: 6.64
+  7:
+    material: SOUL_LANTERN
+    displayname: Soul Fire Lantern
+    buy: 120
+    sell: 7.33
+  8:
+    material: CAMPFIRE
+    displayname: Campfire
+    buy: 120
+    sell: 8.34
+  9:
+    material: SOUL_CAMPFIRE
+    displayname: Soul Campfire
+    buy: 120
+    sell: 5.45
+  10:
+    material: CANDLE
+    buy: 10.66
+    sell: 2.67
+  11:
+    material: BLACK_CANDLE
+    buy: 16.71
+    sell: 4.18
+  12:
+    material: BLUE_CANDLE
+    buy: 12.3
+    sell: 3.08
+  13:
+    material: BROWN_CANDLE
+    buy: 17.81
+    sell: 4.46
+  14:
+    material: CYAN_CANDLE
+    buy: 11.83
+    sell: 2.96
+  15:
+    material: GRAY_CANDLE
+    buy: 14.99
+    sell: 3.75
+  16:
+    material: GREEN_CANDLE
+    buy: 11.31
+    sell: 2.83
+  17:
+    material: LIGHT_BLUE_CANDLE
+    buy: 12.3
+    sell: 3.08
+  18:
+    material: LIGHT_GRAY_CANDLE
+    buy: 12.3
+    sell: 3.08
+  19:
+    material: LIME_CANDLE
+    buy: 17.81
+    sell: 4.46
+  20:
+    material: MAGENTA_CANDLE
+    buy: 12.3
+    sell: 3.08
+  21:
+    material: ORANGE_CANDLE
+    buy: 12.3
+    sell: 3.08
+  22:
+    material: PINK_CANDLE
+    buy: 12.3
+    sell: 3.08
+  23:
+    material: PURPLE_CANDLE
+    buy: 12.35
+    sell: 3.09
+  24:
+    material: RED_CANDLE
+    buy: 12.3
+    sell: 3.08
+  25:
+    material: WHITE_CANDLE
+    buy: 12.9
+    sell: 3.23
+  26:
+    material: YELLOW_CANDLE
+    buy: 11.93
+    sell: 2.99
+  27:
+    material: PEARLESCENT_FROGLIGHT
+    buy: 120
+    sell: 6.64
+  28:
+    material: VERDANT_FROGLIGHT
+    buy: 120
+    sell: 6.64
+  29:
+    material: OCHRE_FROGLIGHT
+    buy: 120
+    sell: 6.64
+
+
+#==================== Ores ====================#
+
+Ores:
+  1:
+    material: COAL
+    displayname: Coal
+    buy: 80
+    sell: 5.25
+  2:
+    material: COAL_BLOCK
+    displayname: Block of Coal
+    buy: 800
+    sell: 49.62
+  3:
+    material: DIAMOND
+    displayname: Diamond
+    buy: 2000
+    sell: 200
+  4:
+    material: DIAMOND_BLOCK
+    displayname: Block of Diamond
+    buy: 18000
+    sell: 1800
+  5:
+    material: EMERALD
+    displayname: Emerald
+    buy: 1600
+    sell: 100
+  6:
+    material: EMERALD_BLOCK
+    displayname: Block of Emerald
+    buy: 14400
+    sell: 900
+  7:
+    material: GOLD_BLOCK
+    displayname: Block of Gold
+    buy: 4000
+    sell: 285.9
+  8:
+    material: GOLD_INGOT
+    displayname: Gold Ingot
+    buy: 400
+    sell: 30.26
+  9:
+    material: IRON_BLOCK
+    displayname: Block of Iron
+    buy: 800
+    sell: 90
+  10:
+    material: IRON_INGOT
+    displayname: Iron Ingot
+    buy: 100
+    sell: 10
+  11:
+    material: LAPIS_BLOCK
+    displayname: Lapis Lazuli Block
+    buy: 600
+    sell: 34.11
+  12:
+    material: LAPIS_LAZULI
+    displayname: Lapis Lazuli
+    buy: 60
+    sell: 3.61
+  13:
+    material: NETHERITE_BLOCK
+    displayname: Block of Netherite
+    buy: 135000
+    sell: 67500
+  14:
+    material: NETHERITE_INGOT
+    displayname: Netherite Ingot
+    buy: 15000
+    sell: 7500
+  15:
+    material: QUARTZ
+    displayname: Nether Quartz
+    buy: 120
+    sell: 8.27
+  16:
+    material: QUARTZ_BLOCK
+    displayname: Block of Quartz
+    buy: 600
+    sell: 34.73
+  17:
+    material: REDSTONE
+    displayname: Redstone
+    buy: 20
+    sell: 1.32
+  18:
+    material: REDSTONE_BLOCK
+    displayname: Block of Redstone
+    buy: 200
+    sell: 12.41
+  19:
+    material: COPPER_BLOCK
+    buy: 66.15
+    sell: 16.54
+  20:
+    material: COPPER_INGOT
+    buy: 15.75
+    sell: 3.94
+  21:
+    material: CUT_COPPER
+    buy: 69.46
+    sell: 17.37
+  22:
+    material: AMETHYST_BLOCK
+    buy: 10
+    sell: 1
+  23:
+    material: AMETHYST_SHARD
+    buy: 10
+    sell: 1
+      
+#==================== Farming ====================#
+
+Farming:
+  1:
+    material: BAMBOO
+    displayname: Bamboo
+    buy: 10
+    sell: 0.03
+  2:
+    material: BEEHIVE
+    displayname: Beehive
+    buy: 80
+    sell: 4.22
+  3:
+    material: BEETROOT_SEEDS
+    displayname: Beetroot Seeds
+    buy: 15
+    sell: 0.75
+  4:
+    material: BROWN_MUSHROOM
+    displayname: Brown Mushroom
+    buy: 15
+    sell: 0.5
+  5:
+    material: CACTUS
+    displayname: Cactus
+    buy: 200
+    sell: 10
+  6:
+    material: CARROT
+    displayname: Carrot
+    buy: 15
+    sell: 1.25
+  7:
+    material: CHORUS_FLOWER
+    displayname: Chorus Flower
+    buy: 15
+    sell: 0.25
+  8:
+    material: CHORUS_FRUIT
+    displayname: Chorus Fruit
+    buy: 15
+    sell: 0.75
+  9:
+    material: COCOA_BEANS
+    displayname: Cocoa Beans
+    buy: 20
+    sell: 1.5
+  10:
+    material: EGG
+    displayname: Egg
+    buy: 15
+    sell: 1.25
+  11:
+    material: KELP
+    displayname: Kelp
+    buy: 10
+    sell: 0.03
+  12:
+    material: LEATHER
+    displayname: Leather
+    buy: 120
+    sell: 8.4
+  13:
+    material: MELON
+    displayname: Melon
+    buy: 400
+    sell: 90
+  14:
+    material: MELON_SEEDS
+    displayname: Melon Seeds
+    buy: 40
+    sell: 0.75
+  15:
+    material: MELON_SLICE
+    displayname: Melon Slice
+    buy: 60
+    sell: 10
+  16:
+    material: NETHER_WART
+    displayname: Nether Wart
+    buy: 15
+    sell: 0.75
+  17:
+    material: POTATO
+    displayname: Potato
+    buy: 20
+    sell: 1.25
+  18:
+    material: PUMPKIN
+    displayname: Pumpkin
+    buy: 400
+    sell: 90
+  19:
+    material: PUMPKIN_SEEDS
+    displayname: Pumpkin Seeds
+    buy: 10
+    sell: 0.33
+  20:
+    material: RED_MUSHROOM
+    displayname: Red Mushroom
+    buy: 10
+    sell: 0.5
+  21:
+    material: SUGAR_CANE
+    displayname: Sugar Cane
+    buy: 200
+    sell: 10
+  22:
+    material: WHEAT
+    displayname: Wheat
+    buy: 20
+    sell: 1.25
+  23:
+    material: WHEAT_SEEDS
+    displayname: Wheat Seeds
+    buy: 15
+    sell: 0.75
+  24:
+    material: sweet_berries
+    displayname: Sweet Berries
+    buy: 20
+    sell: 1.25
+  25:
+    material: HAY_BLOCK
+    displayname: Hay Bale
+    buy: 200
+    sell: 11.82
+  26:
+    material: HONEY_BLOCK
+    displayname: Honey Block
+    buy: 120
+    sell: 8.34
+  27:
+    material: VINE
+    displayname: Vines
+    buy: 30
+    sell: 1.75
+  28:
+    material: GLOW_BERRIES
+    buy: 20
+    sell: 1.25
+  29:
+    material: BEETROOT
+    buy: 20.0
+    sell: 1.25
+    
+#==================== Food ====================#
+
+Food:
+  1:
+    material: APPLE
+    displayname: Apple
+    buy: 40
+    sell: 2.5
+  2:
+    material: BREAD
+    displayname: Bread
+    buy: 40
+    sell: 3.94
+  3:
+    material: CAKE
+    displayname: Cake
+    buy: 1000
+    sell: 60.17
+  4:
+    material: COOKED_SALMON
+    displayname: Cooked Salmon
+    buy: 20
+    sell: 1.58
+  5:
+    material: COOKIE
+    displayname: Cookie
+    buy: 10
+    sell: 0.53
+  6:
+    material: HONEY_BOTTLE
+    displayname: Honey Bottle
+    buy: 40
+    sell: 1.99
+  7:
+    material: BAKED_POTATO
+    displayname: Baked Potato
+    buy: 20
+    sell: 1.32
+  8:
+    material: COOKED_BEEF
+    displayname: Steak
+    buy: 20
+    sell: 1.58
+  9:
+    material: COOKED_CHICKEN
+    displayname: Cooked Chicken
+    buy: 20
+    sell: 1.58
+  10:
+    material: COOKED_MUTTON
+    displayname: Cooked Mutton
+    buy: 20
+    sell: 1.58
+  11:
+    material: COOKED_PORKCHOP
+    displayname: Cooked Porkchop
+    buy: 20
+    sell: 1.58
+  12:
+    material: COOKED_RABBIT
+    displayname: Cooked Rabbit
+    buy: 20
+    sell: 1.58
+  13:
+    material: BEEF
+    displayname: Raw Beef
+    buy: 20
+    sell: 1.5
+  14:
+    material: CHICKEN
+    displayname: Raw Chicken
+    buy: 20
+    sell: 1.5
+  15:
+    material: MUTTON
+    displayname: Raw Mutton
+    buy: 20
+    sell: 1.5
+  16:
+    material: PORKCHOP
+    displayname: Raw Porkchop
+    buy: 20
+    sell: 1.5
+  17:
+    material: RABBIT
+    displayname: Raw Rabbit
+    buy: 20
+    sell: 1.5
+  18:
+    material: BEETROOT_SOUP
+    displayname: Beetroot Soup
+    buy: 38.72
+    sell: 9.68
+  19:
+    material: golden_apple
+    displayname: Golden Apple
+    buy: 6000
+    sell: 9.68
+    
+#==================== Mobs ====================#
+
+Mobs:
+  1:
+    material: ARROW
+    displayname: Arrow
+    buy: 50
+    sell: 0.57
+  2:
+    material: BLAZE_POWDER
+    displayname: Blaze Powder
+    buy: 50
+    sell: 10
+  3:
+    material: BLAZE_ROD
+    displayname: Blaze Rod
+    buy: 200
+    sell: 30
+  4:
+    material: BONE
+    displayname: Bone
+    buy: 50
+    sell: 1.5
+  5:
+    material: FEATHER
+    displayname: Feather
+    buy: 50
+    sell: 1.5
+  6:
+    material: FERMENTED_SPIDER_EYE
+    displayname: Fermented Spider Eye
+    buy: 50
+    sell: 2.4
+  7:
+    material: GHAST_TEAR
+    displayname: Ghast Tear
+    buy: 200
+    sell: 15
+  8:
+    material: GUNPOWDER
+    displayname: Gunpowder
+    buy: 50
+    sell: 3.88
+  9:
+    material: MAGMA_CREAM
+    displayname: Magma Cream
+    buy: 200
+    sell: 15
+  10:
+    material: NAUTILUS_SHELL
+    displayname: Nautilus Shell
+    buy: 800
+    sell: 45
+  11:
+    material: PHANTOM_MEMBRANE
+    displayname: Phantom Membrane
+    buy: 800
+    sell: 50
+  12:
+    material: RABBIT_FOOT
+    displayname: Rabbits Foot
+    buy: 800
+    sell: 45
+  13:
+    material: RABBIT_HIDE
+    displayname: Rabbit Hide
+    buy: 50
+    sell: 2
+  14:
+    material: ROTTEN_FLESH
+    displayname: Rotten Flesh
+    buy: 50
+    sell: 5
+  15:
+    material: SPIDER_EYE
+    displayname: Spider Eye
+    buy: 50
+    sell: 1.75
+  16:
+    material: STRING
+    displayname: String
+    buy: 50
+    sell: 1.75
+  17:
+    material: LEATHER
+    displayname: Leather
+    buy: 50
+    sell: 8.4
+  18:
+    material: ENDER_PEARL
+    displayname: Ender Pearl
+    buy: 2000
+    sell: 20
+  19:
+    material: SLIME_BALL
+    displayname: Slimeball
+    buy: 50
+    sell: 5
+  20:
+    material: SLIME_BLOCK
+    displayname: Slime Block
+    buy: 1800
+    sell: 45
+    
+#==================== Music ====================#
+
+Music:
+  1:
+    material: MUSIC_DISC_11
+    displayname: 11 Disc
+    buy: 20000
+    sell: -1
+  2:
+    material: MUSIC_DISC_13
+    displayname: 13 Disc
+    buy: 20000
+    sell: -1
+  3:
+    material: MUSIC_DISC_BLOCKS
+    displayname: Blocks Disc
+    buy: 20000
+    sell: -1
+  4:
+    material: MUSIC_DISC_CAT
+    displayname: Cat Disc
+    buy: 20000
+    sell: -1
+  5:
+    material: MUSIC_DISC_CHIRP
+    displayname: Chirp Disc
+    buy: 20000
+    sell: -1
+  6:
+    material: MUSIC_DISC_FAR
+    displayname: Far Disc
+    buy: 20000
+    sell: -1
+  7:
+    material: MUSIC_DISC_MALL
+    displayname: Mall Disc
+    buy: 20000
+    sell: -1
+  8:
+    material: MUSIC_DISC_MELLOHI
+    displayname: Mellohi Disc
+    buy: 20000
+    sell: -1
+  9:
+    material: MUSIC_DISC_PIGSTEP
+    displayname: Lena Raine - Pigstep
+    buy: 60000
+    sell: -1
+  10:
+    material: MUSIC_DISC_STAL
+    displayname: Stal Disc
+    buy: 20000
+    sell: -1
+  11:
+    material: MUSIC_DISC_STRAD
+    displayname: Strad Disc
+    buy: 20000
+    sell: -1
+  12:
+    material: MUSIC_DISC_WAIT
+    displayname: Wait Disc
+    buy: 20000
+    sell: -1
+  13:
+    material: MUSIC_DISC_WARD
+    displayname: Ward Disc
+    buy: 20000
+    sell: -1
+    
+#==================== Dyes ====================#
+
+Dyes:
+  1:
+    material: BLACK_DYE
+    displayname: Black Dye
+    buy: 50
+    sell: 2.1
+  2:
+    material: BLUE_DYE
+    displayname: Blue Dye
+    buy: 50
+    sell: 0.27
+  3:
+    material: BROWN_DYE
+    displayname: Brown Dye
+    buy: 50
+    sell: 1.58
+  4:
+    material: CYAN_DYE
+    displayname: Cyan Dye
+    buy: 50
+    sell: 0.16
+  5:
+    material: GRAY_DYE
+    displayname: Gray Dye
+    buy: 50
+    sell: 1.61
+  6:
+    material: GREEN_DYE
+    displayname: Green Dye
+    buy: 50
+    sell: 0.03
+  7:
+    material: LIGHT_BLUE_DYE
+    displayname: Light Blue Dye
+    buy: 50
+    sell: 0.27
+  8:
+    material: LIGHT_GRAY_DYE
+    displayname: Light Gray Dye
+    buy: 50
+    sell: 0.27
+  9:
+    material: LIME_DYE
+    displayname: Lime Dye
+    buy: 50
+    sell: 1.58
+  10:
+    material: MAGENTA_DYE
+    displayname: Magenta Dye
+    buy: 50
+    sell: 0.27
+  11:
+    material: ORANGE_DYE
+    displayname: Orange Dye
+    buy: 50
+    sell: 0.27
+  12:
+    material: PINK_DYE
+    displayname: Pink Dye
+    buy: 50
+    sell: 0.27
+  13:
+    material: PURPLE_DYE
+    displayname: Purple Dye
+    buy: 50
+    sell: 0.28
+  14:
+    material: RED_DYE
+    displayname: Red Dye
+    buy: 50
+    sell: 0.27
+  15:
+    material: WHITE_DYE
+    displayname: White Dye
+    buy: 50
+    sell: 0.96
+  16:
+    material: YELLOW_DYE
+    displayname: Yellow Dye
+    buy: 50
+    sell: 0.18
+  17:
+    material: AZURE_BLUET
+    displayname: Azure Bluet
+    buy: 50
+    sell: 0.25
+  18:
+    material: BLUE_ORCHID
+    displayname: Blue Orchid
+    buy: 50
+    sell: 0.25
+  19:
+    material: CORNFLOWER
+    displayname: Cornflower
+    buy: 50
+    sell: 0.25
+  20:
+    material: RED_TULIP
+    displayname: Red Tulip
+    buy: 50
+    sell: 0.25
+  21:
+    material: SUNFLOWER
+    displayname: Sunflower
+    buy: 50
+    sell: 0.25
+  22:
+    material: INK_SAC
+    displayname: Ink Sac
+    buy: 50
+    sell: 2
+  23:
+    material: GLOW_INK_SAC
+    buy: 50
+    sell: 2
+  24:
+    material: DANDELION
+    displayname: Dandelion
+    buy: 50
+    sell: 0.25
+  25:
+    material: ORANGE_TULIP
+    displayname: Orange Tulip
+    buy: 50
+    sell: 0.25
+  26:
+    material: ALLIUM
+    displayname: Allium
+    buy: 50
+    sell: 0.25
+  27:
+    material: WHITE_TULIP
+    displayname: White Tulip
+    buy: 50
+    sell: 0.25
+  28:
+    material: PINK_TULIP
+    displayname: Pink Tulip
+    buy: 50
+    sell: 0.25
+  29:
+    material: OXEYE_DAISY
+    displayname: Oxeye Daisy
+    buy: 50
+    sell: 0.25
+  30:
+    material: LILY_OF_THE_VALLEY
+    displayname: Lily of the Valley
+    buy: 50
+    sell: 0.25
+  31:
+    material: WITHER_ROSE
+    displayname: Wither Rose
+    buy: 40000.0
+    sell: 100.0
+  32:
+    material: LILAC
+    displayname: Lilac
+    buy: 50
+    sell: 0.25
+  33:
+    material: ROSE_BUSH
+    displayname: Rose Bush
+    buy: 50
+    sell: 0.25
+  34:
+    material: PEONY
+    displayname: Peony
+    buy: 50
+    sell: 0.25
+    
+#==================== Decoration ====================#
+
+Decoration:
+  1:
+    material: CHAIN
+    displayname: Chain
+    buy: 120
+    sell: 6.8
+  2:
+    material: FLOWER_POT
+    displayname: Flower Pot
+    buy: 400
+    sell: 17.37
+  3:
+    material: SPORE_BLOSSOM
+    buy: 10
+    sell: 1
+  4:
+    material: BIG_DRIPLEAF
+    buy: 10
+    sell: 2.5
+  5:
+    material: SMALL_DRIPLEAF
+    buy: 10
+    sell: 2.5
+  6:
+    material: MOSS_BLOCK
+    buy: 10
+    sell: 1
+  7:
+    material: MOSS_CARPET
+    buy: 10
+    sell: 1
+  8:
+    material: GLOW_LICHEN
+    buy: 10
+    sell: 1
+  9:
+    material: FERN
+    buy: 10
+    sell: 1
+  10:
+    material: LARGE_FERN
+    buy: 10
+    sell: 1
+  11:
+    material: BRAIN_CORAL
+    displayname: Brain Coral
+    buy: 20
+    sell: 1.25
+  12:
+    material: BRAIN_CORAL_BLOCK
+    displayname: Brain Coral Block
+    buy: 80
+    sell: 4
+  13:
+    material: BRAIN_CORAL_FAN
+    displayname: Brain Coral Fan
+    buy: 20
+    sell: 0.75
+  14:
+    material: BUBBLE_CORAL
+    displayname: Bubble Coral
+    buy: 20
+    sell: 1.25
+  15:
+    material: BUBBLE_CORAL_BLOCK
+    displayname: Bubble Coral Block
+    buy: 80
+    sell: 4
+  16:
+    material: BUBBLE_CORAL_FAN
+    displayname: Bubble Coral Fan
+    buy: 20
+    sell: 0.75
+  17:
+    material: FIRE_CORAL
+    displayname: Fire Coral
+    buy: 20
+    sell: 1.25
+  18:
+    material: FIRE_CORAL_BLOCK
+    displayname: Fire Coral Block
+    buy: 80
+    sell: 4
+  19:
+    material: FIRE_CORAL_FAN
+    displayname: Fire Coral Fan
+    buy: 20
+    sell: 0.75
+  20:
+    material: HORN_CORAL
+    displayname: Horn Coral
+    buy: 20
+    sell: 1.25
+  21:
+    material: HORN_CORAL_BLOCK
+    displayname: Horn Coral Block
+    buy: 80
+    sell: 4
+  22:
+    material: HORN_CORAL_FAN
+    displayname: Horn Coral Fan
+    buy: 20
+    sell: 0.75
+  23:
+    material: TUBE_CORAL
+    displayname: Tube Coral
+    buy: 20
+    sell: 1.25
+  24:
+    material: TUBE_CORAL_BLOCK
+    displayname: Tube Coral Block
+    buy: 80
+    sell: 4
+  25:
+    material: TUBE_CORAL_FAN
+    displayname: Tube Coral Fan
+    buy: 20
+    sell: 1.5
+  26:
+    material: CREEPER_BANNER_PATTERN
+    displayname: Creeper Charge
+    buy: 4000
+    sell: 157.53
+  27:
+    material: FLOWER_BANNER_PATTERN
+    displayname: Flower Charge
+    buy: 1000
+    sell: 0.3
+  28:
+    material: GLOBE_BANNER_PATTERN
+    displayname: Globe
+    buy: 4000
+    sell: 298.67
+  29:
+    material: MOJANG_BANNER_PATTERN
+    displayname: Thing
+    buy: 40000
+    sell: 2625.03
+  30:
+    material: PIGLIN_BANNER_PATTERN
+    displayname: Snout
+    buy: 40000
+    sell: 2500
+  31:
+    material: SKULL_BANNER_PATTERN
+    displayname: Skull Charge
+    buy: 20000
+    sell: 131.28
+    
+#==================== Workstations ====================#
+
+Workstations:
+  1:
+    material: BARREL
+    displayname: Barrel
+    buy: 40
+    sell: 2.05
+  2:
+    material: BLAST_FURNACE
+    displayname: Blast Furnace
+    buy: 118.61
+    sell: 29.66
+  3:
+    material: BREWING_STAND
+    displayname: Brewing Stand
+    buy: 40
+    sell: 1.85
+  4:
+    material: CARTOGRAPHY_TABLE
+    displayname: Cartography Table
+    buy: 40
+    sell: 1.22
+  5:
+    material: COMPOSTER
+    displayname: Composter
+    buy: 40
+    sell: 1.07
+  6:
+    material: FLETCHING_TABLE
+    displayname: Fletching Table
+    buy: 40
+    sell: 2.21
+  7:
+    material: GRINDSTONE
+    displayname: Grindstone
+    buy: 40
+    sell: 0.99
+  8:
+    material: LECTERN
+    displayname: Lectern
+    buy: 500
+    sell: 31.88
+  9:
+    material: LOOM
+    displayname: Loom
+    buy: 80
+    sell: 4.26
+  10:
+    material: SMITHING_TABLE
+    displayname: Smithing Table
+    buy: 200
+    sell: 12.19
+  11:
+    material: SMOKER
+    displayname: Smoker
+    buy: 80
+    sell: 4.65
+  12:
+    material: STONECUTTER
+    displayname: Stonecutter
+    buy: 100
+    sell: 6.08
+  13:
+    material: ANVIL
+    displayname: Anvil
+    buy: 3000
+    sell: 178.33
+  14:
+    material: CAULDRON
+    displayname: Cauldron
+    buy: 400
+    sell: 27.57
+    
+#==================== Potions ====================#
+    
+#==================== Nether ====================#
+
+Nether:
+  1:
+    material: WEEPING_VINES
+    displayname: Weeping Vines
+    buy: 20
+    sell: 1.5
+  2:
+    material: TWISTING_VINES
+    displayname: Twisting Vines
+    buy: 20
+    sell: 1.5
+  3:
+    material: NETHERRACK
+    displayname: Netherrack
+    buy: 5
+    sell: 0.05
+  4:
+    material: NETHER_BRICK_SLAB
+    displayname: Nether Brick Slab
+    buy: 5
+    sell: 0.12
+  5:
+    material: NETHER_BRICK_STAIRS
+    displayname: Nether Brick Stairs
+    buy: 10
+    sell: 0.35
+  6:
+    material: NETHER_BRICKS
+    displayname: Nether Bricks
+    buy: 10
+    sell: 0.23
+  7:
+    material: RED_NETHER_BRICK_SLAB
+    displayname: Red Nether Brick Slab
+    buy: 20
+    sell: 1.07
+  8:
+    material: RED_NETHER_BRICK_STAIRS
+    displayname: Red Nether Brick Stairs
+    buy: 40
+    sell: 3.21
+  9:
+    material: RED_NETHER_BRICKS
+    displayname: Red Nether Bricks
+    buy: 40
+    sell: 2.04
+  10:
+    material: CRYING_OBSIDIAN
+    displayname: Crying Obsidian
+    buy: 150
+    sell: 15.63
+  11:
+    material: OBSIDIAN
+    displayname: Obsidian
+    buy: 100
+    sell: 7.82
+  12:
+    material: MAGMA_BLOCK
+    displayname: Magma Block
+    buy: 100
+    sell: 8.41
+  13:
+    material: WARPED_NYLIUM
+    displayname: Warped Nylium
+    buy: 20
+    sell: 1.5
+  14:
+    material: CRIMSON_NYLIUM
+    displayname: Crimson Nylium
+    buy: 20
+    sell: 1.5
+  15:
+    material: CRIMSON_HYPHAE
+    displayname: Crimson Hyphae
+    buy: 40
+    sell: 1.05
+  16:
+    material: CRIMSON_PLANKS
+    displayname: Crimson Planks
+    buy: 10
+    sell: 0.2
+  17:
+    material: CRIMSON_SLAB
+    displayname: Crimson Slab
+    buy: 5
+    sell: 0.11
+  18:
+    material: CRIMSON_STAIRS
+    displayname: Crimson Stairs
+    buy: 10
+    sell: 0.32
+  19:
+    material: WARPED_HYPHAE
+    displayname: Warped Hyphae
+    buy: 40
+    sell: 1.05
+  20:
+    material: WARPED_PLANKS
+    displayname: Warped Planks
+    buy: 10
+    sell: 0.2
+  21:
+    material: WARPED_SLAB
+    displayname: Warped Slab
+    buy: 5
+    sell: 0.04
+  22:
+    material: WARPED_STAIRS
+    displayname: Warped Stairs
+    buy: 40
+    sell: 0.32
+  23:
+    material: WARPED_STEM
+    displayname: Warped Stem
+    buy: 40
+    sell: 0.75
+  24:
+    material: CRIMSON_FUNGUS
+    displayname: Crimson Fungus
+    buy: 20
+    sell: 1.5
+  25:
+    material: WARPED_FUNGUS
+    displayname: Warped Fungus
+    buy: 20
+    sell: 1.5
+  26:
+    material: SOUL_SAND
+    displayname: Soul Sand
+    buy: 40
+    sell: 2.5
+  27:
+    material: SOUL_SOIL
+    displayname: Soul Soil
+    buy: 40
+    sell: 2.5
+    
+#==================== End ====================#
+
+End:
+  1:
+    material: END_STONE
+    displayname: End Stone
+    buy: 10
+    sell: 1.25
+  2:
+    material: END_STONE_BRICK_SLAB
+    displayname: End Stone Brick Slab
+    buy: 10
+    sell: 0.69
+  3:
+    material: END_STONE_BRICK_STAIRS
+    displayname: End Stone Brick Stairs
+    buy: 20
+    sell: 2.07
+  4:
+    material: END_STONE_BRICKS
+    displayname: End Stone Bricks
+    buy: 20
+    sell: 1.32
+  5:
+    material: PURPUR_BLOCK
+    displayname: Purpur Block
+    buy: 20
+    sell: 0.83
+  6:
+    material: PURPUR_SLAB
+    displayname: Purpur Slab
+    buy: 10
+    sell: 0.44
+  7:
+    material: PURPUR_STAIRS
+    displayname: Purpur Stairs
+    buy: 20
+    sell: 1.31
+  8:
+    material: END_ROD
+    displayname: End Rod
+    buy: 10
+    sell: 0.54
+    
+#==================== Redstone ====================#
+
+Redstone:
+  1:
+    material: DAYLIGHT_DETECTOR
+    displayname: Daylight Detector
+    buy: 400
+    sell: 31.47
+  2:
+    material: DISPENSER
+    displayname: Dispenser
+    buy: 200
+    sell: 8.9
+  3:
+    material: DROPPER
+    displayname: Dropper
+    buy: 200
+    sell: 2.63
+  4:
+    material: HOPPER
+    displayname: Hopper
+    buy: 400
+    sell: 30
+  5:
+    material: IRON_DOOR
+    displayname: Iron Door
+    buy: 100
+    sell: 5.52
+  6:
+    material: JUKEBOX
+    displayname: Jukebox
+    buy: 1500
+    sell: 98.79
+  7:
+    material: LEVER
+    displayname: Lever
+    buy: 10
+    sell: 0.34
+  8:
+    material: NOTE_BLOCK
+    displayname: Note Block
+    buy: 80
+    sell: 3.7
+  9:
+    material: OBSERVER
+    displayname: Observer
+    buy: 200
+    sell: 12.51
+  10:
+    material: REDSTONE_LAMP
+    displayname: Redstone Lamp
+    buy: 200
+    sell: 13.23
+  11:
+    material: REDSTONE_TORCH
+    displayname: Redstone Torch
+    buy: 20
+    sell: 1.54
+  12:
+    material: RESPAWN_ANCHOR
+    displayname: Respawn Anchor
+    buy: 2000
+    sell: 121.59
+  13:
+    material: TARGET
+    displayname: Target
+    buy: 400
+    sell: 17.92
+  14:
+    material: TRIPWIRE_HOOK
+    displayname: Tripwire Hook
+    buy: 40
+    sell: 2.98
+  15:
+    material: COMPARATOR
+    displayname: Redstone Comparator
+    buy: 200
+    sell: 14.07
+  16:
+    material: REPEATER
+    displayname: Redstone Repeater
+    buy: 100
+    sell: 5.16
+  17:
+    material: OAK_BUTTON
+    displayname: Oak Button
+    buy: 10
+    sell: 0.29
+  18:
+    material: STONE_BUTTON
+    displayname: Stone Button
+    buy: 10
+    sell: 0.19
+  19:
+    material: PISTON
+    displayname: Piston
+    buy: 200
+    sell: 8.48
+  20:
+    material: STICKY_PISTON
+    displayname: Sticky Piston
+    buy: 250
+    sell: 10.21
+  21:
+    material: OAK_PRESSURE_PLATE
+    displayname: Oak Pressure Plate
+    buy: 10
+    sell: 0.58
+  22:
+    material: STONE_PRESSURE_PLATE
+    displayname: Stone Pressure Plate
+    buy: 10
+    sell: 0.38
+  23:
+    material: LIGHT_WEIGHTED_PRESSURE_PLATE
+    displayname: Light Weighted Pressure Plate
+    buy: 100
+    sell: 63.54
+  24:
+    material: HEAVY_WEIGHTED_PRESSURE_PLATE
+    displayname: Heavy Weighted Pressure Plate
+    buy: 200
+    sell: 11.03
+  25:
+    material: Trapped_Chest
+    displayname: Trapped Chest
+    buy: 80
+    sell: 5
+  26:
+    material: Rail
+    displayname: Rail
+    buy: 200
+    sell: 6
+  27:
+    material: Powered_Rail
+    displayname: Powered Rail
+    buy: 4000
+    sell: 20
+  28:
+    material: activator_rail
+    displayname: Activator Rail
+    buy: 800
+    sell: 20
+  29:
+    material: detector_rail
+    displayname: Detector Rail
+    buy: 800
+    sell: 20
+  30:
+    material: POINTED_DRIPSTONE
+    buy: 1
+    sell: 0.25
+  31:
+    material: SCULK_SENSOR
+    buy: 125
+    sell: 31.25
+
+#==================== Others ====================#
+
+Others:
+  1:
+    material: BELL
+    displayname: Bell
+    buy: 4000
+    sell: 250
+  2:
+    material: CARROT_ON_A_STICK
+    displayname: Carrot on a Stick
+    buy: 40
+    sell: 1.77
+  3:
+    material: COBWEB
+    displayname: Cobweb
+    buy: 160
+    sell: 10
+  4:
+    material: ELYTRA
+    displayname: Elytra
+    buy: 40000
+    sell: -1
+  5:
+    material: ENDER_CHEST
+    displayname: Ender Chest
+    buy: 2000
+    sell: 50
+  6:
+    material: EXPERIENCE_BOTTLE
+    displayname: Bottle o Enchanting
+    buy: 1000
+    sell: 20
+  7:
+    material: GLOWSTONE_DUST
+    displayname: Glowstone Dust
+    buy: 40
+    sell: 1.75
+  8:
+    material: HONEYCOMB
+    displayname: Honeycomb
+    buy: 40
+    sell: 0.79
+  9:
+    material: LAVA_BUCKET
+    displayname: Lava Bucket
+    buy: 300
+    sell: 17.41
+  10:
+    material: LEAD
+    displayname: Lead
+    buy: 80
+    sell: 4.34
+  11:
+    material: LILY_PAD
+    displayname: Lily Pad
+    buy: 100
+    sell: 7
+  12:
+    material: LODESTONE
+    displayname: Lodestone
+    buy: 12000
+    sell: 747.54
+  13:
+    material: MAP
+    displayname: Empty Map
+    buy: 400
+    sell: 24.83
+  14:
+    material: NAME_TAG
+    displayname: Name Tag
+    buy: 400
+    sell: 25
+  15:
+    material: NETHER_STAR
+    displayname: Nether Star
+    buy: 10000
+    sell: 100
+  16:
+    material: RED_BED
+    displayname: Red Bed
+    buy: 400
+    sell: 26.05
+  17:
+    material: SADDLE
+    displayname: Saddle
+    buy: 300
+    sell: 15
+  18:
+    material: SCAFFOLDING
+    displayname: Scaffolding
+    buy: 20
+    sell: 0.34
+  19:
+    material: SHULKER_SHELL
+    displayname: Shulker Shell
+    buy: 4000
+    sell: 500
+  20:
+    material: SNOW
+    displayname: Snow
+    buy: 40
+    sell: 1.66
+  21:
+    material: SNOWBALL
+    displayname: Snowball
+    buy: 10
+    sell: 0.75
+  22:
+    material: SPONGE
+    displayname: Sponge
+    buy: 2000
+    sell: 131.25
+  23:
+    material: TOTEM_OF_UNDYING
+    displayname: Totem of Undying
+    buy: 20000
+    sell: 25
+  24:
+    material: TRIDENT
+    displayname: Trident
+    buy: 10000
+    sell: 45
+  25:
+    material: TURTLE_EGG
+    displayname: Turtle Egg
+    buy: 1000
+    sell: 3.75
+  26:
+    material: WARPED_FUNGUS_ON_A_STICK
+    displayname: Warped Fungus On A Stick
+    buy: 100
+    sell: 5.92
+  27:
+    material: WATER_BUCKET
+    displayname: Water Bucket
+    buy: 1000
+    sell: 17.4
+  28:
+    material: WRITABLE_BOOK
+    displayname: Book and Quill
+    buy: 1000
+    sell: 13.03
+  29:
+    material: BEACON
+    displayname: Beacon
+    buy: 15000
+    sell: 1000
+  30:
+    material: PAPER
+    displayname: Paper
+    buy: 1000
+    sell: 30.0
+  31:
+    material: ITEM_FRAME
+    displayname: Item Frame
+    buy: 150
+    sell: 5.0
+  32:
+    material: GLOW_ITEM_FRAME
+    buy: 47.93
+    sell: 11.99
+  33:
+    material: FLINT
+    displayname: Flint
+    buy: 20
+    sell: 1.0
+  34:
+    material: FLINT_AND_STEEL
+    displayname: Flint and Steel
+    buy: 40
+    sell: 3.0
+  35:
+    material: book
+    displayname: Book
+    buy: 3000.0
+    sell: 70.0
+  36:
+    material: scute
+    displayname: Scute
+    buy: 2000.0
+    sell: 60.0
+  37:
+    material: BOOKSHELF
+    displayname: Bookshelf
+    buy: 9000.12
+    sell: 200.78
+  38:
+    material: PACKED_ICE
+    displayname: Packed Ice
+    buy: 300.0
+    sell: 10.0
+  39:
+    material: blue_ice
+    displayname: Blue Ice
+    buy: 2700.0
+    sell: 90.0
+  40:
+    material: FIRE_CHARGE
+    buy: 13.7
+    sell: 3.43
+  41:
+    material: FIREWORK_ROCKET
+    buy: 5.47
+    sell: 1.37
+  42:
+    material: FIREWORK_STAR
+    buy: 17.38
+    sell: 4.35
+  43:
+    material: SPYGLASS
+    buy: 34.46
+    sell: 8.62
+  44:
+    material: POWDER_SNOW_BUCKET
+    buy: 85.21
+    sell: 21.31
+    
+#==================== Spawners ====================#
+
+Spawners:
+  1:
+    material: SPAWNER
+    spawnertype: ALLAY
+    name: §6§lAllay §fSpawner
+    buy: 350000
+    sell: -1
+  2:
+    material: SPAWNER
+    spawnertype: AXOLOTL
+    name: §6§lAxolotl §fSpawner
+    buy: 200000
+    sell: -1
+  3:
+    material: SPAWNER
+    spawnertype: BEE
+    name: §6§lBee §fSpawner
+    buy: 350000
+    sell: -1
+  4:
+    material: SPAWNER
+    spawnertype: BLAZE
+    name: §6§lBlaze §fSpawner
+    buy: 350000
+    sell: -1
+  5:
+    material: SPAWNER
+    spawnertype: CAT
+    name: §6§lCat §fSpawner
+    buy: 200000
+    sell: -1
+  6:
+    material: SPAWNER
+    spawnertype: CAVE_SPIDER
+    name: §6§lCave Spider §fSpawner
+    buy: 350000
+    sell: -1
+  7:
+    material: SPAWNER
+    spawnertype: CHICKEN
+    name: §6§lChicken §fSpawner
+    buy: 200000
+    sell: -1
+  8:
+    material: SPAWNER
+    spawnertype: COW
+    name: §6§lCow §fSpawner
+    buy: 200000
+    sell: -1
+  9:
+    material: SPAWNER
+    spawnertype: CREEPER
+    name: §6§lCreeper §fSpawner
+    buy: 350000
+    sell: -1
+  10:
+    material: SPAWNER
+    spawnertype: DOLPHIN
+    name: §6§lDolphin §fSpawner
+    buy: 350000
+    sell: -1
+  11:
+    material: SPAWNER
+    spawnertype: DONKEY
+    name: §6§lDonkey §fSpawner
+    buy: 200000
+    sell: -1
+  12:
+    material: SPAWNER
+    spawnertype: DROWNED
+    name: §6§lDrowned §fSpawner
+    buy: 350000
+    sell: -1
+  13:
+    material: SPAWNER
+    spawnertype: ENDERMAN
+    name: §6§lEnderman §fSpawner
+    buy: 350000
+    sell: -1
+  14:
+    material: SPAWNER
+    spawnertype: EVOKER
+    name: §6§lEvoker §fSpawner
+    buy: 500000
+    sell: -1
+  15:
+    material: SPAWNER
+    spawnertype: FOX
+    name: §6§lFox §fSpawner
+    buy: 200000
+    sell: -1
+  16:
+    material: SPAWNER
+    spawnertype: FROG
+    name: §6§lFrog §fSpawner
+    buy: 200000
+    sell: -1
+  17:
+    material: SPAWNER
+    spawnertype: GLOW_SQUID
+    name: §6§lGlow Squid §fSpawner
+    buy: 200000
+    sell: -1
+  18:
+    material: SPAWNER
+    spawnertype: GOAT
+    name: §6§lGoat §fSpawner
+    buy: 200000
+    sell: -1
+  19:
+    material: SPAWNER
+    spawnertype: GUARDIAN
+    name: §6§lGuardian §fSpawner
+    buy: 350000
+    sell: -1
+  20:
+    material: SPAWNER
+    spawnertype: HOGLIN
+    name: §6§lHoglin §fSpawner
+    buy: 200000
+    sell: -1
+  21:
+    material: SPAWNER
+    spawnertype: HORSE
+    name: §6§lHorse §fSpawner
+    buy: 200000
+    sell: -1
+  22:
+    material: SPAWNER
+    spawnertype: HUSK
+    name: §6§lHusk §fSpawner
+    buy: 200000
+    sell: -1
+  23:
+    material: SPAWNER
+    spawnertype: IRON_GOLEM
+    name: §6§lIron Golem §fSpawner
+    buy: 750000
+    sell: -1
+  24:
+    material: SPAWNER
+    spawnertype: LLAMA
+    name: §6§lLlama §fSpawner
+    buy: 200000
+    sell: -1
+  25:
+    material: SPAWNER
+    spawnertype: MAGMA_CUBE
+    name: §6§lMagma Cube §fSpawner
+    buy: 200000
+    sell: -1
+  26:
+    material: SPAWNER
+    spawnertype: MUSHROOM_COW
+    name: §6§lMushroom Cow §fSpawner
+    buy: 200000
+    sell: -1
+  27:
+    material: SPAWNER
+    spawnertype: MULE
+    name: §6§lMule §fSpawner
+    buy: 200000
+    sell: -1
+  28:
+    material: SPAWNER
+    spawnertype: PANDA
+    name: §6§lPanda §fSpawner
+    buy: 200000
+    sell: -1
+  29:
+    material: SPAWNER
+    spawnertype: PARROT
+    name: §6§lParrot §fSpawner
+    buy: 200000
+    sell: -1
+  30:
+    material: SPAWNER
+    spawnertype: PHANTOM
+    name: §6§lPhantom §fSpawner
+    buy: 350000
+    sell: -1
+  31:
+    material: SPAWNER
+    spawnertype: PIGLIN
+    name: §6§lPiglin §fSpawner
+    buy: 300000
+    sell: -1
+  32:
+    material: SPAWNER
+    spawnertype: PIGLIN_BRUTE
+    name: §6§lPiglin Brute §fSpawner
+    buy: 350000
+    sell: -1
+  33:
+    material: SPAWNER
+    spawnertype: PILLAGER
+    name: §6§lPillager §fSpawner
+    buy: 350000
+    sell: -1.0
+  34:
+    material: SPAWNER
+    spawnertype: POLAR_BEAR
+    name: §6§lPolar Bear §fSpawner
+    buy: 200000
+    sell: -1
+  35:
+    material: SPAWNER
+    spawnertype: RABBIT
+    name: §6§lRabbit §fSpawner
+    buy: 200000
+    sell: -1
+  36:
+    material: SPAWNER
+    spawnertype: SHEEP
+    name: §6§lSheep §fSpawner
+    buy: 200000
+    sell: -1
+  37:
+    material: SPAWNER
+    spawnertype: SHULKER
+    name: §6§lShulker §fSpawner
+    buy: 750000
+    sell: -1
+  38:
+    material: SPAWNER
+    spawnertype: SKELETON
+    name: §6§lSkeleton §fSpawner
+    buy: 350000
+    sell: -1
+  39:
+    material: SPAWNER
+    spawnertype: SLIME
+    name: §6§lSlime §fSpawner
+    buy: 550000
+    sell: -1
+  40:
+    material: SPAWNER
+    spawnertype: SPIDER
+    name: §6§lSpider §fSpawner
+    buy: 350000
+    sell: -1
+  41:
+    material: SPAWNER
+    spawnertype: SQUID
+    name: §6§lSquid §fSpawner
+    buy: 200000
+    sell: -1
+  42:
+    material: SPAWNER
+    spawnertype: STRIDER
+    name: §6§lStrider §fSpawner
+    buy: 200000
+    sell: -1
+  43:
+    material: SPAWNER
+    spawnertype: VILLAGER
+    name: §6§lVillager §fSpawner
+    buy: 500000
+    sell: -1.0
+  44:
+    material: SPAWNER
+    spawnertype: VINDICATOR
+    name: §6§lVindicator §fSpawner
+    buy: 1000000
+    sell: -1.0
+  45:
+    material: SPAWNER
+    spawnertype: WITCH
+    name: §6§lWitch §fSpawner
+    buy: 500000
+    sell: -1
+  46:
+    material: SPAWNER
+    spawnertype: WITHER_SKELETON
+    name: §6§lWither Skeleton §fSpawner
+    buy: 500000
+    sell: -1
+  47:
+    material: SPAWNER
+    spawnertype: WOLF
+    name: §6§lWolf §fSpawner
+    buy: 250000
+    sell: -1
+  48:
+    material: SPAWNER
+    spawnertype: ZOMBIE
+    name: §6§lZombie §fSpawner
+    buy: 350000
+    sell: -1
+  49:
+    material: SPAWNER
+    spawnertype: Zombie_Villager
+    name: §6§lZombie Villager §fSpawner
+    buy: 1500000
+    sell: -1
+  50:
+    material: SPAWNER
+    spawnertype: ZOMBIFIED_PIGLIN
+    name: §6§lZombified Piglin §fSpawner
+    buy: 350000
+    sell: -1
+
+    
+#==================== SpawnEggs ====================#
+
+SpawnEggs:
+  1:
+    material: BAT_SPAWN_EGG
+    displayname: Bat Spawn Egg
+    buy: 1000
+    sell: -1
+  2:
+    material: BLAZE_SPAWN_EGG
+    displayname: Blaze Spawn Egg
+    buy: 10000
+    sell: -1
+  3:
+    material: CAT_SPAWN_EGG
+    displayname: Cat Spawn Egg
+    buy: 1000
+    sell: -1
+  4:
+    material: CAVE_SPIDER_SPAWN_EGG
+    displayname: Cave Spider Spawn Egg
+    buy: 10000
+    sell: -1
+  5:
+    material: CHICKEN_SPAWN_EGG
+    displayname: Chicken Spawn Egg
+    buy: 1000
+    sell: -1
+  6:
+    material: COD_SPAWN_EGG
+    displayname: Cod Spawn Egg
+    buy: 1000
+    sell: -1
+  7:
+    material: COW_SPAWN_EGG
+    displayname: Cow Spawn Egg
+    buy: 1000
+    sell: -1
+  8:
+    material: CREEPER_SPAWN_EGG
+    displayname: Creeper Spawn Egg
+    buy: 10000
+    sell: -1
+  9:
+    material: DOLPHIN_SPAWN_EGG
+    displayname: Dolphin Spawn Egg
+    buy: 1000
+    sell: -1
+  10:
+    material: DONKEY_SPAWN_EGG
+    displayname: Donkey Spawn Egg
+    buy: 1000
+    sell: -1
+  11:
+    material: DROWNED_SPAWN_EGG
+    displayname: Drowned Spawn Egg
+    buy: 10000
+    sell: -1
+  12:
+    material: ELDER_GUARDIAN_SPAWN_EGG
+    displayname: Elder Guardian Spawn Egg
+    buy: 100000
+    sell: -1
+  13:
+    material: ENDERMAN_SPAWN_EGG
+    displayname: Enderman Spawn Egg
+    buy: 10000
+    sell: -1
+  14:
+    material: ENDERMITE_SPAWN_EGG
+    displayname: Endermite Spawn Egg
+    buy: 1000
+    sell: -1
+  15:
+    material: EVOKER_SPAWN_EGG
+    displayname: Evoker Spawn Egg
+    buy: 50000
+    sell: -1
+  16:
+    material: FOX_SPAWN_EGG
+    displayname: Fox Spawn Egg
+    buy: 1000
+    sell: -1
+  17:
+    material: GHAST_SPAWN_EGG
+    displayname: Ghast Spawn Egg
+    buy: 10000
+    sell: -1
+  18:
+    material: GUARDIAN_SPAWN_EGG
+    displayname: Guardian Spawn Egg
+    buy: 10000
+    sell: -1
+  19:
+    material: HOGLIN_SPAWN_EGG
+    displayname: Hoglin Spawn Egg
+    buy: 10000
+    sell: -1
+  20:
+    material: HORSE_SPAWN_EGG
+    displayname: Horse Spawn Egg
+    buy: 1000
+    sell: -1
+  21:
+    material: HUSK_SPAWN_EGG
+    displayname: Husk Spawn Egg
+    buy: 10000
+    sell: -1
+  22:
+    material: LLAMA_SPAWN_EGG
+    displayname: Llama Spawn Egg
+    buy: 1000
+    sell: -1
+  23:
+    material: MAGMA_CUBE_SPAWN_EGG
+    displayname: Magma Cube Spawn Egg
+    buy: 10000
+    sell: -1
+  24:
+    material: MOOSHROOM_SPAWN_EGG
+    displayname: Mooshroom Spawn Egg
+    buy: 1000
+    sell: -1
+  25:
+    material: MULE_SPAWN_EGG
+    displayname: Mule Spawn Egg
+    buy: 1000
+    sell: -1
+  26:
+    material: OCELOT_SPAWN_EGG
+    displayname: Ocelot Spawn Egg
+    buy: 1000
+    sell: -1
+  27:
+    material: PANDA_SPAWN_EGG
+    displayname: Panda Spawn Egg
+    buy: 1000
+    sell: -1
+  28:
+    material: PARROT_SPAWN_EGG
+    displayname: Parrot Spawn Egg
+    buy: 1000
+    sell: -1
+  29:
+    material: PHANTOM_SPAWN_EGG
+    displayname: Phantom Spawn Egg
+    buy: 10000
+    sell: -1
+  30:
+    material: PIG_SPAWN_EGG
+    displayname: Pig Spawn Egg
+    buy: 1000
+    sell: -1
+  31:
+    material: PIGLIN_BRUTE_SPAWN_EGG
+    displayname: Pig Brute Spawn Egg
+    buy: 10000
+    sell: -1
+  32:
+    material: PIGLIN_SPAWN_EGG
+    displayname: Piglin Spawn Egg
+    buy: 10000
+    sell: -1
+  33:
+    material: PILLAGER_SPAWN_EGG
+    displayname: Pillager Spawn Egg
+    buy: 10000
+    sell: -1
+  34:
+    material: POLAR_BEAR_SPAWN_EGG
+    displayname: Polar Bear Spawn Egg
+    buy: 1000
+    sell: -1
+  35:
+    material: PUFFERFISH_SPAWN_EGG
+    displayname: Pufferfish Spawn Egg
+    buy: 1000
+    sell: -1
+  36:
+    material: RABBIT_SPAWN_EGG
+    displayname: Rabbit Spawn Egg
+    buy: 1000
+    sell: -1
+  37:
+    material: RAVAGER_SPAWN_EGG
+    displayname: Ravager Spawn Egg
+    buy: 10000
+    sell: -1
+  38:
+    material: SALMON_SPAWN_EGG
+    displayname: Salmon Spawn Egg
+    buy: 1000
+    sell: -1
+  39:
+    material: SHEEP_SPAWN_EGG
+    displayname: Sheep Spawn Egg
+    buy: 1000
+    sell: -1
+  40:
+    material: SHULKER_SPAWN_EGG
+    displayname: Shulker Spawn Egg
+    buy: 20000
+    sell: -1
+  41:
+    material: SILVERFISH_SPAWN_EGG
+    displayname: Silverfish Spawn Egg
+    buy: 1000
+    sell: -1
+  42:
+    material: SKELETON_HORSE_SPAWN_EGG
+    displayname: Skeleton Horse Spawn Egg
+    buy: 10000
+    sell: -1
+  43:
+    material: SKELETON_SPAWN_EGG
+    displayname: Skeleton Spawn Egg
+    buy: 10000
+    sell: -1
+  44:
+    material: SLIME_SPAWN_EGG
+    displayname: Slime Spawn Egg
+    buy: 10000
+    sell: -1
+  45:
+    material: SPIDER_SPAWN_EGG
+    displayname: Spider Spawn Egg
+    buy: 10000
+    sell: -1
+  46:
+    material: SQUID_SPAWN_EGG
+    displayname: Squid Spawn Egg
+    buy: 1000
+    sell: -1
+  47:
+    material: STRAY_SPAWN_EGG
+    displayname: Stray Spawn Egg
+    buy: 10000
+    sell: -1
+  48:
+    material: STRIDER_SPAWN_EGG
+    displayname: Strider Spawn Egg
+    buy: 10000
+    sell: -1
+  49:
+    material: TRADER_LLAMA_SPAWN_EGG
+    displayname: Trader Llama Spawn Egg
+    buy: 1000
+    sell: -1
+  50:
+    material: TROPICAL_FISH_SPAWN_EGG
+    displayname: Tropical Fish Spawn Egg
+    buy: 1000
+    sell: -1
+  51:
+    material: VEX_SPAWN_EGG
+    displayname: Vex Spawn Egg
+    buy: 10000
+    sell: -1
+  52:
+    material: VILLAGER_SPAWN_EGG
+    displayname: Villager Spawn Egg
+    buy: 10000
+    sell: -1
+  53:
+    material: VINDICATOR_SPAWN_EGG
+    displayname: Vindicator Spawn Egg
+    buy: 20000
+    sell: -1
+  54:
+    material: WANDERING_TRADER_SPAWN_EGG
+    displayname: Wandering Trader Spawn Egg
+    buy: 10000
+    sell: -1
+  55:
+    material: WITCH_SPAWN_EGG
+    displayname: Witch Spawn Egg
+    buy: 10000
+    sell: -1
+  56:
+    material: WITHER_SKELETON_SPAWN_EGG
+    displayname: Wither Skeleton Spawn Egg
+    buy: 20000
+    sell: -1
+  57:
+    material: WOLF_SPAWN_EGG
+    displayname: Wolf Spawn Egg
+    buy: 10000
+    sell: -1
+  58:
+    material: ZOGLIN_SPAWN_EGG
+    displayname: Zoglin Spawn Egg
+    buy: 10000
+    sell: -1
+  59:
+    material: ZOMBIE_HORSE_SPAWN_EGG
+    displayname: Zombie Horse Spawn Egg
+    buy: 10000
+    sell: -1
+  60:
+    material: ZOMBIE_SPAWN_EGG
+    displayname: Zombie Spawn Egg
+    buy: 10000
+    sell: -1
+  61:
+    material: ZOMBIE_VILLAGER_SPAWN_EGG
+    displayname: Zombie Villager Spawn Egg
+    buy: 20000
+    sell: -1
+  62:
+    material: ZOMBIFIED_PIGLIN_SPAWN_EGG
+    displayname: Zombified Piglin Spawn Egg
+    buy: 10000
+    sell: -1

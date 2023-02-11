@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.90.249.88
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674897311368
+  login: 1674895943704
+money: '0'
+last-account-name: .Ggtroktaristya2
+logoutlocation:
+  world: ca28b888-86a2-4564-bbaf-26557c309611
+  world-name: world
+  x: -27.497326
+  y: 64.0
+  z: 6.7983685
+  yaw: 32.09405517578125
+  pitch: 38.88145446777344
+lastlocation:
+  world: 9283c03b-cc8a-4b0e-97b1-122f962770c5
+  world-name: world
+  x: -799.24384
+  y: 64.0
+  z: 236.15086
+  yaw: -125.9715805053711
+  pitch: -0.7599029541015625

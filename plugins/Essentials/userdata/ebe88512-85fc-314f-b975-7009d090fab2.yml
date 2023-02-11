@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 46.242.109.114
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674333451032
+  login: 1674333448074
+money: '0'
+last-account-name: MushroomMif
+logoutlocation:
+  world: 86abb071-c83d-44e1-9f11-37926775c128
+  world-name: world
+  x: 159.5
+  y: 73.0
+  z: 276.5
+  yaw: 6.900356769561768
+  pitch: 7.350003719329834

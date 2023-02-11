@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.99.183.134
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675451934534
+  login: 1675451920791
+money: '0'
+last-account-name: .Playpuma94
+logoutlocation:
+  world: c98e554d-a809-467b-a0c6-109999f222aa
+  world-name: world
+  x: 12.891922
+  y: 71.0
+  z: 53.203068
+  yaw: -2.18878173828125
+  pitch: 15.7891845703125

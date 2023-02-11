@@ -1,0 +1,12 @@
+bungeecord:
+  motd-restarting: '&cRestarting...'
+  motd-waiting-players: '&aWaiting for players...'
+  motd-ingame: '&9Ingame'
+  sign-restarting: '&cRestarting'
+  sign-waiting-players: '&aJoin'
+  sign-ingame: '&9Running'
+  sign-lines:
+    '1': '&lBlockBall'
+    '2': <server>
+    '3': <state>
+    '4': <sumplayers>/<summaxplayers>

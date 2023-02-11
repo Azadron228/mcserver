@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 178.90.249.209
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1676053933282
+  login: 1676053465602
+money: '0'
+last-account-name: .Bratnursata
+lastlocation:
+  world: 281efa87-a9a1-4ea3-8988-1d1d7a3e8195
+  world-name: world
+  x: 4942.413
+  y: 70.0
+  z: -1309.374
+  yaw: -71.47640228271484
+  pitch: -0.3375091552734375
+logoutlocation:
+  world: 281efa87-a9a1-4ea3-8988-1d1d7a3e8195
+  world-name: world
+  x: 4992.4106
+  y: 70.0
+  z: -1323.8048
+  yaw: -26.667938232421875
+  pitch: 27.196014404296875

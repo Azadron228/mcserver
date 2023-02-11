@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 213.231.3.83
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675877809013
+  login: 1675877661871
+money: '0'
+last-account-name: .dragon015461
+logoutlocation:
+  world: 281efa87-a9a1-4ea3-8988-1d1d7a3e8195
+  world-name: world
+  x: -47.250496
+  y: 67.0
+  z: 12.248727
+  yaw: -139.2885284423828
+  pitch: 48.02803039550781
+lastlocation:
+  world: ca28b888-86a2-4564-bbaf-26557c309611
+  world-name: world
+  x: -43.171272
+  y: -34.0
+  z: -40.82558
+  yaw: -28.541732788085938
+  pitch: 4.5393524169921875

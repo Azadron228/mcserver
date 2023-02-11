@@ -1,0 +1,919 @@
+01-26-2023 05:16 [INFO] [MyPet] Error-Reporter ENABLED
+01-26-2023 05:17 [INFO] [MyPet] Enabling MyPet v3.12
+01-26-2023 05:17 [INFO] [MyPet] No Update available.
+01-26-2023 05:17 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+01-26-2023 05:17 [INFO] [MyPet] Exp calculation mode: MyPet
+01-26-2023 05:17 [INFO] [MyPet] Current Exp-Cache is invalid, it will be recalculated.
+01-26-2023 05:17 [INFO] [MyPet] Loading WorldGroups...
+01-26-2023 05:17 [INFO] [MyPet]    added world to 'default' group.
+01-26-2023 05:17 [INFO] [MyPet]    added world_nether to 'default' group.
+01-26-2023 05:17 [INFO] [MyPet]    added world_the_end to 'default' group.
+01-26-2023 05:17 [INFO] [MyPet] Default skilltree files created.
+01-26-2023 05:17 [INFO] [MyPet] Connect to SQLite database...
+01-26-2023 05:17 [INFO] [MyPet] SQLite connection successful.
+01-26-2023 05:17 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+01-26-2023 05:32 [INFO] [MyPet] Disabling MyPet v3.12
+01-26-2023 05:33 [INFO] [MyPet] Error-Reporter ENABLED
+01-26-2023 05:33 [INFO] [MyPet] Enabling MyPet v3.12
+01-26-2023 05:33 [INFO] [MyPet] No Update available.
+01-26-2023 05:33 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+01-26-2023 05:33 [INFO] [MyPet] Exp calculation mode: MyPet
+01-26-2023 05:33 [INFO] [MyPet] Loading WorldGroups...
+01-26-2023 05:33 [INFO] [MyPet]    added 'world' to 'default'
+01-26-2023 05:33 [INFO] [MyPet]    added 'world_nether' to 'default'
+01-26-2023 05:33 [INFO] [MyPet]    added 'world_the_end' to 'default'
+01-26-2023 05:33 [INFO] [MyPet] Connect to SQLite database...
+01-26-2023 05:33 [INFO] [MyPet] SQLite connection successful.
+01-26-2023 05:33 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+01-26-2023 08:10 [INFO] [MyPet] Disabling MyPet v3.12
+01-26-2023 08:10 [INFO] [MyPet] Error-Reporter ENABLED
+01-26-2023 08:10 [INFO] [MyPet] Enabling MyPet v3.12
+01-26-2023 08:10 [INFO] [MyPet] No Update available.
+01-26-2023 08:10 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+01-26-2023 08:10 [INFO] [MyPet] Exp calculation mode: MyPet
+01-26-2023 08:10 [INFO] [MyPet] Loading WorldGroups...
+01-26-2023 08:10 [INFO] [MyPet]    added 'world' to 'default'
+01-26-2023 08:10 [INFO] [MyPet]    added 'world_nether' to 'default'
+01-26-2023 08:10 [INFO] [MyPet]    added 'world_the_end' to 'default'
+01-26-2023 08:10 [INFO] [MyPet] Connect to SQLite database...
+01-26-2023 08:10 [INFO] [MyPet] SQLite connection successful.
+01-26-2023 08:10 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+01-26-2023 12:21 [INFO] [MyPet] Disabling MyPet v3.12
+01-26-2023 13:04 [INFO] [MyPet] Error-Reporter ENABLED
+01-26-2023 13:04 [INFO] [MyPet] Enabling MyPet v3.12
+01-26-2023 13:04 [INFO] [MyPet] No Update available.
+01-26-2023 13:04 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+01-26-2023 13:04 [INFO] [MyPet] Exp calculation mode: MyPet
+01-26-2023 13:04 [INFO] [MyPet] Loading WorldGroups...
+01-26-2023 13:04 [INFO] [MyPet]    added 'world' to 'default'
+01-26-2023 13:04 [INFO] [MyPet]    added 'world_nether' to 'default'
+01-26-2023 13:04 [INFO] [MyPet]    added 'world_the_end' to 'default'
+01-26-2023 13:04 [INFO] [MyPet] Connect to SQLite database...
+01-26-2023 13:04 [INFO] [MyPet] SQLite connection successful.
+01-26-2023 13:04 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+01-26-2023 15:54 [INFO] [MyPet] Disabling MyPet v3.12
+01-26-2023 15:54 [INFO] [MyPet] Error-Reporter ENABLED
+01-26-2023 15:54 [INFO] [MyPet] Enabling MyPet v3.12
+01-26-2023 15:54 [INFO] [MyPet] No Update available.
+01-26-2023 15:54 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+01-26-2023 15:54 [INFO] [MyPet] Exp calculation mode: MyPet
+01-26-2023 15:54 [INFO] [MyPet] Loading WorldGroups...
+01-26-2023 15:54 [INFO] [MyPet]    added 'world' to 'default'
+01-26-2023 15:54 [INFO] [MyPet]    added 'world_nether' to 'default'
+01-26-2023 15:54 [INFO] [MyPet]    added 'world_the_end' to 'default'
+01-26-2023 15:54 [INFO] [MyPet] Connect to SQLite database...
+01-26-2023 15:54 [INFO] [MyPet] SQLite connection successful.
+01-26-2023 15:54 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: SuperPerms) hook activated.
+01-26-2023 15:54 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+01-26-2023 15:55 [INFO] [MyPet] Disabling MyPet v3.12
+01-26-2023 15:56 [INFO] [MyPet] Error-Reporter ENABLED
+01-26-2023 15:56 [INFO] [MyPet] Enabling MyPet v3.12
+01-26-2023 15:56 [INFO] [MyPet] No Update available.
+01-26-2023 15:56 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+01-26-2023 15:56 [INFO] [MyPet] Exp calculation mode: MyPet
+01-26-2023 15:56 [INFO] [MyPet] Loading WorldGroups...
+01-26-2023 15:56 [INFO] [MyPet]    added 'world' to 'default'
+01-26-2023 15:56 [INFO] [MyPet]    added 'world_nether' to 'default'
+01-26-2023 15:56 [INFO] [MyPet]    added 'world_the_end' to 'default'
+01-26-2023 15:56 [INFO] [MyPet] Connect to SQLite database...
+01-26-2023 15:56 [INFO] [MyPet] SQLite connection successful.
+01-26-2023 15:56 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: SuperPerms) hook activated.
+01-26-2023 15:56 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+01-27-2023 09:20 [INFO] [MyPet] Disabling MyPet v3.12
+01-27-2023 09:21 [INFO] [MyPet] Error-Reporter ENABLED
+01-27-2023 09:21 [INFO] [MyPet] Enabling MyPet v3.12
+01-27-2023 09:21 [INFO] [MyPet] ##################################################
+01-27-2023 09:21 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+01-27-2023 09:21 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+01-27-2023 09:21 [INFO] [MyPet] ##################################################
+01-27-2023 09:21 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+01-27-2023 09:21 [INFO] [MyPet] Exp calculation mode: MyPet
+01-27-2023 09:21 [INFO] [MyPet] Loading WorldGroups...
+01-27-2023 09:21 [INFO] [MyPet]    added 'world' to 'default'
+01-27-2023 09:21 [INFO] [MyPet]    added 'world_nether' to 'default'
+01-27-2023 09:21 [INFO] [MyPet]    added 'world_the_end' to 'default'
+01-27-2023 09:21 [INFO] [MyPet] Connect to SQLite database...
+01-27-2023 09:21 [INFO] [MyPet] SQLite connection successful.
+01-27-2023 09:21 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+01-27-2023 09:21 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+01-27-2023 10:04 [INFO] [MyPet] Disabling MyPet v3.12
+01-27-2023 10:05 [INFO] [MyPet] Error-Reporter ENABLED
+01-27-2023 10:05 [INFO] [MyPet] Enabling MyPet v3.12
+01-27-2023 10:05 [INFO] [MyPet] ##################################################
+01-27-2023 10:05 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+01-27-2023 10:05 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+01-27-2023 10:05 [INFO] [MyPet] ##################################################
+01-27-2023 10:05 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+01-27-2023 10:05 [INFO] [MyPet] Exp calculation mode: MyPet
+01-27-2023 10:05 [INFO] [MyPet] Loading WorldGroups...
+01-27-2023 10:05 [INFO] [MyPet]    added 'world' to 'default'
+01-27-2023 10:05 [INFO] [MyPet]    added 'world_nether' to 'default'
+01-27-2023 10:05 [INFO] [MyPet]    added 'world_the_end' to 'default'
+01-27-2023 10:05 [INFO] [MyPet] Connect to SQLite database...
+01-27-2023 10:05 [INFO] [MyPet] SQLite connection successful.
+01-27-2023 10:05 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+01-27-2023 10:05 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+01-27-2023 13:00 [INFO] [MyPet] Disabling MyPet v3.12
+01-27-2023 13:04 [INFO] [MyPet] Error-Reporter ENABLED
+01-27-2023 13:05 [INFO] [MyPet] Enabling MyPet v3.12
+01-27-2023 13:05 [INFO] [MyPet] ##################################################
+01-27-2023 13:05 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+01-27-2023 13:05 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+01-27-2023 13:05 [INFO] [MyPet] ##################################################
+01-27-2023 13:05 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+01-27-2023 13:05 [INFO] [MyPet] Exp calculation mode: MyPet
+01-27-2023 13:05 [INFO] [MyPet] Loading WorldGroups...
+01-27-2023 13:05 [INFO] [MyPet]    added 'world' to 'default'
+01-27-2023 13:05 [INFO] [MyPet]    added 'world_nether' to 'default'
+01-27-2023 13:05 [INFO] [MyPet]    added 'world_the_end' to 'default'
+01-27-2023 13:05 [INFO] [MyPet] Connect to SQLite database...
+01-27-2023 13:05 [INFO] [MyPet] SQLite connection successful.
+01-27-2023 13:05 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+01-27-2023 13:05 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+01-27-2023 13:09 [INFO] [MyPet] Disabling MyPet v3.12
+01-27-2023 13:09 [INFO] [MyPet] Error-Reporter ENABLED
+01-27-2023 13:10 [INFO] [MyPet] Enabling MyPet v3.12
+01-27-2023 13:10 [INFO] [MyPet] ##################################################
+01-27-2023 13:10 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+01-27-2023 13:10 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+01-27-2023 13:10 [INFO] [MyPet] ##################################################
+01-27-2023 13:10 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+01-27-2023 13:10 [INFO] [MyPet] Exp calculation mode: MyPet
+01-27-2023 13:10 [INFO] [MyPet] Loading WorldGroups...
+01-27-2023 13:10 [INFO] [MyPet]    added 'world' to 'default'
+01-27-2023 13:10 [INFO] [MyPet]    added 'world_nether' to 'default'
+01-27-2023 13:10 [INFO] [MyPet]    added 'world_the_end' to 'default'
+01-27-2023 13:10 [INFO] [MyPet] Connect to SQLite database...
+01-27-2023 13:10 [INFO] [MyPet] SQLite connection successful.
+01-27-2023 13:10 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+01-27-2023 13:10 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+01-27-2023 13:51 [INFO] [MyPet] Disabling MyPet v3.12
+01-27-2023 13:52 [INFO] [MyPet] Error-Reporter ENABLED
+01-27-2023 13:52 [INFO] [MyPet] Enabling MyPet v3.12
+01-27-2023 13:52 [INFO] [MyPet] ##################################################
+01-27-2023 13:52 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+01-27-2023 13:52 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+01-27-2023 13:52 [INFO] [MyPet] ##################################################
+01-27-2023 13:52 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+01-27-2023 13:52 [INFO] [MyPet] Exp calculation mode: MyPet
+01-27-2023 13:52 [INFO] [MyPet] Loading WorldGroups...
+01-27-2023 13:52 [INFO] [MyPet]    added 'world' to 'default'
+01-27-2023 13:52 [INFO] [MyPet]    added 'world_nether' to 'default'
+01-27-2023 13:52 [INFO] [MyPet]    added 'world_the_end' to 'default'
+01-27-2023 13:52 [INFO] [MyPet] Connect to SQLite database...
+01-27-2023 13:52 [INFO] [MyPet] SQLite connection successful.
+01-27-2023 13:52 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+01-27-2023 13:52 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+01-27-2023 17:41 [INFO] [MyPet] Disabling MyPet v3.12
+01-27-2023 17:42 [INFO] [MyPet] Error-Reporter ENABLED
+01-27-2023 17:42 [INFO] [MyPet] Enabling MyPet v3.12
+01-27-2023 17:42 [INFO] [MyPet] ##################################################
+01-27-2023 17:42 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+01-27-2023 17:42 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+01-27-2023 17:42 [INFO] [MyPet] ##################################################
+01-27-2023 17:42 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+01-27-2023 17:42 [INFO] [MyPet] Exp calculation mode: MyPet
+01-27-2023 17:42 [INFO] [MyPet] Loading WorldGroups...
+01-27-2023 17:42 [INFO] [MyPet]    added 'world' to 'default'
+01-27-2023 17:42 [INFO] [MyPet]    added 'world_nether' to 'default'
+01-27-2023 17:42 [INFO] [MyPet]    added 'world_the_end' to 'default'
+01-27-2023 17:42 [INFO] [MyPet] Connect to SQLite database...
+01-27-2023 17:42 [INFO] [MyPet] SQLite connection successful.
+01-27-2023 17:42 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+01-27-2023 17:42 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+01-28-2023 05:21 [INFO] [MyPet] Disabling MyPet v3.12
+01-28-2023 05:22 [INFO] [MyPet] Error-Reporter ENABLED
+01-28-2023 05:22 [INFO] [MyPet] Enabling MyPet v3.12
+01-28-2023 05:22 [INFO] [MyPet] ##################################################
+01-28-2023 05:22 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+01-28-2023 05:22 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+01-28-2023 05:22 [INFO] [MyPet] ##################################################
+01-28-2023 05:22 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+01-28-2023 05:22 [INFO] [MyPet] Exp calculation mode: MyPet
+01-28-2023 05:22 [INFO] [MyPet] Loading WorldGroups...
+01-28-2023 05:22 [INFO] [MyPet]    added 'world' to 'default'
+01-28-2023 05:22 [INFO] [MyPet]    added 'world_nether' to 'default'
+01-28-2023 05:22 [INFO] [MyPet]    added 'world_the_end' to 'default'
+01-28-2023 05:22 [INFO] [MyPet] Connect to SQLite database...
+01-28-2023 05:22 [INFO] [MyPet] SQLite connection successful.
+01-28-2023 05:22 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+01-28-2023 05:22 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+01-28-2023 06:04 [INFO] [MyPet] Disabling MyPet v3.12
+01-28-2023 06:04 [INFO] [MyPet] Error-Reporter ENABLED
+01-28-2023 06:05 [INFO] [MyPet] Enabling MyPet v3.12
+01-28-2023 06:05 [INFO] [MyPet] ##################################################
+01-28-2023 06:05 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+01-28-2023 06:05 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+01-28-2023 06:05 [INFO] [MyPet] ##################################################
+01-28-2023 06:05 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+01-28-2023 06:05 [INFO] [MyPet] Exp calculation mode: MyPet
+01-28-2023 06:05 [INFO] [MyPet] Loading WorldGroups...
+01-28-2023 06:05 [INFO] [MyPet]    added 'world' to 'default'
+01-28-2023 06:05 [INFO] [MyPet]    added 'world_nether' to 'default'
+01-28-2023 06:05 [INFO] [MyPet]    added 'world_the_end' to 'default'
+01-28-2023 06:05 [INFO] [MyPet] Connect to SQLite database...
+01-28-2023 06:05 [INFO] [MyPet] SQLite connection successful.
+01-28-2023 06:05 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+01-28-2023 06:05 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+01-28-2023 08:48 [INFO] [MyPet] Disabling MyPet v3.12
+01-28-2023 08:51 [INFO] [MyPet] Error-Reporter ENABLED
+01-28-2023 08:52 [INFO] [MyPet] Enabling MyPet v3.12
+01-28-2023 08:52 [INFO] [MyPet] ##################################################
+01-28-2023 08:52 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+01-28-2023 08:52 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+01-28-2023 08:52 [INFO] [MyPet] ##################################################
+01-28-2023 08:52 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+01-28-2023 08:52 [INFO] [MyPet] Exp calculation mode: MyPet
+01-28-2023 08:52 [INFO] [MyPet] Loading WorldGroups...
+01-28-2023 08:52 [INFO] [MyPet]    added 'world' to 'default'
+01-28-2023 08:52 [INFO] [MyPet]    added 'world_nether' to 'default'
+01-28-2023 08:52 [INFO] [MyPet]    added 'world_the_end' to 'default'
+01-28-2023 08:52 [INFO] [MyPet] Connect to SQLite database...
+01-28-2023 08:52 [INFO] [MyPet] SQLite connection successful.
+01-28-2023 08:52 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+01-28-2023 08:52 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+01-28-2023 13:01 [INFO] [MyPet] Disabling MyPet v3.12
+01-28-2023 13:06 [INFO] [MyPet] Error-Reporter ENABLED
+01-28-2023 13:07 [INFO] [MyPet] Enabling MyPet v3.12
+01-28-2023 13:07 [INFO] [MyPet] ##################################################
+01-28-2023 13:07 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+01-28-2023 13:07 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+01-28-2023 13:07 [INFO] [MyPet] ##################################################
+01-28-2023 13:07 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+01-28-2023 13:07 [INFO] [MyPet] Exp calculation mode: MyPet
+01-28-2023 13:07 [INFO] [MyPet] Loading WorldGroups...
+01-28-2023 13:07 [INFO] [MyPet]    added 'world' to 'default'
+01-28-2023 13:07 [INFO] [MyPet]    added 'world_nether' to 'default'
+01-28-2023 13:07 [INFO] [MyPet]    added 'world_the_end' to 'default'
+01-28-2023 13:07 [INFO] [MyPet] Connect to SQLite database...
+01-28-2023 13:07 [INFO] [MyPet] SQLite connection successful.
+01-28-2023 13:07 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+01-28-2023 13:07 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+01-29-2023 05:24 [INFO] [MyPet] Disabling MyPet v3.12
+01-29-2023 05:27 [INFO] [MyPet] Error-Reporter ENABLED
+01-29-2023 05:28 [INFO] [MyPet] Enabling MyPet v3.12
+01-29-2023 05:28 [INFO] [MyPet] ##################################################
+01-29-2023 05:28 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+01-29-2023 05:28 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+01-29-2023 05:28 [INFO] [MyPet] ##################################################
+01-29-2023 05:28 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+01-29-2023 05:28 [INFO] [MyPet] Exp calculation mode: MyPet
+01-29-2023 05:28 [INFO] [MyPet] Loading WorldGroups...
+01-29-2023 05:28 [INFO] [MyPet]    added 'world' to 'default'
+01-29-2023 05:28 [INFO] [MyPet]    added 'world_nether' to 'default'
+01-29-2023 05:28 [INFO] [MyPet]    added 'world_the_end' to 'default'
+01-29-2023 05:28 [INFO] [MyPet] Connect to SQLite database...
+01-29-2023 05:28 [INFO] [MyPet] SQLite connection successful.
+01-29-2023 05:28 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+01-29-2023 05:28 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+01-29-2023 05:29 [INFO] [MyPet] Disabling MyPet v3.12
+01-29-2023 05:31 [INFO] [MyPet] Error-Reporter ENABLED
+01-29-2023 05:32 [INFO] [MyPet] Enabling MyPet v3.12
+01-29-2023 05:32 [INFO] [MyPet] ##################################################
+01-29-2023 05:32 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+01-29-2023 05:32 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+01-29-2023 05:32 [INFO] [MyPet] ##################################################
+01-29-2023 05:32 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+01-29-2023 05:32 [INFO] [MyPet] Exp calculation mode: MyPet
+01-29-2023 05:32 [INFO] [MyPet] Loading WorldGroups...
+01-29-2023 05:32 [INFO] [MyPet]    added 'world' to 'default'
+01-29-2023 05:32 [INFO] [MyPet]    added 'world_nether' to 'default'
+01-29-2023 05:32 [INFO] [MyPet]    added 'world_the_end' to 'default'
+01-29-2023 05:32 [INFO] [MyPet] Connect to SQLite database...
+01-29-2023 05:32 [INFO] [MyPet] SQLite connection successful.
+01-29-2023 05:32 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+01-29-2023 05:32 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+01-29-2023 12:37 [INFO] [MyPet] Disabling MyPet v3.12
+01-29-2023 12:38 [INFO] [MyPet] Error-Reporter ENABLED
+01-29-2023 12:39 [INFO] [MyPet] Enabling MyPet v3.12
+01-29-2023 12:39 [INFO] [MyPet] ##################################################
+01-29-2023 12:39 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+01-29-2023 12:39 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+01-29-2023 12:39 [INFO] [MyPet] ##################################################
+01-29-2023 12:39 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+01-29-2023 12:39 [INFO] [MyPet] Exp calculation mode: MyPet
+01-29-2023 12:39 [INFO] [MyPet] Loading WorldGroups...
+01-29-2023 12:39 [INFO] [MyPet]    added 'world' to 'default'
+01-29-2023 12:39 [INFO] [MyPet]    added 'world_nether' to 'default'
+01-29-2023 12:39 [INFO] [MyPet]    added 'world_the_end' to 'default'
+01-29-2023 12:39 [INFO] [MyPet] Connect to SQLite database...
+01-29-2023 12:39 [INFO] [MyPet] SQLite connection successful.
+01-29-2023 12:39 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+01-29-2023 12:39 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+01-29-2023 13:03 [INFO] [MyPet] Disabling MyPet v3.12
+01-29-2023 13:09 [INFO] [MyPet] Error-Reporter ENABLED
+01-29-2023 13:10 [INFO] [MyPet] Enabling MyPet v3.12
+01-29-2023 13:10 [INFO] [MyPet] ##################################################
+01-29-2023 13:10 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+01-29-2023 13:10 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+01-29-2023 13:10 [INFO] [MyPet] ##################################################
+01-29-2023 13:10 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+01-29-2023 13:10 [INFO] [MyPet] Exp calculation mode: MyPet
+01-29-2023 13:10 [INFO] [MyPet] Loading WorldGroups...
+01-29-2023 13:10 [INFO] [MyPet]    added 'world' to 'default'
+01-29-2023 13:10 [INFO] [MyPet]    added 'world_nether' to 'default'
+01-29-2023 13:10 [INFO] [MyPet]    added 'world_the_end' to 'default'
+01-29-2023 13:10 [INFO] [MyPet] Connect to SQLite database...
+01-29-2023 13:10 [INFO] [MyPet] SQLite connection successful.
+01-29-2023 13:10 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+01-29-2023 13:10 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+01-29-2023 13:53 [INFO] [MyPet] Disabling MyPet v3.12
+01-29-2023 13:53 [INFO] [MyPet] Error-Reporter ENABLED
+01-29-2023 13:54 [INFO] [MyPet] Enabling MyPet v3.12
+01-29-2023 13:54 [INFO] [MyPet] ##################################################
+01-29-2023 13:54 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+01-29-2023 13:54 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+01-29-2023 13:54 [INFO] [MyPet] ##################################################
+01-29-2023 13:54 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+01-29-2023 13:54 [INFO] [MyPet] Exp calculation mode: MyPet
+01-29-2023 13:54 [INFO] [MyPet] Loading WorldGroups...
+01-29-2023 13:54 [INFO] [MyPet]    added 'world' to 'default'
+01-29-2023 13:54 [INFO] [MyPet]    added 'world_nether' to 'default'
+01-29-2023 13:54 [INFO] [MyPet]    added 'world_the_end' to 'default'
+01-29-2023 13:54 [INFO] [MyPet] Connect to SQLite database...
+01-29-2023 13:54 [INFO] [MyPet] SQLite connection successful.
+01-29-2023 13:54 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+01-29-2023 13:54 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+01-30-2023 03:47 [INFO] [MyPet] Disabling MyPet v3.12
+01-30-2023 04:00 [INFO] [MyPet] Error-Reporter ENABLED
+01-30-2023 04:01 [INFO] [MyPet] Enabling MyPet v3.12
+01-30-2023 04:01 [INFO] [MyPet] ##################################################
+01-30-2023 04:01 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+01-30-2023 04:01 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+01-30-2023 04:01 [INFO] [MyPet] ##################################################
+01-30-2023 04:01 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+01-30-2023 04:01 [INFO] [MyPet] Exp calculation mode: MyPet
+01-30-2023 04:01 [INFO] [MyPet] Loading WorldGroups...
+01-30-2023 04:01 [INFO] [MyPet]    added 'world' to 'default'
+01-30-2023 04:01 [INFO] [MyPet]    added 'world_nether' to 'default'
+01-30-2023 04:01 [INFO] [MyPet]    added 'world_the_end' to 'default'
+01-30-2023 04:01 [INFO] [MyPet] Connect to SQLite database...
+01-30-2023 04:01 [INFO] [MyPet] SQLite connection successful.
+01-30-2023 04:01 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+01-30-2023 04:01 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+01-30-2023 04:02 [INFO] [MyPet] Disabling MyPet v3.12
+01-30-2023 04:04 [INFO] [MyPet] Error-Reporter ENABLED
+01-30-2023 04:04 [INFO] [MyPet] Enabling MyPet v3.12
+01-30-2023 04:04 [INFO] [MyPet] ##################################################
+01-30-2023 04:04 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+01-30-2023 04:04 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+01-30-2023 04:04 [INFO] [MyPet] ##################################################
+01-30-2023 04:04 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+01-30-2023 04:04 [INFO] [MyPet] Exp calculation mode: MyPet
+01-30-2023 04:04 [INFO] [MyPet] Loading WorldGroups...
+01-30-2023 04:04 [INFO] [MyPet]    added 'world' to 'default'
+01-30-2023 04:04 [INFO] [MyPet]    added 'world_nether' to 'default'
+01-30-2023 04:04 [INFO] [MyPet]    added 'world_the_end' to 'default'
+01-30-2023 04:04 [INFO] [MyPet] Connect to SQLite database...
+01-30-2023 04:04 [INFO] [MyPet] SQLite connection successful.
+01-30-2023 04:04 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+01-30-2023 04:04 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+01-30-2023 04:47 [INFO] [MyPet] Disabling MyPet v3.12
+01-30-2023 04:48 [INFO] [MyPet] Error-Reporter ENABLED
+01-30-2023 04:49 [INFO] [MyPet] Enabling MyPet v3.12
+01-30-2023 04:49 [INFO] [MyPet] ##################################################
+01-30-2023 04:49 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+01-30-2023 04:49 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+01-30-2023 04:49 [INFO] [MyPet] ##################################################
+01-30-2023 04:49 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+01-30-2023 04:49 [INFO] [MyPet] Exp calculation mode: MyPet
+01-30-2023 04:49 [INFO] [MyPet] Loading WorldGroups...
+01-30-2023 04:49 [INFO] [MyPet]    added 'world' to 'default'
+01-30-2023 04:49 [INFO] [MyPet]    added 'world_nether' to 'default'
+01-30-2023 04:49 [INFO] [MyPet]    added 'world_the_end' to 'default'
+01-30-2023 04:49 [INFO] [MyPet] Connect to SQLite database...
+01-30-2023 04:49 [INFO] [MyPet] SQLite connection successful.
+01-30-2023 04:49 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+01-30-2023 04:49 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+01-30-2023 13:06 [INFO] [MyPet] Disabling MyPet v3.12
+01-30-2023 13:12 [INFO] [MyPet] Error-Reporter ENABLED
+01-30-2023 13:12 [INFO] [MyPet] Enabling MyPet v3.12
+01-30-2023 13:12 [INFO] [MyPet] ##################################################
+01-30-2023 13:12 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+01-30-2023 13:12 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+01-30-2023 13:12 [INFO] [MyPet] ##################################################
+01-30-2023 13:12 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+01-30-2023 13:12 [INFO] [MyPet] Exp calculation mode: MyPet
+01-30-2023 13:12 [INFO] [MyPet] Loading WorldGroups...
+01-30-2023 13:12 [INFO] [MyPet]    added 'world' to 'default'
+01-30-2023 13:12 [INFO] [MyPet]    added 'world_nether' to 'default'
+01-30-2023 13:12 [INFO] [MyPet]    added 'world_the_end' to 'default'
+01-30-2023 13:12 [INFO] [MyPet] Connect to SQLite database...
+01-30-2023 13:12 [INFO] [MyPet] SQLite connection successful.
+01-30-2023 13:12 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+01-30-2023 13:12 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+01-30-2023 15:40 [INFO] [MyPet] Disabling MyPet v3.12
+01-30-2023 15:41 [INFO] [MyPet] Error-Reporter ENABLED
+01-30-2023 15:41 [INFO] [MyPet] Enabling MyPet v3.12
+01-30-2023 15:41 [INFO] [MyPet] ##################################################
+01-30-2023 15:41 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+01-30-2023 15:41 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+01-30-2023 15:41 [INFO] [MyPet] ##################################################
+01-30-2023 15:41 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+01-30-2023 15:41 [INFO] [MyPet] Exp calculation mode: MyPet
+01-30-2023 15:41 [INFO] [MyPet] Loading WorldGroups...
+01-30-2023 15:41 [INFO] [MyPet]    added 'world' to 'default'
+01-30-2023 15:41 [INFO] [MyPet]    added 'world_nether' to 'default'
+01-30-2023 15:41 [INFO] [MyPet]    added 'world_the_end' to 'default'
+01-30-2023 15:41 [INFO] [MyPet] Connect to SQLite database...
+01-30-2023 15:41 [INFO] [MyPet] SQLite connection successful.
+01-30-2023 15:41 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+01-30-2023 15:41 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+01-30-2023 18:20 [INFO] [MyPet] Disabling MyPet v3.12
+01-31-2023 03:57 [INFO] [MyPet] Error-Reporter ENABLED
+01-31-2023 03:57 [INFO] [MyPet] Enabling MyPet v3.12
+01-31-2023 03:57 [INFO] [MyPet] ##################################################
+01-31-2023 03:57 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+01-31-2023 03:57 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+01-31-2023 03:57 [INFO] [MyPet] ##################################################
+01-31-2023 03:57 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+01-31-2023 03:57 [INFO] [MyPet] Exp calculation mode: MyPet
+01-31-2023 03:57 [INFO] [MyPet] Current Exp-Cache is invalid, it will be recalculated.
+01-31-2023 03:57 [INFO] [MyPet] Loading WorldGroups...
+01-31-2023 03:57 [INFO] [MyPet]    added 'world' to 'default'
+01-31-2023 03:57 [INFO] [MyPet]    added 'world_nether' to 'default'
+01-31-2023 03:57 [INFO] [MyPet]    added 'world_the_end' to 'default'
+01-31-2023 03:57 [INFO] [MyPet] Connect to SQLite database...
+01-31-2023 03:57 [INFO] [MyPet] SQLite connection successful.
+01-31-2023 03:57 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+01-31-2023 03:57 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+01-31-2023 08:22 [INFO] [MyPet] Disabling MyPet v3.12
+01-31-2023 09:40 [INFO] [MyPet] Error-Reporter ENABLED
+01-31-2023 09:40 [INFO] [MyPet] Enabling MyPet v3.12
+01-31-2023 09:40 [INFO] [MyPet] ##################################################
+01-31-2023 09:40 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+01-31-2023 09:40 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+01-31-2023 09:40 [INFO] [MyPet] ##################################################
+01-31-2023 09:40 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+01-31-2023 09:40 [INFO] [MyPet] Exp calculation mode: MyPet
+01-31-2023 09:40 [INFO] [MyPet] Current Exp-Cache is invalid, it will be recalculated.
+01-31-2023 09:40 [INFO] [MyPet] Loading WorldGroups...
+01-31-2023 09:40 [INFO] [MyPet]    added 'world' to 'default'
+01-31-2023 09:40 [INFO] [MyPet]    added 'world_nether' to 'default'
+01-31-2023 09:40 [INFO] [MyPet]    added 'world_the_end' to 'default'
+01-31-2023 09:40 [INFO] [MyPet] Connect to SQLite database...
+01-31-2023 09:40 [INFO] [MyPet] SQLite connection successful.
+01-31-2023 09:40 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+01-31-2023 09:40 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+01-31-2023 09:45 [INFO] [MyPet] Disabling MyPet v3.12
+01-31-2023 11:19 [INFO] [MyPet] Error-Reporter ENABLED
+01-31-2023 11:20 [INFO] [MyPet] Enabling MyPet v3.12
+01-31-2023 11:20 [INFO] [MyPet] ##################################################
+01-31-2023 11:20 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+01-31-2023 11:20 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+01-31-2023 11:20 [INFO] [MyPet] ##################################################
+01-31-2023 11:20 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+01-31-2023 11:20 [INFO] [MyPet] Exp calculation mode: MyPet
+01-31-2023 11:20 [INFO] [MyPet] Current Exp-Cache is invalid, it will be recalculated.
+01-31-2023 11:20 [INFO] [MyPet] Loading WorldGroups...
+01-31-2023 11:20 [INFO] [MyPet]    added 'world' to 'default'
+01-31-2023 11:20 [INFO] [MyPet]    added 'world_nether' to 'default'
+01-31-2023 11:20 [INFO] [MyPet]    added 'world_the_end' to 'default'
+01-31-2023 11:20 [INFO] [MyPet] Connect to SQLite database...
+01-31-2023 11:20 [INFO] [MyPet] SQLite connection successful.
+01-31-2023 11:20 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+01-31-2023 11:20 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+02-01-2023 04:31 [INFO] [MyPet] Disabling MyPet v3.12
+02-01-2023 04:32 [INFO] [MyPet] Error-Reporter ENABLED
+02-01-2023 04:32 [INFO] [MyPet] Enabling MyPet v3.12
+02-01-2023 04:32 [INFO] [MyPet] ##################################################
+02-01-2023 04:32 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+02-01-2023 04:32 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+02-01-2023 04:32 [INFO] [MyPet] ##################################################
+02-01-2023 04:32 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+02-01-2023 04:32 [INFO] [MyPet] Exp calculation mode: MyPet
+02-01-2023 04:32 [INFO] [MyPet] Loading WorldGroups...
+02-01-2023 04:32 [INFO] [MyPet]    added 'world' to 'default'
+02-01-2023 04:32 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-01-2023 04:32 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-01-2023 04:32 [INFO] [MyPet] Connect to SQLite database...
+02-01-2023 04:32 [INFO] [MyPet] SQLite connection successful.
+02-01-2023 04:32 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+02-01-2023 04:32 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+02-01-2023 11:17 [INFO] [MyPet] Disabling MyPet v3.12
+02-01-2023 13:00 [INFO] [MyPet] Error-Reporter ENABLED
+02-01-2023 13:00 [INFO] [MyPet] Enabling MyPet v3.12
+02-01-2023 13:00 [INFO] [MyPet] ##################################################
+02-01-2023 13:00 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+02-01-2023 13:00 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+02-01-2023 13:00 [INFO] [MyPet] ##################################################
+02-01-2023 13:00 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+02-01-2023 13:00 [INFO] [MyPet] Exp calculation mode: MyPet
+02-01-2023 13:00 [INFO] [MyPet] Loading WorldGroups...
+02-01-2023 13:00 [INFO] [MyPet]    added 'world' to 'default'
+02-01-2023 13:00 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-01-2023 13:00 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-01-2023 13:00 [INFO] [MyPet] Connect to SQLite database...
+02-01-2023 13:00 [INFO] [MyPet] SQLite connection successful.
+02-01-2023 13:00 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+02-01-2023 13:00 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+02-02-2023 03:29 [INFO] [MyPet] Disabling MyPet v3.12
+02-02-2023 03:30 [INFO] [MyPet] Error-Reporter ENABLED
+02-02-2023 03:30 [INFO] [MyPet] Enabling MyPet v3.12
+02-02-2023 03:30 [INFO] [MyPet] ##################################################
+02-02-2023 03:30 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+02-02-2023 03:30 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+02-02-2023 03:30 [INFO] [MyPet] ##################################################
+02-02-2023 03:30 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+02-02-2023 03:30 [INFO] [MyPet] Exp calculation mode: MyPet
+02-02-2023 03:30 [INFO] [MyPet] Loading WorldGroups...
+02-02-2023 03:30 [INFO] [MyPet]    added 'world' to 'default'
+02-02-2023 03:30 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-02-2023 03:30 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-02-2023 03:30 [INFO] [MyPet] Connect to SQLite database...
+02-02-2023 03:30 [INFO] [MyPet] SQLite connection successful.
+02-02-2023 03:30 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+02-02-2023 03:30 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+02-02-2023 04:07 [INFO] [MyPet] Disabling MyPet v3.12
+02-02-2023 04:09 [INFO] [MyPet] Error-Reporter ENABLED
+02-02-2023 04:10 [INFO] [MyPet] Enabling MyPet v3.12
+02-02-2023 04:10 [INFO] [MyPet] ##################################################
+02-02-2023 04:10 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+02-02-2023 04:10 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+02-02-2023 04:10 [INFO] [MyPet] ##################################################
+02-02-2023 04:10 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+02-02-2023 04:10 [INFO] [MyPet] Exp calculation mode: MyPet
+02-02-2023 04:10 [INFO] [MyPet] Loading WorldGroups...
+02-02-2023 04:10 [INFO] [MyPet]    added 'world' to 'default'
+02-02-2023 04:10 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-02-2023 04:10 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-02-2023 04:10 [INFO] [MyPet] Connect to SQLite database...
+02-02-2023 04:10 [INFO] [MyPet] SQLite connection successful.
+02-02-2023 04:10 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+02-02-2023 04:10 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+02-02-2023 05:25 [INFO] [MyPet] Disabling MyPet v3.12
+02-02-2023 05:27 [INFO] [MyPet] Error-Reporter ENABLED
+02-02-2023 05:35 [INFO] [MyPet] Error-Reporter ENABLED
+02-02-2023 05:35 [INFO] [MyPet] Enabling MyPet v3.12
+02-02-2023 05:35 [INFO] [MyPet] ##################################################
+02-02-2023 05:35 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+02-02-2023 05:35 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+02-02-2023 05:35 [INFO] [MyPet] ##################################################
+02-02-2023 05:35 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+02-02-2023 05:35 [INFO] [MyPet] Exp calculation mode: MyPet
+02-02-2023 05:35 [INFO] [MyPet] Loading WorldGroups...
+02-02-2023 05:35 [INFO] [MyPet]    added 'world' to 'default'
+02-02-2023 05:35 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-02-2023 05:35 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-02-2023 05:35 [INFO] [MyPet] Connect to SQLite database...
+02-02-2023 05:35 [INFO] [MyPet] SQLite connection successful.
+02-02-2023 05:35 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+02-02-2023 05:35 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+02-02-2023 05:37 [INFO] [MyPet] Disabling MyPet v3.12
+02-02-2023 05:39 [INFO] [MyPet] Error-Reporter ENABLED
+02-02-2023 05:40 [INFO] [MyPet] Enabling MyPet v3.12
+02-02-2023 05:40 [INFO] [MyPet] ##################################################
+02-02-2023 05:40 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+02-02-2023 05:40 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+02-02-2023 05:40 [INFO] [MyPet] ##################################################
+02-02-2023 05:40 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+02-02-2023 05:40 [INFO] [MyPet] Exp calculation mode: MyPet
+02-02-2023 05:40 [INFO] [MyPet] Loading WorldGroups...
+02-02-2023 05:40 [INFO] [MyPet]    added 'world' to 'default'
+02-02-2023 05:40 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-02-2023 05:40 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-02-2023 05:40 [INFO] [MyPet] Connect to SQLite database...
+02-02-2023 05:40 [INFO] [MyPet] SQLite connection successful.
+02-02-2023 05:40 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+02-02-2023 05:40 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+02-02-2023 05:52 [INFO] [MyPet] Disabling MyPet v3.12
+02-02-2023 05:55 [INFO] [MyPet] Error-Reporter ENABLED
+02-02-2023 05:56 [INFO] [MyPet] Enabling MyPet v3.12
+02-02-2023 05:56 [INFO] [MyPet] ##################################################
+02-02-2023 05:56 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+02-02-2023 05:56 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+02-02-2023 05:56 [INFO] [MyPet] ##################################################
+02-02-2023 05:56 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+02-02-2023 05:56 [INFO] [MyPet] Exp calculation mode: MyPet
+02-02-2023 05:56 [INFO] [MyPet] Loading WorldGroups...
+02-02-2023 05:56 [INFO] [MyPet]    added 'world' to 'default'
+02-02-2023 05:56 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-02-2023 05:56 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-02-2023 05:56 [INFO] [MyPet] Connect to SQLite database...
+02-02-2023 05:56 [INFO] [MyPet] SQLite connection successful.
+02-02-2023 05:56 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+02-02-2023 05:56 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+02-02-2023 05:56 [INFO] [MyPet] Disabling MyPet v3.12
+02-02-2023 06:00 [INFO] [MyPet] Error-Reporter ENABLED
+02-02-2023 06:01 [INFO] [MyPet] Enabling MyPet v3.12
+02-02-2023 06:01 [INFO] [MyPet] ##################################################
+02-02-2023 06:01 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+02-02-2023 06:01 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+02-02-2023 06:01 [INFO] [MyPet] ##################################################
+02-02-2023 06:01 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+02-02-2023 06:01 [INFO] [MyPet] Exp calculation mode: MyPet
+02-02-2023 06:01 [INFO] [MyPet] Loading WorldGroups...
+02-02-2023 06:01 [INFO] [MyPet]    added 'world' to 'default'
+02-02-2023 06:01 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-02-2023 06:01 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-02-2023 06:01 [INFO] [MyPet] Connect to SQLite database...
+02-02-2023 06:01 [INFO] [MyPet] SQLite connection successful.
+02-02-2023 06:01 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+02-02-2023 06:01 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+02-02-2023 06:02 [INFO] [MyPet] Disabling MyPet v3.12
+02-02-2023 06:27 [INFO] [MyPet] Error-Reporter ENABLED
+02-02-2023 06:30 [INFO] [MyPet] Error-Reporter ENABLED
+02-02-2023 06:31 [INFO] [MyPet] Enabling MyPet v3.12
+02-02-2023 06:31 [INFO] [MyPet] ##################################################
+02-02-2023 06:31 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+02-02-2023 06:31 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+02-02-2023 06:31 [INFO] [MyPet] ##################################################
+02-02-2023 06:31 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+02-02-2023 06:31 [INFO] [MyPet] Exp calculation mode: MyPet
+02-02-2023 06:31 [INFO] [MyPet] Loading WorldGroups...
+02-02-2023 06:31 [INFO] [MyPet]    added 'world' to 'default'
+02-02-2023 06:31 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-02-2023 06:31 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-02-2023 06:31 [INFO] [MyPet] Connect to SQLite database...
+02-02-2023 06:31 [INFO] [MyPet] SQLite connection successful.
+02-02-2023 06:31 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+02-02-2023 06:31 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+02-02-2023 06:35 [INFO] [MyPet] Disabling MyPet v3.12
+02-02-2023 06:47 [INFO] [MyPet] Error-Reporter ENABLED
+02-02-2023 06:48 [INFO] [MyPet] Enabling MyPet v3.12
+02-02-2023 06:48 [INFO] [MyPet] ##################################################
+02-02-2023 06:48 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+02-02-2023 06:48 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+02-02-2023 06:48 [INFO] [MyPet] ##################################################
+02-02-2023 06:48 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+02-02-2023 06:48 [INFO] [MyPet] Exp calculation mode: MyPet
+02-02-2023 06:48 [INFO] [MyPet] Loading WorldGroups...
+02-02-2023 06:48 [INFO] [MyPet]    added 'world' to 'default'
+02-02-2023 06:48 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-02-2023 06:48 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-02-2023 06:48 [INFO] [MyPet] Connect to SQLite database...
+02-02-2023 06:48 [INFO] [MyPet] SQLite connection successful.
+02-02-2023 06:48 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+02-02-2023 06:48 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+02-02-2023 06:49 [INFO] [MyPet] Disabling MyPet v3.12
+02-02-2023 10:29 [INFO] [MyPet] Error-Reporter ENABLED
+02-02-2023 10:30 [INFO] [MyPet] Enabling MyPet v3.12
+02-02-2023 10:30 [INFO] [MyPet] ##################################################
+02-02-2023 10:30 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+02-02-2023 10:30 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+02-02-2023 10:30 [INFO] [MyPet] ##################################################
+02-02-2023 10:30 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+02-02-2023 10:30 [INFO] [MyPet] Exp calculation mode: MyPet
+02-02-2023 10:30 [INFO] [MyPet] Loading WorldGroups...
+02-02-2023 10:30 [INFO] [MyPet]    added 'world' to 'default'
+02-02-2023 10:30 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-02-2023 10:30 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-02-2023 10:30 [INFO] [MyPet] Connect to SQLite database...
+02-02-2023 10:30 [INFO] [MyPet] SQLite connection successful.
+02-02-2023 10:30 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+02-02-2023 10:30 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+02-02-2023 10:31 [INFO] [MyPet] Error-Reporter ENABLED
+02-02-2023 10:33 [INFO] [MyPet] Enabling MyPet v3.12
+02-02-2023 10:33 [INFO] [MyPet] ##################################################
+02-02-2023 10:33 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+02-02-2023 10:33 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+02-02-2023 10:33 [INFO] [MyPet] ##################################################
+02-02-2023 10:33 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+02-02-2023 10:33 [INFO] [MyPet] Exp calculation mode: MyPet
+02-02-2023 10:33 [INFO] [MyPet] Loading WorldGroups...
+02-02-2023 10:33 [INFO] [MyPet]    added 'world' to 'default'
+02-02-2023 10:33 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-02-2023 10:33 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-02-2023 10:33 [INFO] [MyPet] Connect to SQLite database...
+02-02-2023 10:33 [INFO] [MyPet] SQLite connection successful.
+02-02-2023 10:33 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+02-02-2023 10:33 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+02-02-2023 12:28 [INFO] [MyPet] Disabling MyPet v3.12
+02-02-2023 12:45 [INFO] [MyPet] Error-Reporter ENABLED
+02-02-2023 12:46 [INFO] [MyPet] Enabling MyPet v3.12
+02-02-2023 12:46 [INFO] [MyPet] ##################################################
+02-02-2023 12:46 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+02-02-2023 12:46 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+02-02-2023 12:46 [INFO] [MyPet] ##################################################
+02-02-2023 12:46 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+02-02-2023 12:46 [INFO] [MyPet] Exp calculation mode: MyPet
+02-02-2023 12:46 [INFO] [MyPet] Loading WorldGroups...
+02-02-2023 12:46 [INFO] [MyPet]    added 'world' to 'default'
+02-02-2023 12:46 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-02-2023 12:46 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-02-2023 12:46 [INFO] [MyPet] Connect to SQLite database...
+02-02-2023 12:46 [INFO] [MyPet] SQLite connection successful.
+02-02-2023 12:46 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+02-02-2023 12:46 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+02-02-2023 13:04 [INFO] [MyPet] Disabling MyPet v3.12
+02-02-2023 13:05 [INFO] [MyPet] Error-Reporter ENABLED
+02-02-2023 13:06 [INFO] [MyPet] Enabling MyPet v3.12
+02-02-2023 13:06 [INFO] [MyPet] ##################################################
+02-02-2023 13:06 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+02-02-2023 13:06 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+02-02-2023 13:06 [INFO] [MyPet] ##################################################
+02-02-2023 13:06 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+02-02-2023 13:06 [INFO] [MyPet] Exp calculation mode: MyPet
+02-02-2023 13:06 [INFO] [MyPet] Loading WorldGroups...
+02-02-2023 13:06 [INFO] [MyPet]    added 'world' to 'default'
+02-02-2023 13:06 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-02-2023 13:06 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-02-2023 13:06 [INFO] [MyPet] Connect to SQLite database...
+02-02-2023 13:06 [INFO] [MyPet] SQLite connection successful.
+02-02-2023 13:06 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+02-02-2023 13:06 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+02-03-2023 12:40 [INFO] [MyPet] Disabling MyPet v3.12
+02-03-2023 12:51 [INFO] [MyPet] Error-Reporter ENABLED
+02-03-2023 12:52 [INFO] [MyPet] Enabling MyPet v3.12
+02-03-2023 12:52 [INFO] [MyPet] ##################################################
+02-03-2023 12:52 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+02-03-2023 12:52 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+02-03-2023 12:52 [INFO] [MyPet] ##################################################
+02-03-2023 12:52 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+02-03-2023 12:52 [INFO] [MyPet] Exp calculation mode: MyPet
+02-03-2023 12:52 [INFO] [MyPet] Loading WorldGroups...
+02-03-2023 12:52 [INFO] [MyPet]    added 'world' to 'default'
+02-03-2023 12:52 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-03-2023 12:52 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-03-2023 12:52 [INFO] [MyPet] Connect to SQLite database...
+02-03-2023 12:52 [INFO] [MyPet] SQLite connection successful.
+02-03-2023 12:52 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+02-03-2023 12:52 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+02-04-2023 12:47 [INFO] [MyPet] Disabling MyPet v3.12
+02-04-2023 12:55 [INFO] [MyPet] Error-Reporter ENABLED
+02-04-2023 12:56 [INFO] [MyPet] Enabling MyPet v3.12
+02-04-2023 12:56 [INFO] [MyPet] ##################################################
+02-04-2023 12:56 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1735 #
+02-04-2023 12:56 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+02-04-2023 12:56 [INFO] [MyPet] ##################################################
+02-04-2023 12:56 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+02-04-2023 12:56 [INFO] [MyPet] Exp calculation mode: MyPet
+02-04-2023 12:56 [INFO] [MyPet] Loading WorldGroups...
+02-04-2023 12:56 [INFO] [MyPet]    added 'world' to 'default'
+02-04-2023 12:56 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-04-2023 12:56 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-04-2023 12:56 [INFO] [MyPet] Connect to SQLite database...
+02-04-2023 12:56 [INFO] [MyPet] SQLite connection successful.
+02-04-2023 12:56 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+02-04-2023 12:56 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+02-05-2023 12:51 [INFO] [MyPet] Disabling MyPet v3.12
+02-05-2023 13:00 [INFO] [MyPet] Error-Reporter ENABLED
+02-05-2023 13:01 [INFO] [MyPet] Enabling MyPet v3.12
+02-05-2023 13:01 [INFO] [MyPet] ##################################################
+02-05-2023 13:01 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1736 #
+02-05-2023 13:01 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+02-05-2023 13:01 [INFO] [MyPet] ##################################################
+02-05-2023 13:01 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+02-05-2023 13:01 [INFO] [MyPet] Exp calculation mode: MyPet
+02-05-2023 13:01 [INFO] [MyPet] Loading WorldGroups...
+02-05-2023 13:01 [INFO] [MyPet]    added 'world' to 'default'
+02-05-2023 13:01 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-05-2023 13:01 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-05-2023 13:01 [INFO] [MyPet] Connect to SQLite database...
+02-05-2023 13:01 [INFO] [MyPet] SQLite connection successful.
+02-05-2023 13:01 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+02-05-2023 13:01 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+02-06-2023 12:52 [INFO] [MyPet] Disabling MyPet v3.12
+02-06-2023 13:28 [INFO] [MyPet] Error-Reporter ENABLED
+02-06-2023 13:29 [INFO] [MyPet] Enabling MyPet v3.12
+02-06-2023 13:29 [INFO] [MyPet] ##################################################
+02-06-2023 13:29 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1736 #
+02-06-2023 13:29 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+02-06-2023 13:29 [INFO] [MyPet] ##################################################
+02-06-2023 13:29 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+02-06-2023 13:29 [INFO] [MyPet] Exp calculation mode: MyPet
+02-06-2023 13:29 [INFO] [MyPet] Loading WorldGroups...
+02-06-2023 13:29 [INFO] [MyPet]    added 'world' to 'default'
+02-06-2023 13:29 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-06-2023 13:29 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-06-2023 13:29 [INFO] [MyPet] Connect to SQLite database...
+02-06-2023 13:29 [INFO] [MyPet] SQLite connection successful.
+02-06-2023 13:29 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+02-06-2023 13:29 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+02-07-2023 12:56 [INFO] [MyPet] Disabling MyPet v3.12
+02-07-2023 13:30 [INFO] [MyPet] Error-Reporter ENABLED
+02-07-2023 13:31 [INFO] [MyPet] Enabling MyPet v3.12
+02-07-2023 13:31 [INFO] [MyPet] ##################################################
+02-07-2023 13:31 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1736 #
+02-07-2023 13:31 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+02-07-2023 13:31 [INFO] [MyPet] ##################################################
+02-07-2023 13:31 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+02-07-2023 13:31 [INFO] [MyPet] Exp calculation mode: MyPet
+02-07-2023 13:31 [INFO] [MyPet] Loading WorldGroups...
+02-07-2023 13:31 [INFO] [MyPet]    added 'world' to 'default'
+02-07-2023 13:31 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-07-2023 13:31 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-07-2023 13:31 [INFO] [MyPet] Connect to SQLite database...
+02-07-2023 13:31 [INFO] [MyPet] SQLite connection successful.
+02-07-2023 13:31 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+02-07-2023 13:31 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+02-07-2023 18:18 [INFO] [MyPet] Disabling MyPet v3.12
+02-08-2023 04:08 [INFO] [MyPet] Error-Reporter ENABLED
+02-08-2023 04:09 [INFO] [MyPet] Enabling MyPet v3.12
+02-08-2023 04:09 [INFO] [MyPet] ##################################################
+02-08-2023 04:09 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1736 #
+02-08-2023 04:09 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+02-08-2023 04:09 [INFO] [MyPet] ##################################################
+02-08-2023 04:09 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+02-08-2023 04:09 [INFO] [MyPet] Exp calculation mode: MyPet
+02-08-2023 04:09 [INFO] [MyPet] Loading WorldGroups...
+02-08-2023 04:09 [INFO] [MyPet]    added 'world' to 'default'
+02-08-2023 04:09 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-08-2023 04:09 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-08-2023 04:09 [INFO] [MyPet] Connect to SQLite database...
+02-08-2023 04:09 [INFO] [MyPet] SQLite connection successful.
+02-08-2023 04:09 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+02-08-2023 04:09 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+02-08-2023 13:24 [INFO] [MyPet] Disabling MyPet v3.12
+02-08-2023 14:42 [INFO] [MyPet] Error-Reporter ENABLED
+02-08-2023 14:43 [INFO] [MyPet] Enabling MyPet v3.12
+02-08-2023 14:43 [INFO] [MyPet] ##################################################
+02-08-2023 14:43 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1736 #
+02-08-2023 14:43 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+02-08-2023 14:43 [INFO] [MyPet] ##################################################
+02-08-2023 14:43 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+02-08-2023 14:43 [INFO] [MyPet] Exp calculation mode: MyPet
+02-08-2023 14:43 [INFO] [MyPet] Loading WorldGroups...
+02-08-2023 14:43 [INFO] [MyPet]    added 'world' to 'default'
+02-08-2023 14:43 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-08-2023 14:43 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-08-2023 14:43 [INFO] [MyPet] Connect to SQLite database...
+02-08-2023 14:43 [INFO] [MyPet] SQLite connection successful.
+02-08-2023 14:43 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+02-08-2023 14:43 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+02-08-2023 15:37 [INFO] [MyPet] Disabling MyPet v3.12
+02-08-2023 16:08 [INFO] [MyPet] Error-Reporter ENABLED
+02-08-2023 16:08 [INFO] [MyPet] Enabling MyPet v3.12
+02-08-2023 16:08 [INFO] [MyPet] ##################################################
+02-08-2023 16:08 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1736 #
+02-08-2023 16:08 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+02-08-2023 16:08 [INFO] [MyPet] ##################################################
+02-08-2023 16:08 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+02-08-2023 16:08 [INFO] [MyPet] Exp calculation mode: MyPet
+02-08-2023 16:08 [INFO] [MyPet] Loading WorldGroups...
+02-08-2023 16:08 [INFO] [MyPet]    added 'world' to 'default'
+02-08-2023 16:08 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-08-2023 16:08 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-08-2023 16:08 [INFO] [MyPet] Connect to SQLite database...
+02-08-2023 16:08 [INFO] [MyPet] SQLite connection successful.
+02-08-2023 16:08 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+02-08-2023 16:08 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+02-08-2023 16:14 [INFO] [MyPet] Disabling MyPet v3.12
+02-08-2023 16:16 [INFO] [MyPet] Error-Reporter ENABLED
+02-08-2023 16:17 [INFO] [MyPet] Enabling MyPet v3.12
+02-08-2023 16:17 [INFO] [MyPet] ##################################################
+02-08-2023 16:17 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1736 #
+02-08-2023 16:17 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+02-08-2023 16:17 [INFO] [MyPet] ##################################################
+02-08-2023 16:17 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+02-08-2023 16:17 [INFO] [MyPet] Exp calculation mode: MyPet
+02-08-2023 16:17 [INFO] [MyPet] Loading WorldGroups...
+02-08-2023 16:17 [INFO] [MyPet]    added 'world' to 'default'
+02-08-2023 16:17 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-08-2023 16:17 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-08-2023 16:17 [INFO] [MyPet] Connect to SQLite database...
+02-08-2023 16:17 [INFO] [MyPet] SQLite connection successful.
+02-08-2023 16:17 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+02-08-2023 16:17 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+02-09-2023 14:38 [INFO] [MyPet] Disabling MyPet v3.12
+02-09-2023 15:26 [INFO] [MyPet] Error-Reporter ENABLED
+02-09-2023 15:27 [INFO] [MyPet] Enabling MyPet v3.12
+02-09-2023 15:27 [INFO] [MyPet] ##################################################
+02-09-2023 15:27 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1736 #
+02-09-2023 15:27 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+02-09-2023 15:27 [INFO] [MyPet] ##################################################
+02-09-2023 15:27 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+02-09-2023 15:27 [INFO] [MyPet] Exp calculation mode: MyPet
+02-09-2023 15:27 [INFO] [MyPet] Loading WorldGroups...
+02-09-2023 15:27 [INFO] [MyPet]    added 'world' to 'default'
+02-09-2023 15:27 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-09-2023 15:27 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-09-2023 15:27 [INFO] [MyPet] Connect to SQLite database...
+02-09-2023 15:27 [INFO] [MyPet] SQLite connection successful.
+02-09-2023 15:27 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+02-09-2023 15:27 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+02-10-2023 15:22 [INFO] [MyPet] Disabling MyPet v3.12
+02-10-2023 16:31 [INFO] [MyPet] Error-Reporter ENABLED
+02-10-2023 16:32 [INFO] [MyPet] Enabling MyPet v3.12
+02-10-2023 16:32 [INFO] [MyPet] ##################################################
+02-10-2023 16:32 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1736 #
+02-10-2023 16:32 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+02-10-2023 16:32 [INFO] [MyPet] ##################################################
+02-10-2023 16:32 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+02-10-2023 16:32 [INFO] [MyPet] Exp calculation mode: MyPet
+02-10-2023 16:32 [INFO] [MyPet] Loading WorldGroups...
+02-10-2023 16:32 [INFO] [MyPet]    added 'world' to 'default'
+02-10-2023 16:32 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-10-2023 16:32 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-10-2023 16:32 [INFO] [MyPet] Connect to SQLite database...
+02-10-2023 16:32 [INFO] [MyPet] SQLite connection successful.
+02-10-2023 16:32 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+02-10-2023 16:32 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+02-10-2023 17:08 [INFO] [MyPet] Disabling MyPet v3.12
+02-10-2023 18:04 [INFO] [MyPet] Error-Reporter ENABLED
+02-10-2023 18:05 [INFO] [MyPet] Enabling MyPet v3.12
+02-10-2023 18:05 [INFO] [MyPet] ##################################################
+02-10-2023 18:05 [INFO] [MyPet] #  A new build is available: 3.12-SNAPSHOT #1736 #
+02-10-2023 18:05 [INFO] [MyPet] #  https://github.com/MyPetORG/MyPet/releases    #
+02-10-2023 18:05 [INFO] [MyPet] ##################################################
+02-10-2023 18:05 [INFO] [MyPet] Compat mode for v1_19_R2 loaded.
+02-10-2023 18:05 [INFO] [MyPet] Exp calculation mode: MyPet
+02-10-2023 18:05 [INFO] [MyPet] Loading WorldGroups...
+02-10-2023 18:05 [INFO] [MyPet]    added 'world' to 'default'
+02-10-2023 18:05 [INFO] [MyPet]    added 'world_nether' to 'default'
+02-10-2023 18:05 [INFO] [MyPet]    added 'world_the_end' to 'default'
+02-10-2023 18:05 [INFO] [MyPet] Connect to SQLite database...
+02-10-2023 18:05 [INFO] [MyPet] SQLite connection successful.
+02-10-2023 18:05 [INFO] [MyPet] Vault (1.7.3-b131) (Economy: EssentialsX Economy) (Permissions: LuckPerms) hook activated.
+02-10-2023 18:05 [INFO] [MyPet] Version 3.12-SNAPSHOT-b1734 ENABLED
+02-11-2023 08:08 [INFO] [MyPet] Disabling MyPet v3.12

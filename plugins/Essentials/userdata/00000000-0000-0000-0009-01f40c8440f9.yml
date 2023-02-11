@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.193.101.186
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675681030305
+  login: 1675680632003
+money: '0'
+last-account-name: .infinityVGX
+logoutlocation:
+  world: c98e554d-a809-467b-a0c6-109999f222aa
+  world-name: world
+  x: 62.82343
+  y: 105.16610717773438
+  z: 187.20541
+  yaw: -103.93052673339844
+  pitch: 14.791839599609375

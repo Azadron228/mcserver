@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 85.117.125.96
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674485651370
+  login: 1674485437100
+money: '0'
+last-account-name: .BronzeGoat86215
+logoutlocation:
+  world: 86abb071-c83d-44e1-9f11-37926775c128
+  world-name: world
+  x: -263.30001
+  y: 64.0
+  z: -46.39138
+  yaw: 122.08526611328125
+  pitch: 20.037521362304688

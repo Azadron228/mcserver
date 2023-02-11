@@ -1,0 +1,32 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 94.141.241.80
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675539108473
+  login: 1675538658541
+money: '0'
+last-account-name: .Dp_toxic08
+logoutlocation:
+  world: c98e554d-a809-467b-a0c6-109999f222aa
+  world-name: world
+  x: -12.806243
+  y: 59.0
+  z: 45.87622
+  yaw: -142.2003631591797
+  pitch: 27.030990600585938
+past-usernames:
+- .Reamoff08

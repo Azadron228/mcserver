@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 2.135.66.227
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1674908990064
+  login: 1674908927094
+money: '0'
+last-account-name: .Nurgisa1213
+logoutlocation:
+  world: ca28b888-86a2-4564-bbaf-26557c309611
+  world-name: world
+  x: -61.39812
+  y: 75.0
+  z: -9.057511
+  yaw: 62.59220886230469
+  pitch: 21.998275756835938
+lastlocation:
+  world: ca28b888-86a2-4564-bbaf-26557c309611
+  world-name: world
+  x: -47.69999
+  y: 71.0
+  z: -54.977726
+  yaw: 105.25711059570312
+  pitch: 14.18878173828125

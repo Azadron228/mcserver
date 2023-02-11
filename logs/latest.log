@@ -1,0 +1,688 @@
+[00:05:41] [Craft Scheduler Thread - 229 - CustomHeads/WARN]: [CustomHeads] Plugin CustomHeads v3.0.7 generated an exception while executing task 80
+java.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:101) ~[gson-2.10.jar:?]
+	at de.likewhat.customheads.utils.PlayerWrapper.clearCache(PlayerWrapper.java:94) ~[CustomHeads.jar:?]
+	at de.likewhat.customheads.CustomHeads$5.run(CustomHeads.java:437) ~[CustomHeads.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.19.3.jar:git-Paper-367]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.19.3.jar:git-Paper-367]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.19.3.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[00:05:41] [Craft Scheduler Thread - 234 - Vault/INFO]: [Vault] Checking for Updates ... 
+[00:05:41] [Craft Scheduler Thread - 234 - Vault/INFO]: [Vault] No new version available
+[00:35:41] [Craft Scheduler Thread - 234 - CustomHeads/WARN]: [CustomHeads] Plugin CustomHeads v3.0.7 generated an exception while executing task 80
+java.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:101) ~[gson-2.10.jar:?]
+	at de.likewhat.customheads.utils.PlayerWrapper.clearCache(PlayerWrapper.java:94) ~[CustomHeads.jar:?]
+	at de.likewhat.customheads.CustomHeads$5.run(CustomHeads.java:437) ~[CustomHeads.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.19.3.jar:git-Paper-367]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.19.3.jar:git-Paper-367]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.19.3.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[01:05:41] [Craft Scheduler Thread - 247 - CustomHeads/WARN]: [CustomHeads] Plugin CustomHeads v3.0.7 generated an exception while executing task 80
+java.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:101) ~[gson-2.10.jar:?]
+	at de.likewhat.customheads.utils.PlayerWrapper.clearCache(PlayerWrapper.java:94) ~[CustomHeads.jar:?]
+	at de.likewhat.customheads.CustomHeads$5.run(CustomHeads.java:437) ~[CustomHeads.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.19.3.jar:git-Paper-367]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.19.3.jar:git-Paper-367]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.19.3.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[01:06:57] [Network Listener - #0/INFO]: [Geyser-Spigot] /5.251.232.85:28490 tried to connect!
+[01:06:58] [Network Listener - #3/INFO]: [Geyser-Spigot] Player connected with username Keks0111tort
+[01:06:58] [defaultEventLoopGroup-5-1/INFO]: [Geyser-Spigot] Keks0111tort (logged in as: Keks0111tort) has connected to the Java server
+[01:06:59] [Geyser Spigot connection thread-4-2/INFO]: UUID of player .Keks0111tort is 00000000-0000-0000-0009-01f27ffb0cbb
+[01:06:59] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Keks0111tort joined (UUID: 00000000-0000-0000-0009-01f27ffb0cbb)
+[01:06:59] [Server thread/INFO]: .Keks0111tort joined the game
+[01:06:59] [Server thread/INFO]: .Keks0111tort[/5.251.232.85:0] logged in with entity id 24743 at ([world]4944.4346, 69.0, -1376.464)
+[01:16:50] [Geyser Spigot connection thread-4-2/INFO]: [floodgate] Floodgate player logged in as .Keks0111tort disconnected
+[01:16:50] [defaultEventLoopGroup-5-1/INFO]: [Geyser-Spigot] Keks0111tort has disconnected from the Java server because of Bedrock client disconnected
+[01:16:50] [Server thread/INFO]: .Keks0111tort lost connection: Disconnected
+[01:16:50] [Server thread/INFO]: .Keks0111tort left the game
+[01:35:41] [Craft Scheduler Thread - 264 - CustomHeads/WARN]: [CustomHeads] Plugin CustomHeads v3.0.7 generated an exception while executing task 80
+java.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:101) ~[gson-2.10.jar:?]
+	at de.likewhat.customheads.utils.PlayerWrapper.clearCache(PlayerWrapper.java:94) ~[CustomHeads.jar:?]
+	at de.likewhat.customheads.CustomHeads$5.run(CustomHeads.java:437) ~[CustomHeads.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.19.3.jar:git-Paper-367]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.19.3.jar:git-Paper-367]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.19.3.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[01:48:58] [Network Listener - #3/INFO]: [Geyser-Spigot] /37.99.44.226:17515 tried to connect!
+[01:48:59] [Network Listener - #0/INFO]: [Geyser-Spigot] Player connected with username Lerixman12
+[01:48:59] [defaultEventLoopGroup-5-2/INFO]: [Geyser-Spigot] Lerixman12 (logged in as: Lerixman12) has connected to the Java server
+[01:48:59] [Geyser Spigot connection thread-4-3/INFO]: UUID of player .Lerixman12 is 00000000-0000-0000-0009-01f4138341b4
+[01:48:59] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Lerixman12 joined (UUID: 00000000-0000-0000-0009-01f4138341b4)
+[01:48:59] [Server thread/INFO]: .Lerixman12 joined the game
+[01:48:59] [Server thread/INFO]: .Lerixman12[/37.99.44.226:0] logged in with entity id 26201 at ([world]4977.1567, 82.5, -1300.2706)
+[02:05:04] [Server thread/INFO]: .Lerixman12 hit the ground too hard
+[02:05:41] [Craft Scheduler Thread - 278 - CustomHeads/WARN]: [CustomHeads] Plugin CustomHeads v3.0.7 generated an exception while executing task 80
+java.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:101) ~[gson-2.10.jar:?]
+	at de.likewhat.customheads.utils.PlayerWrapper.clearCache(PlayerWrapper.java:94) ~[CustomHeads.jar:?]
+	at de.likewhat.customheads.CustomHeads$5.run(CustomHeads.java:437) ~[CustomHeads.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.19.3.jar:git-Paper-367]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.19.3.jar:git-Paper-367]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.19.3.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[02:08:01] [Server thread/INFO]: /185.25.206.222:40828 lost connection: Unknown data in login hostname, did you forget to enable BungeeCord in spigot.yml?
+[02:16:33] [defaultEventLoopGroup-5-2/INFO]: [Geyser-Spigot] Lerixman12 has disconnected from the Java server because of Bedrock client disconnected
+[02:16:33] [Geyser Spigot connection thread-4-3/INFO]: [floodgate] Floodgate player logged in as .Lerixman12 disconnected
+[02:16:33] [Server thread/INFO]: .Lerixman12 lost connection: Disconnected
+[02:16:33] [Server thread/INFO]: .Lerixman12 left the game
+[02:16:49] [Network Listener - #3/INFO]: [Geyser-Spigot] /37.99.44.226:17515 tried to connect!
+[02:16:50] [Network Listener - #1/INFO]: [Geyser-Spigot] Player connected with username Lerixman12
+[02:16:50] [defaultEventLoopGroup-5-3/INFO]: [Geyser-Spigot] Lerixman12 (logged in as: Lerixman12) has connected to the Java server
+[02:16:50] [Geyser Spigot connection thread-4-4/INFO]: UUID of player .Lerixman12 is 00000000-0000-0000-0009-01f4138341b4
+[02:16:50] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Lerixman12 joined (UUID: 00000000-0000-0000-0009-01f4138341b4)
+[02:16:50] [Server thread/INFO]: .Lerixman12 joined the game
+[02:16:50] [Server thread/INFO]: .Lerixman12[/37.99.44.226:0] logged in with entity id 29257 at ([world]4969.1655, 71.0, -1295.51249)
+[02:17:36] [Server thread/INFO]: .Lerixman12 has made the advancement [Bee Our Guest]
+[02:27:00] [defaultEventLoopGroup-5-3/INFO]: [Geyser-Spigot] Lerixman12 has disconnected from the Java server because of Bedrock client disconnected
+[02:27:00] [Geyser Spigot connection thread-4-4/INFO]: [floodgate] Floodgate player logged in as .Lerixman12 disconnected
+[02:27:00] [Server thread/INFO]: .Lerixman12 lost connection: Disconnected
+[02:27:00] [Server thread/INFO]: .Lerixman12 left the game
+[02:27:38] [Network Listener - #3/INFO]: [Geyser-Spigot] /37.99.44.226:17515 tried to connect!
+[02:27:39] [Network Listener - #2/INFO]: [Geyser-Spigot] Player connected with username Lerixman12
+[02:27:39] [defaultEventLoopGroup-5-4/INFO]: [Geyser-Spigot] Lerixman12 (logged in as: Lerixman12) has connected to the Java server
+[02:27:39] [Geyser Spigot connection thread-4-1/INFO]: UUID of player .Lerixman12 is 00000000-0000-0000-0009-01f4138341b4
+[02:27:39] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Lerixman12 joined (UUID: 00000000-0000-0000-0009-01f4138341b4)
+[02:27:39] [Server thread/INFO]: .Lerixman12 joined the game
+[02:27:39] [Server thread/INFO]: .Lerixman12[/37.99.44.226:0] logged in with entity id 30551 at ([world]4960.30001, 67.0, -1261.326)
+[02:28:49] [Geyser Spigot connection thread-4-1/INFO]: [floodgate] Floodgate player logged in as .Lerixman12 disconnected
+[02:28:49] [defaultEventLoopGroup-5-4/INFO]: [Geyser-Spigot] Lerixman12 has disconnected from the Java server because of Bedrock client disconnected
+[02:28:49] [Server thread/INFO]: .Lerixman12 lost connection: Disconnected
+[02:28:49] [Server thread/INFO]: .Lerixman12 left the game
+[02:33:40] [Network Listener - #3/INFO]: [Geyser-Spigot] /37.99.44.226:17515 tried to connect!
+[02:33:41] [Network Listener - #3/INFO]: [Geyser-Spigot] Player connected with username Lerixman12
+[02:33:41] [defaultEventLoopGroup-5-1/INFO]: [Geyser-Spigot] Lerixman12 (logged in as: Lerixman12) has connected to the Java server
+[02:33:41] [Geyser Spigot connection thread-4-2/INFO]: UUID of player .Lerixman12 is 00000000-0000-0000-0009-01f4138341b4
+[02:33:41] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Lerixman12 joined (UUID: 00000000-0000-0000-0009-01f4138341b4)
+[02:33:41] [Server thread/INFO]: .Lerixman12 joined the game
+[02:33:41] [Server thread/INFO]: .Lerixman12[/37.99.44.226:0] logged in with entity id 30800 at ([world]4960.5635, 67.0, -1247.6246)
+[02:35:41] [Craft Scheduler Thread - 292 - CustomHeads/WARN]: [CustomHeads] Plugin CustomHeads v3.0.7 generated an exception while executing task 80
+java.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:101) ~[gson-2.10.jar:?]
+	at de.likewhat.customheads.utils.PlayerWrapper.clearCache(PlayerWrapper.java:94) ~[CustomHeads.jar:?]
+	at de.likewhat.customheads.CustomHeads$5.run(CustomHeads.java:437) ~[CustomHeads.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.19.3.jar:git-Paper-367]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.19.3.jar:git-Paper-367]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.19.3.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[02:41:33] [Server thread/WARN]: .Lerixman12 moved wrongly!
+[02:41:40] [Server thread/WARN]: .Lerixman12 moved wrongly!
+[02:46:50] [Server thread/WARN]: .Lerixman12 moved wrongly!
+[02:57:17] [Server thread/INFO]: .Lerixman12 has made the advancement [Suit Up]
+[03:05:41] [Craft Scheduler Thread - 371 - CustomHeads/WARN]: [CustomHeads] Plugin CustomHeads v3.0.7 generated an exception while executing task 80
+java.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:101) ~[gson-2.10.jar:?]
+	at de.likewhat.customheads.utils.PlayerWrapper.clearCache(PlayerWrapper.java:94) ~[CustomHeads.jar:?]
+	at de.likewhat.customheads.CustomHeads$5.run(CustomHeads.java:437) ~[CustomHeads.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.19.3.jar:git-Paper-367]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.19.3.jar:git-Paper-367]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.19.3.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[03:10:10] [defaultEventLoopGroup-5-1/INFO]: [Geyser-Spigot] Lerixman12 has disconnected from the Java server because of Bedrock client disconnected
+[03:10:10] [Geyser Spigot connection thread-4-2/INFO]: [floodgate] Floodgate player logged in as .Lerixman12 disconnected
+[03:10:10] [Server thread/INFO]: .Lerixman12 lost connection: Disconnected
+[03:10:10] [Server thread/INFO]: .Lerixman12 left the game
+[03:10:54] [Network Listener - #3/INFO]: [Geyser-Spigot] /37.99.44.226:17515 tried to connect!
+[03:10:55] [Network Listener - #0/INFO]: [Geyser-Spigot] Player connected with username Lerixman12
+[03:10:55] [defaultEventLoopGroup-5-2/INFO]: [Geyser-Spigot] Lerixman12 (logged in as: Lerixman12) has connected to the Java server
+[03:10:55] [Geyser Spigot connection thread-4-3/INFO]: UUID of player .Lerixman12 is 00000000-0000-0000-0009-01f4138341b4
+[03:10:55] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Lerixman12 joined (UUID: 00000000-0000-0000-0009-01f4138341b4)
+[03:10:55] [Server thread/INFO]: .Lerixman12 joined the game
+[03:10:55] [Server thread/INFO]: .Lerixman12[/37.99.44.226:0] logged in with entity id 35098 at ([world]4985.5, 71.0, -1293.5)
+[03:27:05] [Network Listener - #3/INFO]: [Geyser-Spigot] /5.251.232.85:11228 tried to connect!
+[03:27:06] [Network Listener - #1/INFO]: [Geyser-Spigot] Player connected with username Keks0111tort
+[03:27:06] [defaultEventLoopGroup-5-3/INFO]: [Geyser-Spigot] Keks0111tort (logged in as: Keks0111tort) has connected to the Java server
+[03:27:06] [Geyser Spigot connection thread-4-4/INFO]: UUID of player .Keks0111tort is 00000000-0000-0000-0009-01f27ffb0cbb
+[03:27:06] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Keks0111tort joined (UUID: 00000000-0000-0000-0009-01f27ffb0cbb)
+[03:27:06] [Server thread/INFO]: .Keks0111tort joined the game
+[03:27:06] [Server thread/INFO]: .Keks0111tort[/5.251.232.85:0] logged in with entity id 36674 at ([world]4969.1943, 71.0, -1289.9589)
+[03:27:43] [Async Chat Thread - #39/INFO]: [Not Secure] <.Lerixman12> привет
+[03:27:45] [Async Chat Thread - #40/INFO]: [Not Secure] <.Keks0111tort> эм
+[03:27:49] [Async Chat Thread - #39/INFO]: [Not Secure] <.Keks0111tort> где мой дом
+[03:28:10] [Async Chat Thread - #40/INFO]: [Not Secure] <.Lerixman12> это твой дом ?
+[03:28:14] [Async Chat Thread - #40/INFO]: [Not Secure] <.Keks0111tort> да
+[03:28:17] [Async Chat Thread - #40/INFO]: [Not Secure] <.Keks0111tort> база был 
+[03:28:48] [Async Chat Thread - #39/INFO]: [Not Secure] <.Keks0111tort> кто нахуй это сдлаел 
+[03:28:55] [Async Chat Thread - #39/INFO]: [Not Secure] <.Lerixman12> я хз 
+[03:28:55] [Async Chat Thread - #39/INFO]: [Not Secure] <.Keks0111tort> я его найду 
+[03:29:01] [Async Chat Thread - #40/INFO]: [Not Secure] <.Lerixman12> медведь сдох
+[03:29:07] [Async Chat Thread - #39/INFO]: [Not Secure] <.Keks0111tort> бля жора
+[03:29:10] [Async Chat Thread - #39/INFO]: [Not Secure] <.Keks0111tort> нееет
+[03:29:35] [Async Chat Thread - #39/INFO]: [Not Secure] <.Keks0111tort> я у тебя буду жить 
+[03:29:40] [Async Chat Thread - #40/INFO]: [Not Secure] <.Lerixman12> ок
+[03:30:16] [Async Chat Thread - #40/INFO]: [Not Secure] <.Lerixman12> можешь делать комнату
+[03:30:28] [Async Chat Thread - #40/INFO]: [Not Secure] <.Keks0111tort> эм где
+[03:30:39] [Async Chat Thread - #39/INFO]: [Not Secure] <.Lerixman12> я убрал
+[03:30:43] [Async Chat Thread - #39/INFO]: [Not Secure] <.Keks0111tort> нахер
+[03:30:54] [Async Chat Thread - #40/INFO]: [Not Secure] <.Lerixman12> я те нормальную построю
+[03:31:02] [Async Chat Thread - #40/INFO]: [Not Secure] <.Keks0111tort> ок
+[03:31:26] [Async Chat Thread - #39/INFO]: [Not Secure] <.Lerixman12> просто я думал что уву забрал у меня дерево и построил это
+[03:31:56] [Async Chat Thread - #39/INFO]: [Not Secure] <.Keks0111tort> я хочу на 2 этаж 
+[03:32:00] [Async Chat Thread - #40/INFO]: [Not Secure] <.Keks0111tort> жить 
+[03:32:05] [Async Chat Thread - #39/INFO]: [Not Secure] <.Lerixman12> ок
+[03:32:18] [Async Chat Thread - #39/INFO]: [Not Secure] <.Lerixman12> вот временная лестница
+[03:32:23] [Server thread/INFO]: .Keks0111tort issued server command: /gamemode creative
+[03:32:47] [Async Chat Thread - #40/INFO]: [Not Secure] <.Lerixman12> а ты можешь на крыше факелы поставить?
+[03:32:48] [Async Chat Thread - #40/INFO]: [Not Secure] <.Keks0111tort> там есть чердак 
+[03:32:55] [Async Chat Thread - #40/INFO]: [Not Secure] <.Lerixman12> не
+[03:33:20] [Async Chat Thread - #40/INFO]: [Not Secure] <.Lerixman12> есть балкон
+[03:33:31] [Async Chat Thread - #40/INFO]: [Not Secure] <.Keks0111tort> топ
+[03:33:46] [Async Chat Thread - #40/INFO]: [Not Secure] <.Lerixman12> крыша ебать сложная
+[03:34:04] [Async Chat Thread - #40/INFO]: [Not Secure] <.Keks0111tort> сложно было 
+[03:34:09] [Async Chat Thread - #40/INFO]: [Not Secure] <.Lerixman12> очень
+[03:34:36] [Server thread/INFO]: .Keks0111tort issued server command: /gamemode survival
+[03:35:41] [Craft Scheduler Thread - 396 - CustomHeads/WARN]: [CustomHeads] Plugin CustomHeads v3.0.7 generated an exception while executing task 80
+java.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:101) ~[gson-2.10.jar:?]
+	at de.likewhat.customheads.utils.PlayerWrapper.clearCache(PlayerWrapper.java:94) ~[CustomHeads.jar:?]
+	at de.likewhat.customheads.CustomHeads$5.run(CustomHeads.java:437) ~[CustomHeads.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.19.3.jar:git-Paper-367]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.19.3.jar:git-Paper-367]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.19.3.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[03:35:58] [Async Chat Thread - #41/INFO]: [Not Secure] <.Keks0111tort> а кто база сломал 
+[03:36:05] [Async Chat Thread - #42/INFO]: [Not Secure] <.Lerixman12> я хз
+[03:36:14] [Async Chat Thread - #42/INFO]: [Not Secure] <.Lerixman12> я сам зашел и увидел
+[03:37:30] [Async Chat Thread - #43/INFO]: [Not Secure] <.Lerixman12> че ты комнату не делаешь?
+[03:37:38] [Async Chat Thread - #44/INFO]: [Not Secure] <.Lerixman12> спасибо 
+[03:37:47] [Async Chat Thread - #44/INFO]: [Not Secure] <.Keks0111tort> да ща буду делать 
+[03:38:10] [Async Chat Thread - #44/INFO]: [Not Secure] <.Keks0111tort> алмазы собой бери
+[03:38:15] [Async Chat Thread - #44/INFO]: [Not Secure] <.Keks0111tort> кто-то заберит 
+[03:47:56] [Async Chat Thread - #45/INFO]: [Not Secure] <.Keks0111tort> теюе нужен дерево 
+[03:48:02] [Async Chat Thread - #45/INFO]: [Not Secure] <.Lerixman12> не
+[03:52:21] [Async Chat Thread - #47/INFO]: [Not Secure] <.Keks0111tort> тут можно с стенкой закрыть 
+[03:52:46] [Async Chat Thread - #48/INFO]: [Not Secure] <.Lerixman12> да
+[03:54:58] [Async Chat Thread - #49/INFO]: [Not Secure] <.Lerixman12> факела у себя поставь
+[04:05:06] [Async Chat Thread - #51/INFO]: [Not Secure] <.Lerixman12> все дом достроен
+[04:05:41] [Craft Scheduler Thread - 416 - CustomHeads/WARN]: [CustomHeads] Plugin CustomHeads v3.0.7 generated an exception while executing task 80
+java.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:101) ~[gson-2.10.jar:?]
+	at de.likewhat.customheads.utils.PlayerWrapper.clearCache(PlayerWrapper.java:94) ~[CustomHeads.jar:?]
+	at de.likewhat.customheads.CustomHeads$5.run(CustomHeads.java:437) ~[CustomHeads.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.19.3.jar:git-Paper-367]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.19.3.jar:git-Paper-367]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.19.3.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[04:16:50] [Async Chat Thread - #53/INFO]: [Not Secure] <.Lerixman12> есть булыга?
+[04:16:59] [Async Chat Thread - #53/INFO]: [Not Secure] <.Keks0111tort> 6ету
+[04:17:01] [Async Chat Thread - #54/INFO]: [Not Secure] <.Keks0111tort> неьу
+[04:17:43] [Geyser Spigot connection thread-4-4/INFO]: [floodgate] Floodgate player logged in as .Keks0111tort disconnected
+[04:17:43] [defaultEventLoopGroup-5-3/INFO]: [Geyser-Spigot] Keks0111tort has disconnected from the Java server because of Bedrock client disconnected
+[04:17:43] [Server thread/INFO]: .Keks0111tort lost connection: Disconnected
+[04:17:43] [Server thread/INFO]: .Keks0111tort left the game
+[04:20:12] [Server thread/INFO]: .Lerixman12 has made the advancement [Hidden in the Depths]
+[04:20:28] [Server thread/INFO]: .Lerixman12 fell from a high place
+[04:20:51] [Geyser Spigot connection thread-4-3/INFO]: [floodgate] Floodgate player logged in as .Lerixman12 disconnected
+[04:20:51] [defaultEventLoopGroup-5-2/INFO]: [Geyser-Spigot] Lerixman12 has disconnected from the Java server because of Bedrock client disconnected
+[04:20:51] [Server thread/INFO]: .Lerixman12 lost connection: Disconnected
+[04:20:51] [Server thread/INFO]: .Lerixman12 left the game
+[04:27:48] [Network Listener - #0/INFO]: [Geyser-Spigot] /37.99.44.226:62441 tried to connect!
+[04:27:49] [Network Listener - #2/INFO]: [Geyser-Spigot] Player connected with username Lerixman12
+[04:27:49] [defaultEventLoopGroup-5-4/INFO]: [Geyser-Spigot] Lerixman12 (logged in as: Lerixman12) has connected to the Java server
+[04:27:49] [Geyser Spigot connection thread-4-1/INFO]: UUID of player .Lerixman12 is 00000000-0000-0000-0009-01f4138341b4
+[04:27:49] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Lerixman12 joined (UUID: 00000000-0000-0000-0009-01f4138341b4)
+[04:27:49] [Server thread/INFO]: .Lerixman12 joined the game
+[04:27:49] [Server thread/INFO]: .Lerixman12[/37.99.44.226:0] logged in with entity id 43027 at ([world]4990.077, 76.0, -1316.69999)
+[04:35:41] [Craft Scheduler Thread - 488 - CustomHeads/WARN]: [CustomHeads] Plugin CustomHeads v3.0.7 generated an exception while executing task 80
+java.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:101) ~[gson-2.10.jar:?]
+	at de.likewhat.customheads.utils.PlayerWrapper.clearCache(PlayerWrapper.java:94) ~[CustomHeads.jar:?]
+	at de.likewhat.customheads.CustomHeads$5.run(CustomHeads.java:437) ~[CustomHeads.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.19.3.jar:git-Paper-367]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.19.3.jar:git-Paper-367]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.19.3.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[04:53:31] [Network Listener - #3/INFO]: [Geyser-Spigot] /5.251.232.85:12268 tried to connect!
+[04:53:32] [Network Listener - #3/INFO]: [Geyser-Spigot] Player connected with username Keks0111tort
+[04:53:32] [defaultEventLoopGroup-5-1/INFO]: [Geyser-Spigot] Keks0111tort (logged in as: Keks0111tort) has connected to the Java server
+[04:53:33] [Geyser Spigot connection thread-4-2/INFO]: UUID of player .Keks0111tort is 00000000-0000-0000-0009-01f27ffb0cbb
+[04:53:33] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Keks0111tort joined (UUID: 00000000-0000-0000-0009-01f27ffb0cbb)
+[04:53:33] [Server thread/INFO]: .Keks0111tort joined the game
+[04:53:33] [Server thread/INFO]: .Keks0111tort[/5.251.232.85:0] logged in with entity id 46736 at ([world]4982.0786, 76.0, -1291.9044)
+[04:54:01] [Async Chat Thread - #55/INFO]: [Not Secure] <.Keks0111tort> это чей комната
+[04:54:07] [Async Chat Thread - #55/INFO]: [Not Secure] <.Lerixman12> моя
+[04:54:27] [Async Chat Thread - #55/INFO]: [Not Secure] <.Lerixman12> я больше некого не приглашал
+[04:54:50] [Async Chat Thread - #55/INFO]: [Not Secure] <.Keks0111tort> только меня?
+[04:54:53] [Server thread/WARN]: .Keks0111tort moved wrongly!
+[04:54:55] [Async Chat Thread - #56/INFO]: [Not Secure] <.Lerixman12> да
+[04:55:52] [Async Chat Thread - #55/INFO]: [Not Secure] <.Keks0111tort> на
+[04:56:24] [Geyser Spigot connection thread-4-2/INFO]: [floodgate] Floodgate player logged in as .Keks0111tort disconnected
+[04:56:24] [defaultEventLoopGroup-5-1/INFO]: [Geyser-Spigot] Keks0111tort has disconnected from the Java server because of Bedrock client disconnected
+[04:56:24] [Server thread/INFO]: .Keks0111tort lost connection: Disconnected
+[04:56:24] [Server thread/INFO]: .Keks0111tort left the game
+[04:59:21] [Network Listener - #1/INFO]: [Geyser-Spigot] /5.251.232.85:12537 tried to connect!
+[04:59:22] [Network Listener - #0/INFO]: [Geyser-Spigot] Player connected with username Keks0111tort
+[04:59:22] [defaultEventLoopGroup-5-2/INFO]: [Geyser-Spigot] Keks0111tort (logged in as: Keks0111tort) has connected to the Java server
+[04:59:22] [Geyser Spigot connection thread-4-3/INFO]: UUID of player .Keks0111tort is 00000000-0000-0000-0009-01f27ffb0cbb
+[04:59:22] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Keks0111tort joined (UUID: 00000000-0000-0000-0009-01f27ffb0cbb)
+[04:59:22] [Server thread/INFO]: .Keks0111tort joined the game
+[04:59:22] [Server thread/INFO]: .Keks0111tort[/5.251.232.85:0] logged in with entity id 47468 at ([world]4981.6353, 71.0, -1291.799)
+[05:01:01] [Async Chat Thread - #57/INFO]: [Not Secure] <.Keks0111tort> че
+[05:01:03] [Async Chat Thread - #57/INFO]: [Not Secure] <.Keks0111tort> нахуй
+[05:01:06] [Async Chat Thread - #57/INFO]: [Not Secure] <.Keks0111tort> крипер
+[05:01:12] [Async Chat Thread - #59/INFO]: [Not Secure] <.Lerixman12> освети 4омнату
+[05:03:04] [Async Chat Thread - #60/INFO]: [Not Secure] <.Keks0111tort> на
+[05:03:36] [Server thread/INFO]: .Keks0111tort issued server command: /gamemode creative
+[05:03:38] [Network Listener - #2/INFO]: [Geyser-Spigot] /185.113.38.198:1503 tried to connect!
+[05:03:39] [Network Listener - #1/INFO]: [Geyser-Spigot] Player connected with username Germaniyahe
+[05:03:39] [defaultEventLoopGroup-5-3/INFO]: [Geyser-Spigot] Germaniyahe (logged in as: Germaniyahe) has connected to the Java server
+[05:03:39] [Geyser Spigot connection thread-4-4/INFO]: UUID of player .Germaniyahe is 00000000-0000-0000-0009-01fbc407a29c
+[05:03:39] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Germaniyahe joined (UUID: 00000000-0000-0000-0009-01fbc407a29c)
+[05:03:39] [Server thread/INFO]: .Germaniyahe joined the game
+[05:03:39] [Server thread/INFO]: .Germaniyahe[/185.113.38.198:0] logged in with entity id 47956 at ([world]-17.993153, 65.0, 42.828434)
+[05:04:18] [Async Chat Thread - #62/INFO]: [Not Secure] <.Germaniyahe> Привет
+[05:04:24] [Server thread/INFO]: .Keks0111tort issued server command: /gamemode survival
+[05:04:33] [Server thread/INFO]: .Germaniyahe was slain by Lvl 10 | Zombie
+[05:04:37] [defaultEventLoopGroup-5-4/INFO]: [Geyser-Spigot] Lerixman12 has disconnected from the Java server because of Bedrock client disconnected
+[05:04:37] [Geyser Spigot connection thread-4-1/INFO]: [floodgate] Floodgate player logged in as .Lerixman12 disconnected
+[05:04:37] [Server thread/INFO]: .Lerixman12 lost connection: Disconnected
+[05:04:37] [Server thread/INFO]: .Lerixman12 left the game
+[05:05:41] [Craft Scheduler Thread - 543 - CustomHeads/WARN]: [CustomHeads] Plugin CustomHeads v3.0.7 generated an exception while executing task 80
+java.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:101) ~[gson-2.10.jar:?]
+	at de.likewhat.customheads.utils.PlayerWrapper.clearCache(PlayerWrapper.java:94) ~[CustomHeads.jar:?]
+	at de.likewhat.customheads.CustomHeads$5.run(CustomHeads.java:437) ~[CustomHeads.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.19.3.jar:git-Paper-367]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.19.3.jar:git-Paper-367]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.19.3.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[05:06:02] [Async Chat Thread - #64/INFO]: [Not Secure] <.Germaniyahe> тепните на баззу пж мне надо зачаровать бронь
+[05:06:04] [Geyser Spigot connection thread-4-3/INFO]: [floodgate] Floodgate player logged in as .Keks0111tort disconnected
+[05:06:04] [defaultEventLoopGroup-5-2/INFO]: [Geyser-Spigot] Keks0111tort has disconnected from the Java server because of Bedrock client timed out
+[05:06:04] [Server thread/INFO]: .Keks0111tort lost connection: Disconnected
+[05:06:04] [Server thread/INFO]: .Keks0111tort left the game
+[05:06:23] [Network Listener - #2/INFO]: [Geyser-Spigot] /37.99.46.169:46547 tried to connect!
+[05:06:24] [Network Listener - #2/INFO]: [Geyser-Spigot] Player connected with username Lerixman12
+[05:06:24] [defaultEventLoopGroup-5-4/INFO]: [Geyser-Spigot] Lerixman12 (logged in as: Lerixman12) has connected to the Java server
+[05:06:24] [Geyser Spigot connection thread-4-1/INFO]: UUID of player .Lerixman12 is 00000000-0000-0000-0009-01f4138341b4
+[05:06:24] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Lerixman12 joined (UUID: 00000000-0000-0000-0009-01f4138341b4)
+[05:06:24] [Server thread/INFO]: .Lerixman12 joined the game
+[05:06:24] [Server thread/INFO]: .Lerixman12[/37.99.46.169:0] logged in with entity id 49255 at ([world]4982.2393, 79.0, -1291.86251)
+[05:08:41] [Server thread/INFO]: .Germaniyahe was shot by Lvl 9 | Skeleton
+[05:10:20] [Network Listener - #0/INFO]: [Geyser-Spigot] /212.96.73.83:48934 tried to connect!
+[05:10:22] [Network Listener - #3/INFO]: [Geyser-Spigot] Player connected with username Kostasgrop
+[05:10:22] [defaultEventLoopGroup-5-1/INFO]: [Geyser-Spigot] Kostasgrop (logged in as: Kostasgrop) has connected to the Java server
+[05:10:22] [Geyser Spigot connection thread-4-2/INFO]: UUID of player .Kostasgrop is 00000000-0000-0000-0009-01f509937349
+[05:10:22] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Kostasgrop joined (UUID: 00000000-0000-0000-0009-01f509937349)
+[05:10:22] [Server thread/INFO]: .Kostasgrop joined the game
+[05:10:22] [Server thread/INFO]: .Kostasgrop[/212.96.73.83:0] logged in with entity id 51071 at ([world]4944.7407, 66.0, -1310.5071)
+[05:11:34] [Async Chat Thread - #66/INFO]: [Not Secure] <.Lerixman12> как тебе мой дом?
+[05:11:51] [Async Chat Thread - #66/INFO]: [Not Secure] <.Kostasgrop> это ты построил
+[05:11:55] [Async Chat Thread - #68/INFO]: [Not Secure] <.Lerixman12> да
+[05:12:02] [Async Chat Thread - #68/INFO]: [Not Secure] <.Kostasgrop> я в ах
+[05:12:11] [Async Chat Thread - #68/INFO]: [Not Secure] <.Kostasgrop> 1000000000000из100
+[05:12:20] [Async Chat Thread - #68/INFO]: [Not Secure] <.Lerixman12> 25 стаков дуба и 13 стаков ели
+[05:13:38] [Server thread/INFO]: .Germaniyahe fell from a high place
+[05:13:57] [Async Chat Thread - #69/INFO]: [Not Secure] <.Kostasgrop> а у ты не брал печеную картошкк ищ печек
+[05:14:07] [Async Chat Thread - #70/INFO]: [Not Secure] <.Lerixman12> не
+[05:14:12] [Async Chat Thread - #70/INFO]: [Not Secure] <.Kostasgrop> блин
+[05:15:36] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8922ms or 178 ticks behind
+[05:15:36] [Server thread/WARN]: .Kostasgrop moved too quickly! -8.377900000000409,-5.0,18.976200000000063
+[05:15:36] [Server thread/WARN]: .Kostasgrop moved too quickly! -8.38130000000001,-5.0,18.963000000000193
+[05:15:36] [Server thread/WARN]: .Kostasgrop moved too quickly! -8.38130000000001,-5.0,18.963000000000193
+[05:15:36] [Server thread/WARN]: .Kostasgrop moved too quickly! -8.38130000000001,-5.0,18.963000000000193
+[05:15:36] [Server thread/WARN]: .Kostasgrop moved too quickly! -8.38130000000001,-5.0,18.963000000000193
+[05:15:50] [Server thread/WARN]: .Kostasgrop moved wrongly!
+[05:16:15] [Async Chat Thread - #71/INFO]: [Not Secure] <.Kostasgrop> у тебя есть алмазы
+[05:16:21] [Async Chat Thread - #72/INFO]: [Not Secure] <.Lerixman12> нет
+[05:16:25] [Server thread/WARN]: .Kostasgrop moved wrongly!
+[05:17:13] [Server thread/WARN]: .Lerixman12 moved wrongly!
+[05:17:21] [Async Chat Thread - #72/INFO]: [Not Secure] <.Germaniyahe> кораллы
+[05:17:26] [Async Chat Thread - #72/INFO]: [Not Secure] <.Germaniyahe> нашел
+[05:17:54] [Async Chat Thread - #72/INFO]: [Not Secure] <.Germaniyahe> и заброшенный портал
+[05:18:32] [Server thread/INFO]: .Kostasgrop fell from a high place
+[05:19:23] [Async Chat Thread - #73/INFO]: [Not Secure] <.Lerixman12> это комната кекса и если ты что то возмешь он может тебя забанить
+[05:19:35] [Async Chat Thread - #74/INFO]: [Not Secure] <.Kostasgrop> ааа ок
+[05:19:50] [Server thread/INFO]: .Kostasgrop has made the advancement [Enchanter]
+[05:20:08] [Server thread/WARN]: .Kostasgrop moved wrongly!
+[05:24:27] [Server thread/INFO]: .Kostasgrop tried to swim in lava to escape Skeleton
+[05:24:42] [Server thread/WARN]: .Kostasgrop moved wrongly!
+[05:24:54] [Async Chat Thread - #75/INFO]: [Not Secure] <.Germaniyahe> ема алмазы
+[05:24:56] [Server thread/INFO]: .Kostasgrop has made the advancement [Sweet Dreams]
+[05:25:07] [Network Listener - #3/INFO]: [Geyser-Spigot] /5.251.232.85:14098 tried to connect!
+[05:25:09] [Network Listener - #0/INFO]: [Geyser-Spigot] Player connected with username Keks0111tort
+[05:25:09] [defaultEventLoopGroup-5-2/INFO]: [Geyser-Spigot] Keks0111tort (logged in as: Keks0111tort) has connected to the Java server
+[05:25:09] [Geyser Spigot connection thread-4-3/INFO]: UUID of player .Keks0111tort is 00000000-0000-0000-0009-01f27ffb0cbb
+[05:25:09] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Keks0111tort joined (UUID: 00000000-0000-0000-0009-01f27ffb0cbb)
+[05:25:10] [Server thread/INFO]: .Keks0111tort joined the game
+[05:25:10] [Server thread/INFO]: .Keks0111tort[/5.251.232.85:0] logged in with entity id 56885 at ([world]4986.7896, 80.0, -1313.4285)
+[05:25:21] [Async Chat Thread - #75/INFO]: [Not Secure] <.Kostasgrop> о салам кекс 
+[05:25:44] [Async Chat Thread - #75/INFO]: [Not Secure] <.Keks0111tort> кто он
+[05:26:02] [Async Chat Thread - #75/INFO]: [Not Secure] <.Lerixman12> коста ты не живешь здесь
+[05:26:13] [Async Chat Thread - #75/INFO]: [Not Secure] <.Keks0111tort> +
+[05:26:21] [Async Chat Thread - #75/INFO]: [Not Secure] <.Kostasgrop> я ничего не говорю
+[05:26:36] [Async Chat Thread - #75/INFO]: [Not Secure] <.Kostasgrop> я тута прост точку спавна поставил
+[05:26:47] [defaultEventLoopGroup-5-1/INFO]: [Geyser-Spigot] Kostasgrop has disconnected from the Java server because of Bedrock client disconnected
+[05:26:47] [Geyser Spigot connection thread-4-2/INFO]: [floodgate] Floodgate player logged in as .Kostasgrop disconnected
+[05:26:47] [Server thread/INFO]: .Kostasgrop lost connection: Disconnected
+[05:26:47] [Server thread/INFO]: .Kostasgrop left the game
+[05:27:37] [Async Chat Thread - #77/INFO]: [Not Secure] <.Keks0111tort> на
+[05:27:41] [Async Chat Thread - #78/INFO]: [Not Secure] <.Lerixman12> спс
+[05:27:47] [Async Chat Thread - #78/INFO]: [Not Secure] <.Lerixman12> стекло надо?
+[05:27:51] [Async Chat Thread - #78/INFO]: [Not Secure] <.Keks0111tort> не
+[05:27:59] [Async Chat Thread - #77/INFO]: [Not Secure] <.Keks0111tort> может нужен 
+[05:28:08] [Async Chat Thread - #78/INFO]: [Not Secure] <.Keks0111tort> дай
+[05:29:03] [Async Chat Thread - #78/INFO]: [Not Secure] <.Germaniyahe> тепнитк на баззу пж мне надо чароварню
+[05:29:05] [Async Chat Thread - #77/INFO]: [Not Secure] <.Keks0111tort> дай мне бабук и лес
+[05:29:19] [Async Chat Thread - #77/INFO]: [Not Secure] <.Keks0111tort> есть
+[05:29:28] [Async Chat Thread - #77/INFO]: [Not Secure] <.Keks0111tort> нужен такой
+[05:30:22] [Server thread/INFO]: .Germaniyahe has made the advancement [Hot Stuff]
+[05:31:19] [Server thread/INFO]: .Germaniyahe burned to death
+[05:31:36] [Async Chat Thread - #79/INFO]: [Not Secure] <.Germaniyahe> кекс тепни на баззу плис
+[05:32:36] [defaultEventLoopGroup-5-2/INFO]: [Geyser-Spigot] Keks0111tort has disconnected from the Java server because of Bedrock client timed out
+[05:32:36] [Geyser Spigot connection thread-4-3/INFO]: [floodgate] Floodgate player logged in as .Keks0111tort disconnected
+[05:32:36] [Server thread/INFO]: .Keks0111tort lost connection: Disconnected
+[05:32:36] [Server thread/INFO]: .Keks0111tort left the game
+[05:32:59] [Network Listener - #3/INFO]: [Geyser-Spigot] /5.251.232.85:14464 tried to connect!
+[05:32:59] [Network Listener - #3/INFO]: [Geyser-Spigot] /5.251.232.85:14464 tried to connect!
+[05:33:01] [Network Listener - #1/INFO]: [Geyser-Spigot] Player connected with username Keks0111tort
+[05:33:01] [defaultEventLoopGroup-5-3/INFO]: [Geyser-Spigot] Keks0111tort (logged in as: Keks0111tort) has connected to the Java server
+[05:33:02] [Geyser Spigot connection thread-4-4/INFO]: UUID of player .Keks0111tort is 00000000-0000-0000-0009-01f27ffb0cbb
+[05:33:02] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Keks0111tort joined (UUID: 00000000-0000-0000-0009-01f27ffb0cbb)
+[05:33:02] [Server thread/INFO]: .Keks0111tort joined the game
+[05:33:02] [Server thread/INFO]: .Keks0111tort[/5.251.232.85:0] logged in with entity id 59750 at ([world]4924.995, 69.0, -1368.6069)
+[05:33:15] [Async Chat Thread - #81/INFO]: [Not Secure] <.Lerixman12> кекс ты где?
+[05:33:19] [Async Chat Thread - #81/INFO]: [Not Secure] <.Keks0111tort> я тут
+[05:34:23] [Async Chat Thread - #83/INFO]: [Not Secure] <.Lerixman12> где 
+[05:34:29] [Async Chat Thread - #84/INFO]: [Not Secure] <.Germaniyahe> ТЕПНИТЕЕЕ НА БАЗЗУУУУУУУУ 
+[05:34:30] [Async Chat Thread - #84/INFO]: [Not Secure] <.Keks0111tort> на базе
+[05:35:01] [Async Chat Thread - #84/INFO]: [Not Secure] <.Lerixman12> в свою комнату зайди
+[05:35:50] [Craft Scheduler Thread - 574 - CustomHeads/WARN]: [CustomHeads] Plugin CustomHeads v3.0.7 generated an exception while executing task 80
+java.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:101) ~[gson-2.10.jar:?]
+	at de.likewhat.customheads.utils.PlayerWrapper.clearCache(PlayerWrapper.java:94) ~[CustomHeads.jar:?]
+	at de.likewhat.customheads.CustomHeads$5.run(CustomHeads.java:437) ~[CustomHeads.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.19.3.jar:git-Paper-367]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.19.3.jar:git-Paper-367]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.19.3.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[05:36:29] [Async Chat Thread - #85/INFO]: [Not Secure] <.Germaniyahe> Ебаааа подводный монумент
+[05:37:55] [Async Chat Thread - #87/INFO]: [Not Secure] <.Lerixman12> есть железо
+[05:38:01] [Async Chat Thread - #88/INFO]: [Not Secure] <.Keks0111tort> да
+[05:38:16] [Async Chat Thread - #88/INFO]: [Not Secure] <.Lerixman12> спс
+[05:38:30] [Server thread/INFO]: .Germaniyahe was slain by Lvl 4 | Guardian
+[05:39:49] [Geyser Spigot connection thread-4-4/INFO]: [floodgate] Floodgate player logged in as .Keks0111tort disconnected
+[05:39:49] [defaultEventLoopGroup-5-3/INFO]: [Geyser-Spigot] Keks0111tort has disconnected from the Java server because of Bedrock client timed out
+[05:39:49] [Server thread/INFO]: .Keks0111tort lost connection: Disconnected
+[05:39:49] [Server thread/INFO]: .Keks0111tort left the game
+[05:40:46] [Async Chat Thread - #89/INFO]: [Not Secure] <.Germaniyahe> Тепните на баззу плиссс мне надо зачаровать бронь
+[05:41:28] [Server thread/INFO]: .Germaniyahe issued server command: /geyser offhand
+[05:41:53] [Server thread/INFO]: .Germaniyahe issued server command: /geyser offhand
+[05:42:09] [Server thread/INFO]: .Germaniyahe issued server command: /geyser offhand
+[05:43:26] [Server thread/INFO]: .Germaniyahe issued server command: /archery
+[05:43:59] [Server thread/INFO]: .Germaniyahe issued server command: /geyser
+[05:44:23] [Server thread/INFO]: .Germaniyahe issued server command: /geyser tooltips
+[05:45:21] [Server thread/INFO]: .Germaniyahe issued server command: /geyser ?
+[05:45:46] [Server thread/INFO]: .Germaniyahe issued server command: /geyser advancements
+[05:45:48] [Server thread/INFO]: .Germaniyahe was slain by Lvl 1 | Zombie
+[05:46:39] [Server thread/INFO]: .Germaniyahe issued server command: /geyser statistics
+[05:48:23] [Async Chat Thread - #91/INFO]: [Not Secure] <.Germaniyahe> жду пока тепнут на баззу день 1
+[05:48:45] [Async Chat Thread - #91/INFO]: [Not Secure] <.Lerixman12> нету админов тебя никтотне тепнет
+[05:48:53] [Async Chat Thread - #91/INFO]: [Not Secure] <.Germaniyahe> а бля
+[05:48:59] [Async Chat Thread - #91/INFO]: [Not Secure] <.Germaniyahe> куда кекс ушел
+[05:49:19] [Geyser Spigot connection thread-4-4/INFO]: [floodgate] Floodgate player logged in as .Germaniyahe disconnected
+[05:49:19] [defaultEventLoopGroup-5-3/INFO]: [Geyser-Spigot] Germaniyahe has disconnected from the Java server because of Bedrock client disconnected
+[05:49:19] [Server thread/INFO]: .Germaniyahe lost connection: Disconnected
+[05:49:19] [Server thread/INFO]: .Germaniyahe left the game
+[05:58:20] [defaultEventLoopGroup-5-4/INFO]: [Geyser-Spigot] Lerixman12 has disconnected from the Java server because of Bedrock client disconnected
+[05:58:20] [Geyser Spigot connection thread-4-1/INFO]: [floodgate] Floodgate player logged in as .Lerixman12 disconnected
+[05:58:20] [Server thread/INFO]: .Lerixman12 lost connection: Disconnected
+[05:58:20] [Server thread/INFO]: .Lerixman12 left the game
+[06:01:42] [Network Listener - #2/INFO]: [Geyser-Spigot] /37.99.46.169:46547 tried to connect!
+[06:01:43] [Network Listener - #2/INFO]: [Geyser-Spigot] Player connected with username Lerixman12
+[06:01:43] [defaultEventLoopGroup-5-4/INFO]: [Geyser-Spigot] Lerixman12 (logged in as: Lerixman12) has connected to the Java server
+[06:01:43] [Geyser Spigot connection thread-4-1/INFO]: UUID of player .Lerixman12 is 00000000-0000-0000-0009-01f4138341b4
+[06:01:43] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Lerixman12 joined (UUID: 00000000-0000-0000-0009-01f4138341b4)
+[06:01:43] [Server thread/INFO]: .Lerixman12 joined the game
+[06:01:43] [Server thread/INFO]: .Lerixman12[/37.99.46.169:0] logged in with entity id 66707 at ([world]4982.9946, 76.0, -1290.6183)
+[06:05:50] [Craft Scheduler Thread - 595 - CustomHeads/WARN]: [CustomHeads] Plugin CustomHeads v3.0.7 generated an exception while executing task 80
+java.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:101) ~[gson-2.10.jar:?]
+	at de.likewhat.customheads.utils.PlayerWrapper.clearCache(PlayerWrapper.java:94) ~[CustomHeads.jar:?]
+	at de.likewhat.customheads.CustomHeads$5.run(CustomHeads.java:437) ~[CustomHeads.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.19.3.jar:git-Paper-367]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.19.3.jar:git-Paper-367]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.19.3.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[06:05:50] [Craft Scheduler Thread - 597 - Vault/INFO]: [Vault] Checking for Updates ... 
+[06:05:50] [Craft Scheduler Thread - 597 - Vault/INFO]: [Vault] No new version available
+[06:06:51] [Network Listener - #0/INFO]: [Geyser-Spigot] /5.251.232.85:15467 tried to connect!
+[06:06:53] [Network Listener - #3/INFO]: [Geyser-Spigot] Player connected with username Keks0111tort
+[06:06:53] [defaultEventLoopGroup-5-1/INFO]: [Geyser-Spigot] Keks0111tort (logged in as: Keks0111tort) has connected to the Java server
+[06:06:53] [Geyser Spigot connection thread-4-2/INFO]: UUID of player .Keks0111tort is 00000000-0000-0000-0009-01f27ffb0cbb
+[06:06:53] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Keks0111tort joined (UUID: 00000000-0000-0000-0009-01f27ffb0cbb)
+[06:06:53] [Server thread/INFO]: .Keks0111tort joined the game
+[06:06:53] [Server thread/INFO]: .Keks0111tort[/5.251.232.85:0] logged in with entity id 67382 at ([world]4929.137, 68.0, -1356.5858)
+[06:08:09] [Server thread/INFO]: .Keks0111tort issued server command: /gamemode creative
+[06:10:42] [Async Chat Thread - #93/INFO]: [Not Secure] <.Keks0111tort> ты где
+[06:10:55] [Server thread/INFO]: .Keks0111tort issued server command: /gamemode survival
+[06:10:57] [Async Chat Thread - #95/INFO]: [Not Secure] <.Lerixman12> темный дуб ищу
+[06:11:06] [Async Chat Thread - #95/INFO]: [Not Secure] <.Keks0111tort> уменя есть
+[06:11:13] [Async Chat Thread - #95/INFO]: [Not Secure] <.Lerixman12> тепни
+[06:11:16] [Async Chat Thread - #95/INFO]: [Not Secure] <.Keks0111tort> да
+[06:12:33] [Server thread/INFO]: .Keks0111tort issued server command: /gamemode creative
+[06:13:02] [Async Chat Thread - #96/INFO]: [Not Secure] <.Lerixman12> спс
+[06:13:03] [Server thread/INFO]: .Keks0111tort issued server command: /gamemode survival
+[06:13:15] [Async Chat Thread - #97/INFO]: [Not Secure] <.Lerixman12> у тебя старая база горит
+[06:13:22] [Async Chat Thread - #97/INFO]: [Not Secure] <.Keks0111tort> я знаю
+[06:13:27] [Async Chat Thread - #97/INFO]: [Not Secure] <.Keks0111tort> я это сдлаел 
+[06:15:29] [Server thread/WARN]: .Lerixman12 moved wrongly!
+[06:19:15] [Async Chat Thread - #98/INFO]: [Not Secure] <.Keks0111tort> а где кухня будет 
+[06:19:21] [Async Chat Thread - #99/INFO]: [Not Secure] <.Lerixman12> на 1
+[06:20:40] [Async Chat Thread - #100/INFO]: [Not Secure] <.Lerixman12> вот это кухня будет
+[06:20:52] [Async Chat Thread - #100/INFO]: [Not Secure] <.Keks0111tort> о
+[06:21:22] [Async Chat Thread - #100/INFO]: [Not Secure] <.Keks0111tort> ты можешь по звонку?
+[06:21:33] [Async Chat Thread - #100/INFO]: [Not Secure] <.Lerixman12> нет
+[06:21:34] [Server thread/WARN]: .Lerixman12 moved wrongly!
+[06:22:53] [Async Chat Thread - #102/INFO]: [Not Secure] <.Keks0111tort> давай лекс
+[06:22:58] [Async Chat Thread - #103/INFO]: [Not Secure] <.Keks0111tort> я попже зайду
+[06:23:03] [Async Chat Thread - #103/INFO]: [Not Secure] <.Lerixman12> ок
+[06:23:41] [defaultEventLoopGroup-5-1/INFO]: [Geyser-Spigot] Keks0111tort has disconnected from the Java server because of Bedrock client timed out
+[06:23:41] [Geyser Spigot connection thread-4-2/INFO]: [floodgate] Floodgate player logged in as .Keks0111tort disconnected
+[06:23:41] [Server thread/INFO]: .Keks0111tort lost connection: Disconnected
+[06:23:41] [Server thread/INFO]: .Keks0111tort left the game
+[06:32:46] [defaultEventLoopGroup-5-4/INFO]: [Geyser-Spigot] Lerixman12 has disconnected from the Java server because of Bedrock client disconnected
+[06:32:46] [Geyser Spigot connection thread-4-1/INFO]: [floodgate] Floodgate player logged in as .Lerixman12 disconnected
+[06:32:46] [Server thread/INFO]: .Lerixman12 lost connection: Disconnected
+[06:32:46] [Server thread/INFO]: .Lerixman12 left the game
+[06:35:50] [Craft Scheduler Thread - 622 - CustomHeads/WARN]: [CustomHeads] Plugin CustomHeads v3.0.7 generated an exception while executing task 80
+java.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:101) ~[gson-2.10.jar:?]
+	at de.likewhat.customheads.utils.PlayerWrapper.clearCache(PlayerWrapper.java:94) ~[CustomHeads.jar:?]
+	at de.likewhat.customheads.CustomHeads$5.run(CustomHeads.java:437) ~[CustomHeads.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.19.3.jar:git-Paper-367]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.19.3.jar:git-Paper-367]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.19.3.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[06:59:26] [Network Listener - #2/INFO]: [Geyser-Spigot] /37.99.46.169:3682 tried to connect!
+[06:59:28] [Network Listener - #0/INFO]: [Geyser-Spigot] Player connected with username Lerixman12
+[06:59:28] [defaultEventLoopGroup-5-2/INFO]: [Geyser-Spigot] Lerixman12 (logged in as: Lerixman12) has connected to the Java server
+[06:59:28] [Geyser Spigot connection thread-4-3/INFO]: UUID of player .Lerixman12 is 00000000-0000-0000-0009-01f4138341b4
+[06:59:28] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Lerixman12 joined (UUID: 00000000-0000-0000-0009-01f4138341b4)
+[06:59:28] [Server thread/INFO]: .Lerixman12 joined the game
+[06:59:28] [Server thread/INFO]: .Lerixman12[/37.99.46.169:0] logged in with entity id 71228 at ([world]4981.3125, 76.0, -1306.6959)
+[07:05:50] [Craft Scheduler Thread - 633 - CustomHeads/WARN]: [CustomHeads] Plugin CustomHeads v3.0.7 generated an exception while executing task 80
+java.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:101) ~[gson-2.10.jar:?]
+	at de.likewhat.customheads.utils.PlayerWrapper.clearCache(PlayerWrapper.java:94) ~[CustomHeads.jar:?]
+	at de.likewhat.customheads.CustomHeads$5.run(CustomHeads.java:437) ~[CustomHeads.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.19.3.jar:git-Paper-367]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.19.3.jar:git-Paper-367]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.19.3.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[07:17:22] [defaultEventLoopGroup-5-2/INFO]: [Geyser-Spigot] Lerixman12 has disconnected from the Java server because of Bedrock client disconnected
+[07:17:22] [Geyser Spigot connection thread-4-3/INFO]: [floodgate] Floodgate player logged in as .Lerixman12 disconnected
+[07:17:22] [Server thread/INFO]: .Lerixman12 lost connection: Disconnected
+[07:17:22] [Server thread/INFO]: .Lerixman12 left the game
+[07:17:49] [Network Listener - #3/INFO]: [Geyser-Spigot] /213.211.92.125:33792 tried to connect!
+[07:17:50] [Network Listener - #1/INFO]: [Geyser-Spigot] Player connected with username Iceice89856
+[07:17:50] [defaultEventLoopGroup-5-3/INFO]: [Geyser-Spigot] Iceice89856 (logged in as: Iceice89856) has connected to the Java server
+[07:17:50] [Geyser Spigot connection thread-4-4/INFO]: UUID of player .Iceice89856 is 00000000-0000-0000-0009-01f66dd34882
+[07:17:50] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Iceice89856 joined (UUID: 00000000-0000-0000-0009-01f66dd34882)
+[07:17:50] [Server thread/INFO]: .Iceice89856 joined the game
+[07:17:50] [Server thread/INFO]: .Iceice89856[/213.211.92.125:0] logged in with entity id 73187 at ([world]4948.967, 82.61323, -1310.9938)
+[07:20:55] [Server thread/WARN]: .Iceice89856 moved wrongly!
+[07:21:04] [defaultEventLoopGroup-5-3/INFO]: [Geyser-Spigot] Iceice89856 has disconnected from the Java server because of Bedrock client disconnected
+[07:21:04] [Geyser Spigot connection thread-4-4/INFO]: [floodgate] Floodgate player logged in as .Iceice89856 disconnected
+[07:21:04] [Server thread/INFO]: .Iceice89856 lost connection: Disconnected
+[07:21:04] [Server thread/INFO]: .Iceice89856 left the game
+[07:35:50] [Craft Scheduler Thread - 645 - CustomHeads/WARN]: [CustomHeads] Plugin CustomHeads v3.0.7 generated an exception while executing task 80
+java.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:101) ~[gson-2.10.jar:?]
+	at de.likewhat.customheads.utils.PlayerWrapper.clearCache(PlayerWrapper.java:94) ~[CustomHeads.jar:?]
+	at de.likewhat.customheads.CustomHeads$5.run(CustomHeads.java:437) ~[CustomHeads.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.19.3.jar:git-Paper-367]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.19.3.jar:git-Paper-367]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.19.3.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[07:45:34] [Network Listener - #1/INFO]: [Geyser-Spigot] /5.251.232.85:18506 tried to connect!
+[07:45:36] [Network Listener - #2/INFO]: [Geyser-Spigot] Player connected with username Keks0111tort
+[07:45:36] [defaultEventLoopGroup-5-4/INFO]: [Geyser-Spigot] Keks0111tort (logged in as: Keks0111tort) has connected to the Java server
+[07:45:36] [Geyser Spigot connection thread-4-1/INFO]: UUID of player .Keks0111tort is 00000000-0000-0000-0009-01f27ffb0cbb
+[07:45:36] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Keks0111tort joined (UUID: 00000000-0000-0000-0009-01f27ffb0cbb)
+[07:45:36] [Server thread/INFO]: .Keks0111tort joined the game
+[07:45:36] [Server thread/INFO]: .Keks0111tort[/5.251.232.85:0] logged in with entity id 74852 at ([world]4983.019, 76.0, -1291.6879)
+[07:46:04] [Server thread/WARN]: .Keks0111tort moved wrongly!
+[07:46:07] [Server thread/WARN]: .Keks0111tort moved wrongly!
+[07:46:49] [Network Listener - #3/INFO]: [Geyser-Spigot] /95.82.119.171:47451 tried to connect!
+[07:46:51] [Network Listener - #3/INFO]: [Geyser-Spigot] Player connected with username Lerixman12
+[07:46:51] [defaultEventLoopGroup-5-1/INFO]: [Geyser-Spigot] Lerixman12 (logged in as: Lerixman12) has connected to the Java server
+[07:46:51] [Geyser Spigot connection thread-4-2/INFO]: UUID of player .Lerixman12 is 00000000-0000-0000-0009-01f4138341b4
+[07:46:51] [Server thread/INFO]: [floodgate] Floodgate player logged in as .Lerixman12 joined (UUID: 00000000-0000-0000-0009-01f4138341b4)
+[07:46:51] [Server thread/INFO]: .Lerixman12 joined the game
+[07:46:51] [Server thread/INFO]: .Lerixman12[/95.82.119.171:0] logged in with entity id 75105 at ([world]4988.711, 89.0, -1301.7354)
+[07:46:59] [defaultEventLoopGroup-5-4/INFO]: [Geyser-Spigot] Keks0111tort has disconnected from the Java server because of Bedrock client timed out
+[07:46:59] [Geyser Spigot connection thread-4-1/INFO]: [floodgate] Floodgate player logged in as .Keks0111tort disconnected
+[07:46:59] [Server thread/INFO]: .Keks0111tort lost connection: Disconnected
+[07:46:59] [Server thread/INFO]: .Keks0111tort left the game
+[07:50:05] [Geyser Spigot connection thread-4-2/INFO]: [floodgate] Floodgate player logged in as .Lerixman12 disconnected
+[07:50:05] [defaultEventLoopGroup-5-1/INFO]: [Geyser-Spigot] Lerixman12 has disconnected from the Java server because of Bedrock client disconnected
+[07:50:05] [Server thread/INFO]: .Lerixman12 lost connection: Disconnected
+[07:50:05] [Server thread/INFO]: .Lerixman12 left the game
+[08:05:50] [Craft Scheduler Thread - 655 - CustomHeads/WARN]: [CustomHeads] Plugin CustomHeads v3.0.7 generated an exception while executing task 80
+java.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:101) ~[gson-2.10.jar:?]
+	at de.likewhat.customheads.utils.PlayerWrapper.clearCache(PlayerWrapper.java:94) ~[CustomHeads.jar:?]
+	at de.likewhat.customheads.CustomHeads$5.run(CustomHeads.java:437) ~[CustomHeads.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftTask.run(CraftTask.java:101) ~[paper-1.19.3.jar:git-Paper-367]
+	at org.bukkit.craftbukkit.v1_19_R2.scheduler.CraftAsyncTask.run(CraftAsyncTask.java:57) ~[paper-1.19.3.jar:git-Paper-367]
+	at com.destroystokyo.paper.ServerSchedulerReportingWrapper.run(ServerSchedulerReportingWrapper.java:22) ~[paper-1.19.3.jar:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635) ~[?:?]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[08:08:18] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /list 
+[08:08:18] [Server thread/INFO]: There are 0 out of maximum 20 players online.
+[08:08:23] [Server thread/INFO]: Stopping server
+[08:08:23] [Server thread/INFO]: [LevelledMobs] Disabling LevelledMobs v3.9.2 b734
+[08:08:23] [Server thread/INFO]: LevelledMobs: Tasks: Stopping async nametag auto update task...
+[08:08:23] [Server thread/INFO]: LevelledMobs: Tasks: Shutting down other async tasks...
+[08:08:23] [Server thread/INFO]: LevelledMobs: Shut-down complete (took 1ms)
+[08:08:23] [Server thread/INFO]: [CustomHeads] Disabling CustomHeads v3.0.7
+[08:08:23] [Server thread/ERROR]: Error occurred while disabling CustomHeads v3.0.7 (Is it up to date?)
+java.lang.IllegalStateException: Not a JSON Object: null
+	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:101) ~[gson-2.10.jar:?]
+	at de.likewhat.customheads.utils.PlayerWrapper.clearCache(PlayerWrapper.java:94) ~[CustomHeads.jar:?]
+	at de.likewhat.customheads.CustomHeads.onDisable(CustomHeads.java:207) ~[CustomHeads.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:266) ~[paper-api-1.19.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoader.java:400) ~[paper-api-1.19.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:581) ~[paper-api-1.19.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:558) ~[paper-api-1.19.3-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.v1_19_R2.CraftServer.disablePlugins(CraftServer.java:512) ~[paper-1.19.3.jar:git-Paper-367]
+	at net.minecraft.server.MinecraftServer.stopServer(MinecraftServer.java:944) ~[paper-1.19.3.jar:git-Paper-367]
+	at net.minecraft.server.dedicated.DedicatedServer.stopServer(DedicatedServer.java:797) ~[paper-1.19.3.jar:git-Paper-367]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1212) ~[paper-1.19.3.jar:git-Paper-367]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:316) ~[paper-1.19.3.jar:git-Paper-367]
+	at java.lang.Thread.run(Thread.java:833) ~[?:?]
+[08:08:23] [Server thread/INFO]: [Essentials] Disabling Essentials v2.20.0-dev+37-b7a4bea
+[08:08:23] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[08:08:23] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v2.16.4
+[08:08:23] [Craft Scheduler Thread - 13 - LevelledMobs/INFO]: LevelledMobs: Mob processing queue Manager has exited
+[08:08:23] [Server thread/INFO]: [de.Keyle.MyPet.MyPetPlugin] [[0;32;22mMyPet[m] [mDisabling MyPet v3.12[m
+[08:08:23] [Server thread/INFO]: [BlockBall] Disabling BlockBall v6.32.0
+[08:08:23] [Server thread/INFO]: [BlockBall] Coroutine has been cancelled.
+[08:08:23] [Server thread/INFO]: [com.github.shynixn.blockball.lib.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[08:08:23] [Server thread/INFO]: [com.github.shynixn.blockball.lib.com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[08:08:23] [Server thread/INFO]: [AureliumSkills] Disabling AureliumSkills vBeta 1.3.12
+[08:08:23] [Craft Scheduler Thread - 12 - LevelledMobs/INFO]: LevelledMobs: Nametag update queue Manager has exited
+[08:08:23] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[08:08:23] [Server thread/INFO]: [NametagEdit] Disabling NametagEdit v4.5.14
+[08:08:23] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.1.0-SNAPSHOT
+[08:08:23] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[08:08:23] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[08:08:23] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v14.2.8
+[08:08:23] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.40
+[08:08:23] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[08:08:23] [Server thread/INFO]: [LuckPerms] Closing storage...
+[08:08:23] [WebSocketConnectReadThread-91/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[08:08:24] [Server thread/INFO]: [LuckPerms] Goodbye!
+[08:08:24] [Server thread/INFO]: [Terra] Disabling Terra v6.2.2-BETA+8fff27fdd
+[08:08:24] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.0-SNAPSHOT (b74-4f36112)
+[08:08:24] [Server thread/INFO]: [NBTAPI] Disabling NBTAPI v2.11.1
+[08:08:24] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v4.5.1
+[08:08:24] [Server thread/INFO]: [ViaVersion] ViaVersion is disabling, if this is a reload and you experience issues consider rebooting.
+[08:08:24] [Server thread/INFO]: [GSit] Disabling GSit v1.3.5
+[08:08:24] [Server thread/INFO]: [GSit] The plugin was successfully disabled.
+[08:08:24] [Server thread/INFO]: [ImageOnMap] Disabling ImageOnMap v4.2.2
+[08:08:24] [Server thread/INFO]: [Chunky] Disabling Chunky v1.3.52
+[08:08:24] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v21.3
+[08:08:24] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[08:08:24] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v21.3
+[08:08:24] [Server thread/INFO]: Saving players
+[08:08:25] [Server thread/INFO]: Saving worlds
+[08:08:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08:08:25] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[08:08:25] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[08:08:25] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[08:08:25] [Server thread/INFO]: [ChunkHolderManager] Saved 4 block chunks, 118 entity chunks, 0 poi chunks in world 'world' in 0.04s
+[08:08:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:08:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[08:08:25] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[08:08:25] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[08:08:25] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[08:08:25] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 32 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[08:08:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:08:25] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[08:08:25] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[08:08:25] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[08:08:25] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[08:08:25] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[08:08:25] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:08:25] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[08:08:25] [Server thread/INFO]: Flushing Chunk IO
+[08:08:25] [Server thread/INFO]: Closing Thread Pool
+[08:08:25] [Server thread/INFO]: Closing Server

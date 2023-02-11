@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.113.38.198
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1676094559327
+  login: 1676091819830
+money: '0'
+last-account-name: .Germaniyahe
+logoutlocation:
+  world: 281efa87-a9a1-4ea3-8988-1d1d7a3e8195
+  world-name: world
+  x: -12.552158
+  y: 65.0
+  z: 36.633427
+  yaw: 2.628662109375
+  pitch: 28.49517822265625
+lastlocation:
+  world: 281efa87-a9a1-4ea3-8988-1d1d7a3e8195
+  world-name: world
+  x: -8.480661
+  y: 65.0
+  z: 17.206984
+  yaw: 0.697052001953125
+  pitch: 9.358718872070312

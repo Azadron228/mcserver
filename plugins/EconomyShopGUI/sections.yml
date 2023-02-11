@@ -1,0 +1,120 @@
+# 
+# Option 'name-config': is the name that is be used in the configs for the current shop section. If you change this the names that are used in the config for the current shop will apply after you reload the plugin with /sreload.
+# Option 'enable': means if you want to enable this shop section in the main shop.
+# Option 'material': means what type of block/item you want to set the shop section to.
+# Option 'displayname': is the name of the item in the main shop menu. (You can use all color codes, listed here: https://www.digminecraft.com/lists/color_list_pc.php)
+# Option 'place': means in what slot you want to place the item in the main shop menu.
+# Option 'potion/glow": if set to true the potion has a glow effect, if set to false the potion has none potion effect (material has to be "potion" for this effect to work)
+# Option 'lore': this option makes it possible for you to create custom lore on a item (Any minecraft color codes can be used)
+
+ShopSections:
+  Dirt:
+    enable: true
+    material: GRASS_BLOCK
+    displayname: '&2&lDirt'
+    slot: 10
+  Woods:
+    enable: true
+    material: OAK_LOG
+    displayname: '&2&lWoods'
+    slot: 11
+  Stones:
+    enable: true
+    material: STONE
+    displayname: '&2&lStones'
+    slot: 12
+  Concrete:
+    enable: true
+    material: LIGHT_GRAY_CONCRETE
+    displayname: '&2&lConcrete'
+    slot: 13
+  Glass:
+    enable: true
+    material: CYAN_stained_Glass
+    displayname: '&2&lGlass'
+    slot: 14
+  Wool:
+    enable: true
+    material: White_WOOL
+    displayname: '&2&lWool'
+    slot: 15
+  Lighting:
+    enable: true
+    material: LANTERN
+    displayname: '&2&lLighting'
+    slot: 16
+  Ores:
+    enable: true
+    material: IRON_INGOT
+    displayname: '&f&lOres'
+    slot: 19
+  Farming:
+    enable: true
+    material: WHEAT
+    displayname: '&a&lFarming'
+    slot: 20
+  Food:
+    enable: true
+    material: COOKED_BEEF
+    displayname: '&6&lFood'
+    slot: 21
+  Mobs:
+    enable: true
+    material: GUNPOWDER
+    displayname: '&7&lMobs'
+    slot: 22
+  Music:
+    enable: true
+    material: MUSIC_DISC_STRAD
+    displayname: '&6&lMusic'
+    slot: 23
+  Dyes:
+    enable: true
+    material: CYAN_DYE
+    displayname: '&2&lDyes'
+    slot: 24
+  Decoration:
+    enable: true
+    material: TUBE_CORAL
+    displayname: '&2&lDecoration'
+    slot: 25
+  Workstations:
+    enable: true
+    material: GRINDSTONE
+    displayname: '&7&lWorkstations'
+    lore:
+    - '&8&lGive your villager a job,'
+    - '&8&lor use it for your own.'
+    slot: 28
+  Nether:
+    enable: true
+    material: NETHERRACK
+    displayname: '&d&lNether'
+    slot: 31
+  End:
+    enable: true
+    material: END_STONE
+    displayname: '&d&lEnd'
+    slot: 32
+  Redstone:
+    enable: true
+    material: REDSTONE
+    displayname: '&c&lRedstone'
+    lore:
+    - '&4&lFor all redstone geeks!'
+    slot: 33
+  Others:
+    enable: true
+    material: SADDLE
+    displayname: '&c&lOthers'
+    slot: 34
+  Spawners:
+    enable: true
+    material: SPAWNER
+    displayname: '&8&lSpawners'
+    slot: 29
+  SpawnEggs:
+    enable: true
+    material: BAT_SPAWN_EGG
+    displayname: '&8&lSpawnEggs'
+    slot: 30

@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: true
+jailed: false
+ip-address: 185.65.134.252
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 1674842096707
+  jail: 0
+  onlinejail: 0
+  logout: 1674770704236
+  login: 1674770697879
+money: '0'
+last-account-name: Kadil0
+logoutlocation:
+  world: 9283c03b-cc8a-4b0e-97b1-122f962770c5
+  world-name: world
+  x: 24.5
+  y: 64.0
+  z: -19.5
+  yaw: 157.38632202148438
+  pitch: 48.56348419189453

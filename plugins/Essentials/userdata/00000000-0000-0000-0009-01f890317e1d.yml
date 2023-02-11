@@ -1,0 +1,55 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 185.113.38.198
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1675594827417
+  login: 1675594506482
+money: '1732.69000000000009'
+last-account-name: .Kadil0
+logoutlocation:
+  world: c98e554d-a809-467b-a0c6-109999f222aa
+  world-name: world
+  x: 47.64177
+  y: 117.67272
+  z: 206.01016
+  yaw: 172.21221923828125
+  pitch: 37.73223876953125
+lastlocation:
+  world: c98e554d-a809-467b-a0c6-109999f222aa
+  world-name: world
+  x: 63.12751
+  y: 136.14388
+  z: 225.5612
+  yaw: -145.8582305908203
+  pitch: 48.97914123535156
+homes:
+  home:
+    world: c98e554d-a809-467b-a0c6-109999f222aa
+    world-name: world
+    x: 67.25792
+    y: 103.0
+    z: 216.11838
+    yaw: 85.20480346679688
+    pitch: 40.822479248046875
+  kad:
+    world: c98e554d-a809-467b-a0c6-109999f222aa
+    world-name: world
+    x: 69.15311
+    y: 102.0
+    z: 216.01094
+    yaw: 86.77728271484375
+    pitch: 41.09123229980469

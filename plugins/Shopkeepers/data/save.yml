@@ -1,0 +1,186 @@
+# This file is not intended to be manually modified! If you want to manually edit this file anyways, ensure that the server is not running currently and that you have prepared a backup of this file.
+
+data-version: 3|2|3218
+'2':
+  uniqueId: b33e4ab0-06f1-4e68-9f4a-c2f56927e1d3
+  world: world
+  x: 81
+  y: 64
+  z: -17
+  yaw: 1.4713948
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: ARMORER
+    villagerType: SAVANNA
+    villagerLevel: 1
+  recipes: {}
+  snapshots: []
+'3':
+  uniqueId: a8e20046-eeb6-419d-8517-065e40d459fe
+  world: world
+  x: 84
+  y: 65
+  z: -12
+  yaw: 90.0
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: LIBRARIAN
+    villagerType: SWAMP
+    villagerLevel: 3
+  recipes: {}
+  snapshots: []
+'4':
+  uniqueId: b5112eff-dc51-46aa-a24b-cefaea45e60e
+  world: world
+  x: 78
+  y: 64
+  z: -12
+  yaw: 47.660027
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: FISHERMAN
+    villagerType: SAVANNA
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3218
+        type: DIAMOND_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 2
+          repair-cost: 1
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3218
+        type: DIAMOND_ORE
+        amount: 10
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3218
+        type: DIAMOND_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 2
+          repair-cost: 1
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3218
+        type: DIAMOND_ORE
+        amount: 10
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3218
+        type: DIAMOND_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 2
+          repair-cost: 1
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3218
+        type: DIAMOND_ORE
+        amount: 10
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3218
+        type: DIAMOND_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          enchants:
+            DURABILITY: 2
+          repair-cost: 1
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3218
+        type: DIAMOND_ORE
+        amount: 10
+  snapshots: []
+'5':
+  uniqueId: 98b2e201-daa0-4f5a-8d14-fe97fa920482
+  world: world
+  x: 84
+  y: 64
+  z: -12
+  yaw: 90.0
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: true
+    profession: NONE
+    villagerType: SNOW
+    villagerLevel: 5
+  recipes: {}
+  snapshots: []
+'6':
+  uniqueId: cfbdda5e-fe0e-4884-9082-958aed27d570
+  world: world
+  x: 37
+  y: 105
+  z: 216
+  yaw: 270.0
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes: {}
+  snapshots: []
+'7':
+  uniqueId: 6bee000f-a994-4e82-ad41-025b2a99b6c3
+  world: world
+  x: 49
+  y: 104
+  z: 193
+  yaw: 330.77188
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: true
+    profession: ARMORER
+    villagerType: SWAMP
+    villagerLevel: 1
+  recipes: {}
+  snapshots: []
+'8':
+  uniqueId: b27521e1-3668-4efd-9ec7-d4dd2602cffe
+  world: world
+  x: 40
+  y: 104
+  z: 220
+  yaw: 270.0
+  type: admin
+  name: ''
+  object:
+    type: villager
+    baby: false
+    profession: NONE
+    villagerType: PLAINS
+    villagerLevel: 1
+  recipes: {}
+  snapshots: []
